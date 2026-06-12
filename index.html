@@ -1,0 +1,93 @@
+<!doctype html>
+<html lang="ja">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta
+      name="description"
+      content="濱口貴光｜AIとデータサイエンスが好きな薬剤師のnote記事データベース。記事を検索、カテゴリ絞り込み、タグ確認できます。"
+    />
+    <title>濱口貴光 note記事データベース</title>
+    <link rel="stylesheet" href="styles.css" />
+    <script src="app.js" defer></script>
+  </head>
+  <body>
+    <header class="site-header">
+      <a class="brand" href="#top" aria-label="note記事データベースの先頭へ">
+        <span class="brand-mark" aria-hidden="true">薬</span>
+        <span>note記事DB</span>
+      </a>
+      <nav class="site-nav" aria-label="ページ内ナビゲーション">
+        <a href="#articles">記事一覧</a>
+        <a href="#categories">カテゴリ</a>
+        <a href="https://note.com/pharma_i_cist" target="_blank" rel="noreferrer">note</a>
+      </nav>
+      <button class="icon-button" id="downloadButton" type="button" aria-label="記事データをJSONで保存">
+        <span aria-hidden="true">↓</span>
+        <span>JSON</span>
+      </button>
+    </header>
+
+    <main id="top">
+      <section class="hero" aria-labelledby="pageTitle">
+        <div class="hero-copy">
+          <p class="eyebrow">AI and pharmacy writing archive</p>
+          <h1 id="pageTitle">濱口貴光 note記事データベース</h1>
+          <p class="lead">
+            「AIとデータサイエンスが好きな薬剤師」のnote記事を、タイトル、要約、タグ、カテゴリからすばやく探せる閲覧用データベースです。
+          </p>
+          <div class="hero-actions">
+            <a class="button primary" href="#articles">記事を探す</a>
+            <a class="button secondary" href="https://note.com/pharma_i_cist" target="_blank" rel="noreferrer">noteで読む</a>
+          </div>
+        </div>
+
+        <section class="summary-panel" aria-label="記事データの概要">
+          <div class="summary-stat">
+            <span id="totalArticles">0</span>
+            <p>登録記事</p>
+          </div>
+          <div class="summary-grid" id="summaryGrid"></div>
+        </section>
+      </section>
+
+      <section class="controls" aria-label="検索と絞り込み">
+        <div class="control-grid">
+          <label class="search-box">
+            <span>検索</span>
+            <input
+              id="searchInput"
+              type="search"
+              autocomplete="off"
+              placeholder="タイトル・要約・タグを検索"
+            />
+          </label>
+
+          <label class="select-box">
+            <span>並べ替え</span>
+            <select id="sortSelect">
+              <option value="new">新しい順</option>
+              <option value="old">古い順</option>
+              <option value="title">タイトル順</option>
+            </select>
+          </label>
+        </div>
+
+        <div class="category-strip" id="categories" aria-label="カテゴリで絞り込み"></div>
+      </section>
+
+      <section class="article-section" id="articles" aria-labelledby="articleHeading">
+        <div class="section-heading">
+          <div>
+            <p class="eyebrow">Articles</p>
+            <h2 id="articleHeading">記事一覧</h2>
+          </div>
+          <p class="result-count" id="resultCount" aria-live="polite">読み込み中</p>
+        </div>
+
+        <div class="active-filter" id="activeFilter" hidden></div>
+        <div class="article-list" id="articleList"></div>
+      </section>
+    </main>
+  </body>
+</html>
