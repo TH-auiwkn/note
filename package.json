@@ -1,0 +1,15 @@
+{
+  "name": "apple-design",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Project scaffold with AGENTS.md guidance that requires reading Design.md before UI changes.",
+  "scripts": {
+    "fetch:articles": "node scripts/fetch-note-articles.mjs",
+    "update:note-viewer": "python3 scripts/update-pharma-note-viewer.py",
+    "build:note-db": "python3 scripts/build-note-search-db.py",
+    "search:note-db": "python3 scripts/search-note-db.py",
+    "dev": "python3 -m http.server 4173"
+  },
+  "dependencies": {},
+  "devDependencies": {}
+}
