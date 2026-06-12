@@ -14,7 +14,7 @@ const state = {
   query: "",
   category: "all",
   tag: "",
-  sort: "new",
+  sort: "relevance",
 };
 
 const elements = {
@@ -35,6 +35,28 @@ const dateFormatter = new Intl.DateTimeFormat("ja-JP", {
   month: "2-digit",
   day: "2-digit",
 });
+const japaneseStopTerms = new Set([
+  "する",
+  "した",
+  "して",
+  "され",
+  "れる",
+  "ある",
+  "いる",
+  "これ",
+  "それ",
+  "ため",
+  "こと",
+  "もの",
+  "よう",
+  "から",
+  "について",
+  "という",
+  "ます",
+  "です",
+  "では",
+  "には",
+]);
 
 function escapeHtml(value) {
   return String(value ?? "")
@@ -43,6 +65,108 @@ function escapeHtml(value) {
     .replaceAll(">", "&gt;")
     .replaceAll('"', "&quot;")
     .replaceAll("'", "&#039;");
+}
+
+function normalizeSearchText(value) {
+  return String(value ?? "")
+    .normalize("NFKC")
+    .toLowerCase()
+    .replace(/[＃#]/g, " ")
+    .replace(/[、。，．・/／\\|:：;；!?！？()[\]{}「」『』【】"'“”‘’<>〈〉《》\n\r\t]/g, " ")
+    .replace(/\s+/g, " ")
+    .trim();
+}
+
+function addSearchTerm(terms, value, weight) {
+  const term = normalizeSearchText(value);
+  if (!term || term.length < 2 || japaneseStopTerms.has(term)) return;
+  terms.set(term, Math.max(terms.get(term) || 0, weight));
+}
+
+function addJapaneseNgrams(terms, value) {
+  const chars = [...value];
+  if (chars.length < 3) return;
+
+  for (const size of [2, 3]) {
+    for (let i = 0; i <= chars.length - size; i += 1) {
+      const gram = chars.slice(i, i + size).join("");
+      if (!/[\p{Script=Han}\p{Script=Katakana}]/u.test(gram)) continue;
+      addSearchTerm(terms, gram, size === 2 ? 0.45 : 0.7);
+    }
+  }
+}
+
+function buildQueryProfile(query) {
+  const normalized = normalizeSearchText(query);
+  const terms = new Map();
+
+  if (!normalized) return { normalized, terms: [] };
+  if (normalized.length >= 4) addSearchTerm(terms, normalized, 5);
+
+  const segments = normalized.match(/[a-z0-9]+|[\p{Script=Han}\p{Script=Hiragana}\p{Script=Katakana}ー]+/gu) || [];
+  segments.forEach((segment) => {
+    if (/^[a-z0-9]+$/u.test(segment)) {
+      addSearchTerm(terms, segment, segment.length >= 4 ? 2.4 : 1.6);
+      return;
+    }
+
+    const kanjiTerms = segment.match(/\p{Script=Han}{2,}/gu) || [];
+    kanjiTerms.forEach((term) => addSearchTerm(terms, term, 2.8));
+
+    const katakanaTerms = segment.match(/[\p{Script=Katakana}ー]{2,}/gu) || [];
+    katakanaTerms.forEach((term) => addSearchTerm(terms, term, 2.4));
+
+    if (segment.length <= 8 && /[\p{Script=Han}\p{Script=Katakana}]/u.test(segment)) {
+      addSearchTerm(terms, segment, 1.8);
+    }
+    addJapaneseNgrams(terms, segment);
+  });
+
+  return {
+    normalized,
+    terms: [...terms.entries()].map(([value, weight]) => ({ value, weight })),
+  };
+}
+
+function buildArticleSearchText(article) {
+  return {
+    title: normalizeSearchText(article.title),
+    summary: normalizeSearchText(article.summary),
+    category: normalizeSearchText(getCategoryLabel(article.category)),
+    tags: normalizeSearchText(article.tags.join(" ")),
+  };
+}
+
+function scoreArticle(article, queryProfile) {
+  if (!queryProfile.terms.length) return 0;
+
+  const fields = buildArticleSearchText(article);
+  const haystack = `${fields.title} ${fields.summary} ${fields.category} ${fields.tags}`;
+  let score = 0;
+
+  if (queryProfile.normalized.length >= 4) {
+    if (fields.title.includes(queryProfile.normalized)) score += 12;
+    if (fields.summary.includes(queryProfile.normalized)) score += 7;
+  }
+
+  queryProfile.terms.forEach(({ value, weight }) => {
+    if (!haystack.includes(value)) return;
+    score += weight;
+    if (fields.title.includes(value)) score += weight * 3.2;
+    if (fields.tags.includes(value)) score += weight * 3;
+    if (fields.category.includes(value)) score += weight * 1.4;
+    if (fields.summary.includes(value)) score += weight * 1.2;
+  });
+
+  return score;
+}
+
+function minimumRelevanceScore(queryProfile) {
+  if (!queryProfile.terms.length) return 0;
+
+  const strongTerms = queryProfile.terms.filter((term) => term.weight >= 1.5).length;
+  if (!strongTerms) return 1.5;
+  return Math.max(4, Math.min(22, strongTerms * 3));
 }
 
 function normalizeArticle(article) {
@@ -88,30 +212,22 @@ function getPopularTags(limit = 12) {
 }
 
 function getFilteredArticles() {
-  const words = state.query
-    .trim()
-    .toLowerCase()
-    .split(/\s+/)
-    .filter(Boolean);
+  const queryProfile = buildQueryProfile(state.query);
+  const minScore = minimumRelevanceScore(queryProfile);
 
-  const filtered = state.articles.filter((article) => {
+  const filtered = state.articles
+    .map((article) => ({ ...article, relevanceScore: scoreArticle(article, queryProfile) }))
+    .filter((article) => {
     if (state.category !== "all" && article.category !== state.category) return false;
     if (state.tag && !article.tags.includes(state.tag)) return false;
-    if (!words.length) return true;
-
-    const haystack = [
-      article.title,
-      article.summary,
-      getCategoryLabel(article.category),
-      article.tags.join(" "),
-    ]
-      .join(" ")
-      .toLowerCase();
-
-    return words.every((word) => haystack.includes(word));
+    if (!queryProfile.terms.length) return true;
+    return article.relevanceScore >= minScore;
   });
 
   return filtered.sort((a, b) => {
+    if (state.sort === "relevance" && queryProfile.terms.length) {
+      return b.relevanceScore - a.relevanceScore || b.date.localeCompare(a.date);
+    }
     if (state.sort === "title") return a.title.localeCompare(b.title, "ja");
     if (state.sort === "old") return a.date.localeCompare(b.date);
     return b.date.localeCompare(a.date);
