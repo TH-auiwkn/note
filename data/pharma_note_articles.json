@@ -1,11 +1,28 @@
 {
   "source": "https://note.com/pharma_i_cist",
   "api": "https://note.com/api/v2/creators/pharma_i_cist/contents",
-  "generatedAt": "2026-06-12T22:57:10.586905+09:00",
+  "generatedAt": "2026-06-12T23:22:10.443441+00:00",
   "startDate": "2025-03-16",
   "timezone": "Asia/Tokyo",
-  "articleCount": 344,
+  "articleCount": 345,
   "articles": [
+    {
+      "id": "neda246099281",
+      "title": "生成AIからの「考えるための問いかけ」は、人間の判断を支援できるのか",
+      "url": "https://note.com/pharma_i_cist/n/neda246099281",
+      "date": "2026-06-13",
+      "category": "literacy",
+      "tags": [
+        "ChatGPT",
+        "リスク",
+        "薬剤師",
+        "調剤薬局",
+        "GPTsつくってみた",
+        "論文",
+        "研究"
+      ],
+      "summary": "元論文：https://dl.acm.org/doi/10.1145/3544548.3580672 今回の研究は、生成AIがユーザーからの質問に対して「考えるための問いかけ」を提示することで、人間の判断をよりよく支援できるのかを検証したものです。 著者らは、生成AIが人間の判断を支援する場面において、人間が生成AIの出力をそのまま受け入れてしまい、自分で批…"
+    },
     {
       "id": "n63909e4485bd",
       "title": "Gemini in Chromeで「スキル」を使ってみましょう",
