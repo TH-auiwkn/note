@@ -1,0 +1,349 @@
+const DATA_URL = "data/pharma_note_articles.json";
+const PROFILE_URL = "https://note.com/pharma_i_cist";
+
+const categories = [
+  { id: "news", label: "AIニュース・研究" },
+  { id: "usage", label: "生成AI活用案" },
+  { id: "literacy", label: "AIリテラシー" },
+  { id: "security", label: "IT・情報セキュリティ" },
+  { id: "blog", label: "ブログ運営・その他" },
+];
+
+const state = {
+  articles: [],
+  query: "",
+  category: "all",
+  tag: "",
+  sort: "new",
+};
+
+const elements = {
+  totalArticles: document.querySelector("#totalArticles"),
+  summaryGrid: document.querySelector("#summaryGrid"),
+  searchInput: document.querySelector("#searchInput"),
+  sortSelect: document.querySelector("#sortSelect"),
+  categories: document.querySelector("#categories"),
+  articleList: document.querySelector("#articleList"),
+  resultCount: document.querySelector("#resultCount"),
+  activeFilter: document.querySelector("#activeFilter"),
+  downloadButton: document.querySelector("#downloadButton"),
+};
+
+const categoryById = new Map(categories.map((category) => [category.id, category]));
+const dateFormatter = new Intl.DateTimeFormat("ja-JP", {
+  year: "numeric",
+  month: "2-digit",
+  day: "2-digit",
+});
+
+function escapeHtml(value) {
+  return String(value ?? "")
+    .replaceAll("&", "&amp;")
+    .replaceAll("<", "&lt;")
+    .replaceAll(">", "&gt;")
+    .replaceAll('"', "&quot;")
+    .replaceAll("'", "&#039;");
+}
+
+function normalizeArticle(article) {
+  return {
+    id: String(article.id || article.url || article.title),
+    title: String(article.title || "無題の記事"),
+    url: String(article.url || ""),
+    date: String(article.date || ""),
+    category: categoryById.has(article.category) ? article.category : "blog",
+    tags: Array.isArray(article.tags) ? article.tags.map(String).filter(Boolean) : [],
+    summary: String(article.summary || ""),
+  };
+}
+
+function formatDate(value) {
+  if (!value) return "日付未登録";
+  const date = new Date(`${value}T00:00:00+09:00`);
+  if (Number.isNaN(date.valueOf())) return value;
+  return dateFormatter.format(date);
+}
+
+function getCategoryLabel(id) {
+  return categoryById.get(id)?.label || "未分類";
+}
+
+function getStats() {
+  return categories.map((category) => ({
+    ...category,
+    count: state.articles.filter((article) => article.category === category.id).length,
+  }));
+}
+
+function getPopularTags(limit = 12) {
+  const counts = new Map();
+  state.articles.forEach((article) => {
+    article.tags.forEach((tag) => counts.set(tag, (counts.get(tag) || 0) + 1));
+  });
+
+  return [...counts.entries()]
+    .sort((a, b) => b[1] - a[1] || a[0].localeCompare(b[0], "ja"))
+    .slice(0, limit)
+    .map(([tag, count]) => ({ tag, count }));
+}
+
+function getFilteredArticles() {
+  const words = state.query
+    .trim()
+    .toLowerCase()
+    .split(/\s+/)
+    .filter(Boolean);
+
+  const filtered = state.articles.filter((article) => {
+    if (state.category !== "all" && article.category !== state.category) return false;
+    if (state.tag && !article.tags.includes(state.tag)) return false;
+    if (!words.length) return true;
+
+    const haystack = [
+      article.title,
+      article.summary,
+      getCategoryLabel(article.category),
+      article.tags.join(" "),
+    ]
+      .join(" ")
+      .toLowerCase();
+
+    return words.every((word) => haystack.includes(word));
+  });
+
+  return filtered.sort((a, b) => {
+    if (state.sort === "title") return a.title.localeCompare(b.title, "ja");
+    if (state.sort === "old") return a.date.localeCompare(b.date);
+    return b.date.localeCompare(a.date);
+  });
+}
+
+function renderStats() {
+  elements.totalArticles.textContent = state.articles.length.toLocaleString("ja-JP");
+  elements.summaryGrid.innerHTML = getStats()
+    .map(
+      (category) => `
+        <div class="mini-stat">
+          <strong>${category.count.toLocaleString("ja-JP")}</strong>
+          <span>${escapeHtml(category.label)}</span>
+        </div>
+      `,
+    )
+    .join("");
+}
+
+function renderCategoryControls() {
+  const stats = getStats();
+  const categoryButtons = [
+    { id: "all", label: "すべて", count: state.articles.length },
+    ...stats,
+  ];
+  const tagButtons = getPopularTags();
+
+  elements.categories.innerHTML = `
+    <div class="filter-row" role="list" aria-label="カテゴリ">
+      ${categoryButtons
+        .map(
+          (category) => `
+            <button
+              class="segment ${state.category === category.id ? "active" : ""}"
+              type="button"
+              data-category="${escapeHtml(category.id)}"
+              aria-pressed="${state.category === category.id}"
+            >
+              <span>${escapeHtml(category.label)}</span>
+              <strong>${category.count.toLocaleString("ja-JP")}</strong>
+            </button>
+          `,
+        )
+        .join("")}
+    </div>
+    <div class="filter-row tags-row" role="list" aria-label="よく使われるタグ">
+      ${tagButtons
+        .map(
+          ({ tag, count }) => `
+            <button
+              class="tag-button ${state.tag === tag ? "active" : ""}"
+              type="button"
+              data-tag="${escapeHtml(tag)}"
+              aria-pressed="${state.tag === tag}"
+            >
+              #${escapeHtml(tag)}
+              <span>${count.toLocaleString("ja-JP")}</span>
+            </button>
+          `,
+        )
+        .join("")}
+    </div>
+  `;
+}
+
+function renderActiveFilter() {
+  const labels = [];
+  if (state.category !== "all") labels.push(getCategoryLabel(state.category));
+  if (state.tag) labels.push(`#${state.tag}`);
+  if (state.query.trim()) labels.push(`検索: ${state.query.trim()}`);
+
+  if (!labels.length) {
+    elements.activeFilter.hidden = true;
+    elements.activeFilter.innerHTML = "";
+    return;
+  }
+
+  elements.activeFilter.hidden = false;
+  elements.activeFilter.innerHTML = `
+    <span>${escapeHtml(labels.join(" / "))}</span>
+    <button type="button" id="clearFilters">条件をクリア</button>
+  `;
+}
+
+function articleTemplate(article) {
+  const tags = article.tags
+    .map(
+      (tag) => `
+        <button class="inline-tag" type="button" data-tag="${escapeHtml(tag)}">
+          #${escapeHtml(tag)}
+        </button>
+      `,
+    )
+    .join("");
+
+  const title = escapeHtml(article.title);
+  const titleContent = article.url
+    ? `<a href="${escapeHtml(article.url)}" target="_blank" rel="noreferrer">${title}</a>`
+    : title;
+
+  return `
+    <article class="article-card">
+      <div class="article-meta">
+        <span>${escapeHtml(getCategoryLabel(article.category))}</span>
+        <time datetime="${escapeHtml(article.date)}">${escapeHtml(formatDate(article.date))}</time>
+      </div>
+      <h3>${titleContent}</h3>
+      <p>${escapeHtml(article.summary || "要約は登録されていません。")}</p>
+      <div class="article-footer">
+        <div class="tag-list">${tags}</div>
+        ${
+          article.url
+            ? `<a class="read-link" href="${escapeHtml(article.url)}" target="_blank" rel="noreferrer">noteで読む</a>`
+            : `<span class="read-link muted">リンク未登録</span>`
+        }
+      </div>
+    </article>
+  `;
+}
+
+function renderArticles() {
+  const articles = getFilteredArticles();
+  elements.resultCount.textContent = `${articles.length.toLocaleString("ja-JP")}件を表示中`;
+  renderActiveFilter();
+
+  if (!articles.length) {
+    elements.articleList.innerHTML = `
+      <div class="empty-state">
+        <h3>条件に合う記事がありません</h3>
+        <p>検索語、カテゴリ、タグの条件を少し広げてみてください。</p>
+      </div>
+    `;
+    return;
+  }
+
+  elements.articleList.innerHTML = articles.map(articleTemplate).join("");
+}
+
+function renderAll() {
+  renderStats();
+  renderCategoryControls();
+  renderArticles();
+}
+
+function downloadJson() {
+  const payload = JSON.stringify(
+    {
+      source: PROFILE_URL,
+      articleCount: state.articles.length,
+      exportedAt: new Date().toISOString(),
+      articles: state.articles,
+    },
+    null,
+    2,
+  );
+  const blob = new Blob([payload], { type: "application/json" });
+  const url = URL.createObjectURL(blob);
+  const link = document.createElement("a");
+  link.href = url;
+  link.download = "pharma_note_articles.json";
+  link.click();
+  URL.revokeObjectURL(url);
+}
+
+async function loadArticles() {
+  try {
+    const response = await fetch(DATA_URL);
+    if (!response.ok) throw new Error(`HTTP ${response.status}`);
+    const payload = await response.json();
+    const articles = Array.isArray(payload) ? payload : payload.articles;
+    if (!Array.isArray(articles)) throw new Error("Article array not found");
+    state.articles = articles.map(normalizeArticle);
+    renderAll();
+  } catch (error) {
+    elements.resultCount.textContent = "読み込みに失敗しました";
+    elements.articleList.innerHTML = `
+      <div class="empty-state">
+        <h3>記事データを読み込めませんでした</h3>
+        <p>ローカルサーバー経由で開いているか確認してください。詳細: ${escapeHtml(error.message)}</p>
+      </div>
+    `;
+  }
+}
+
+elements.searchInput.addEventListener("input", (event) => {
+  state.query = event.target.value;
+  renderArticles();
+});
+
+elements.sortSelect.addEventListener("change", (event) => {
+  state.sort = event.target.value;
+  renderArticles();
+});
+
+elements.categories.addEventListener("click", (event) => {
+  const categoryButton = event.target.closest("[data-category]");
+  const tagButton = event.target.closest("[data-tag]");
+
+  if (categoryButton) {
+    state.category = categoryButton.dataset.category;
+    renderCategoryControls();
+    renderArticles();
+  }
+
+  if (tagButton) {
+    const nextTag = tagButton.dataset.tag;
+    state.tag = state.tag === nextTag ? "" : nextTag;
+    renderCategoryControls();
+    renderArticles();
+  }
+});
+
+elements.articleList.addEventListener("click", (event) => {
+  const tagButton = event.target.closest("[data-tag]");
+  if (!tagButton) return;
+  state.tag = tagButton.dataset.tag;
+  renderCategoryControls();
+  renderArticles();
+  document.querySelector("#articles").scrollIntoView({ block: "start" });
+});
+
+elements.activeFilter.addEventListener("click", (event) => {
+  if (event.target.id !== "clearFilters") return;
+  state.query = "";
+  state.category = "all";
+  state.tag = "";
+  elements.searchInput.value = "";
+  renderCategoryControls();
+  renderArticles();
+});
+
+elements.downloadButton.addEventListener("click", downloadJson);
+
+loadArticles();
