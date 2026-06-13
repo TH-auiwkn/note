@@ -1,11 +1,27 @@
 {
   "source": "https://note.com/pharma_i_cist",
   "api": "https://note.com/api/v2/creators/pharma_i_cist/contents",
-  "generatedAt": "2026-06-12T23:22:10.443441+00:00",
+  "generatedAt": "2026-06-13T23:10:20.646362+00:00",
   "startDate": "2025-03-16",
   "timezone": "Asia/Tokyo",
-  "articleCount": 345,
+  "articleCount": 346,
   "articles": [
+    {
+      "id": "n318de6d0d00a",
+      "title": "あえてAIの説明を全て見せないほうが、ユーザーはよく考えてくれる？",
+      "url": "https://note.com/pharma_i_cist/n/n318de6d0d00a",
+      "date": "2026-06-14",
+      "category": "news",
+      "tags": [
+        "思考",
+        "研究",
+        "判断",
+        "薬剤師",
+        "論文",
+        "調剤薬局"
+      ],
+      "summary": "元論文：https://dl.acm.org/doi/10.1145/3710946 今回の研究は、AIの提案に人間が過度に依存してしまうリスクを減らす手段として、AIの説明をすべて見せずに一部だけを提示する「partial explanations」について提案・検証したものです。 研究の方法Study I：最短経路課題 Study Iでは、264名の参加…"
+    },
     {
       "id": "neda246099281",
       "title": "生成AIからの「考えるための問いかけ」は、人間の判断を支援できるのか",
