@@ -1,11 +1,43 @@
 {
   "source": "https://note.com/pharma_i_cist",
   "api": "https://note.com/api/v2/creators/pharma_i_cist/contents",
-  "generatedAt": "2026-06-13T23:10:20.646362+00:00",
+  "generatedAt": "2026-06-15T23:49:54.545340+00:00",
   "startDate": "2025-03-16",
   "timezone": "Asia/Tokyo",
-  "articleCount": 346,
+  "articleCount": 348,
   "articles": [
+    {
+      "id": "nabc7a6f11176",
+      "title": "複数のAIから助言を受けることで、人間の判断はどう変化する？",
+      "url": "https://note.com/pharma_i_cist/n/nabc7a6f11176",
+      "date": "2026-06-16",
+      "category": "literacy",
+      "tags": [
+        "変化",
+        "研究",
+        "判断",
+        "薬剤師",
+        "論文",
+        "調剤薬局"
+      ],
+      "summary": "今回の研究は、複数のAIから助言を受けることで人間の判断の質は向上するのかを検証したものです。 具体的には、「助言をくれるAIの数」「AI同士の意見の一致度」「AIの『人間らしい』助言の方法」が、人間の判断の精度、AIの助言への依存性、および同調圧力にどう影響するかを検証しています。 研究の方法1. 課題 実験では、参加者が「Income」「Recidivi…"
+    },
+    {
+      "id": "n5633f2344cd8",
+      "title": "Claude Fable 5からOpus 4.8に自動で切り替わった事例集",
+      "url": "https://note.com/pharma_i_cist/n/n5633f2344cd8",
+      "date": "2026-06-15",
+      "category": "security",
+      "tags": [
+        "Claude",
+        "リスク",
+        "薬剤師",
+        "Anthropic",
+        "調剤薬局",
+        "安全性"
+      ],
+      "summary": "2026年6月12日付で、米国政府は国家安全保障上の権限を根拠に、Fable 5とMythos 5への外国籍者のアクセス停止を命じました [11] 。 Anthropicは、「政府側はFable 5の安全対策を回避するジェイルブレイクに関する事項を懸念している」と述べていますが、その手法で確認されたのは既知かつ軽微な脆弱性の発見であり、他のモデルでも発見が可…"
+    },
     {
       "id": "n318de6d0d00a",
       "title": "あえてAIの説明を全て見せないほうが、ユーザーはよく考えてくれる？",
