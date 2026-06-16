@@ -1,11 +1,27 @@
 {
   "source": "https://note.com/pharma_i_cist",
   "api": "https://note.com/api/v2/creators/pharma_i_cist/contents",
-  "generatedAt": "2026-06-15T23:49:54.545340+00:00",
+  "generatedAt": "2026-06-16T23:26:32.013884+00:00",
   "startDate": "2025-03-16",
   "timezone": "Asia/Tokyo",
-  "articleCount": 348,
+  "articleCount": 349,
   "articles": [
+    {
+      "id": "n9511eb603557",
+      "title": "「AIっぽい文章」という指摘は、本当にAI生成文であることを見抜いているのか",
+      "url": "https://note.com/pharma_i_cist/n/n9511eb603557",
+      "date": "2026-06-17",
+      "category": "news",
+      "tags": [
+        "SNS",
+        "投稿",
+        "リスク",
+        "薬剤師",
+        "調剤薬局",
+        "研究"
+      ],
+      "summary": "従来、整った文章を書くには一定の知識や努力、そして時間が必要でしたが、生成AIの登場や性能の向上によってその前提は覆されつつあると言えるでしょう。 見方を変えれば、以前は整った文章自体が書き手の努力や知識の「証」となっていましたが、生成AIによってその証が簡単に複製できるようになったとも言えます。 今回の研究はこのような変化に関連して、人々が他者の文章を「A…"
+    },
     {
       "id": "nabc7a6f11176",
       "title": "複数のAIから助言を受けることで、人間の判断はどう変化する？",
