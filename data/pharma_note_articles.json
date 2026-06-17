@@ -1,11 +1,29 @@
 {
   "source": "https://note.com/pharma_i_cist",
   "api": "https://note.com/api/v2/creators/pharma_i_cist/contents",
-  "generatedAt": "2026-06-16T23:26:32.013884+00:00",
+  "generatedAt": "2026-06-17T23:42:33.281368+00:00",
   "startDate": "2025-03-16",
   "timezone": "Asia/Tokyo",
-  "articleCount": 349,
+  "articleCount": 350,
   "articles": [
+    {
+      "id": "n5b4fdf6f36a0",
+      "title": "机の裏に隠れた小さなタグが、キーボードの入力を読む？",
+      "url": "https://note.com/pharma_i_cist/n/n5b4fdf6f36a0",
+      "date": "2026-06-18",
+      "category": "news",
+      "tags": [
+        "リスク",
+        "薬剤師",
+        "セキュリティ",
+        "キーボード",
+        "音",
+        "入力",
+        "振動",
+        "調剤薬局"
+      ],
+      "summary": "今回の研究は、キーボード入力時の振動や音を拾い、壁越しや長距離でも打鍵内容を推定できるシステム「RadKey」に関するものです。 念のためお断りしておくと、今回の研究はあくまで「キーボードで入力された文字が、Radkeyのような仕組みで推定される恐れがある」と防御側に警鐘を鳴らす目的で発表されています。 Radkeyとは簡潔に言うと、「机の裏にある小さなセン…"
+    },
     {
       "id": "n9511eb603557",
       "title": "「AIっぽい文章」という指摘は、本当にAI生成文であることを見抜いているのか",
