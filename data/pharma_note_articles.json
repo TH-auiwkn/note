@@ -1,11 +1,28 @@
 {
   "source": "https://note.com/pharma_i_cist",
   "api": "https://note.com/api/v2/creators/pharma_i_cist/contents",
-  "generatedAt": "2026-06-17T23:42:33.281368+00:00",
+  "generatedAt": "2026-06-18T23:48:36.314983+00:00",
   "startDate": "2025-03-16",
   "timezone": "Asia/Tokyo",
-  "articleCount": 350,
+  "articleCount": 351,
   "articles": [
+    {
+      "id": "n9b36066af92c",
+      "title": "Google Vidsで、自分のWebサイトのプロモーション動画を作ってみる",
+      "url": "https://note.com/pharma_i_cist/n/n9b36066af92c",
+      "date": "2026-06-19",
+      "category": "usage",
+      "tags": [
+        "動画",
+        "Gemini",
+        "Google",
+        "薬剤師",
+        "調剤薬局",
+        "AIで遊ぼう",
+        "GoogleVids"
+      ],
+      "summary": "Google Vidsは、非常にざっくり言うと「AI機能が搭載された動画作成ツール」です。企画から編集までをブラウザ上で完結でき、専門知識がなくてもビジネス向けの動画を簡単に作成できます。 そもそも私は動画で情報を発信するタイプではないので、Google Vidsはあまり使ったことがなかったのですが、noteの投稿コンテスト「#AIで遊ぼう」が開催されている…"
+    },
     {
       "id": "n5b4fdf6f36a0",
       "title": "机の裏に隠れた小さなタグが、キーボードの入力を読む？",
