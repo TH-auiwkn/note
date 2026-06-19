@@ -1,11 +1,28 @@
 {
   "source": "https://note.com/pharma_i_cist",
   "api": "https://note.com/api/v2/creators/pharma_i_cist/contents",
-  "generatedAt": "2026-06-18T23:48:36.314983+00:00",
+  "generatedAt": "2026-06-19T23:02:21.983839+00:00",
   "startDate": "2025-03-16",
   "timezone": "Asia/Tokyo",
-  "articleCount": 351,
+  "articleCount": 352,
   "articles": [
+    {
+      "id": "nccd289009ac7",
+      "title": "AIの文章のトーンは、人間の判断にどう影響を及ぼすのか",
+      "url": "https://note.com/pharma_i_cist/n/nccd289009ac7",
+      "date": "2026-06-20",
+      "category": "news",
+      "tags": [
+        "変化",
+        "研究",
+        "薬剤師",
+        "説明",
+        "論文",
+        "調剤薬局",
+        "トーン"
+      ],
+      "summary": "元論文：https://dl.acm.org/doi/10.1145/3706598.3713744 こちらの研究では、AIが説明を提示するときの内容自体ではなく、説明の口調や表現のトーンが人間の意思決定に影響を及ぼすのかを検証しています。 研究の方法概要 研究では、Amazon Mechanical Turk（クラウドソーシングのプラットフォーム）を用いて…"
+    },
     {
       "id": "n9b36066af92c",
       "title": "Google Vidsで、自分のWebサイトのプロモーション動画を作ってみる",
