@@ -1,11 +1,28 @@
 {
   "source": "https://note.com/pharma_i_cist",
   "api": "https://note.com/api/v2/creators/pharma_i_cist/contents",
-  "generatedAt": "2026-06-19T23:02:21.983839+00:00",
+  "generatedAt": "2026-06-20T23:13:11.807541+00:00",
   "startDate": "2025-03-16",
   "timezone": "Asia/Tokyo",
-  "articleCount": 352,
+  "articleCount": 353,
   "articles": [
+    {
+      "id": "n064bec883dda",
+      "title": "生成AIが出力する「良い説明」とは何か",
+      "url": "https://note.com/pharma_i_cist/n/n064bec883dda",
+      "date": "2026-06-21",
+      "category": "news",
+      "tags": [
+        "研究",
+        "薬剤師",
+        "説明",
+        "論文",
+        "根拠",
+        "調剤薬局",
+        "LLM"
+      ],
+      "summary": "今回の論文は、LLMが出力する「良い説明」とは何かを考察したものになります。 著者らは、「もしその事実がなければ、その観察結果は生じなかった」という内容だけでは良い説明と言うには不十分で、「聞き手がその事実を事前にどれくらい信じていたか（prior beliefs）」を考慮する必要があると述べています。 論文の具体例を見てみましょう1. 「良い説明」とは何か…"
+    },
     {
       "id": "nccd289009ac7",
       "title": "AIの文章のトーンは、人間の判断にどう影響を及ぼすのか",
