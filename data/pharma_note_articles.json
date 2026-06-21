@@ -1,11 +1,28 @@
 {
   "source": "https://note.com/pharma_i_cist",
   "api": "https://note.com/api/v2/creators/pharma_i_cist/contents",
-  "generatedAt": "2026-06-20T23:13:11.807541+00:00",
+  "generatedAt": "2026-06-21T23:19:45.188684+00:00",
   "startDate": "2025-03-16",
   "timezone": "Asia/Tokyo",
-  "articleCount": 353,
+  "articleCount": 354,
   "articles": [
+    {
+      "id": "n580c4defdb3c",
+      "title": "AIエージェントは、500日間会社を経営できるのか",
+      "url": "https://note.com/pharma_i_cist/n/n580c4defdb3c",
+      "date": "2026-06-22",
+      "category": "news",
+      "tags": [
+        "経営",
+        "研究",
+        "薬剤師",
+        "論文",
+        "シミュレーション",
+        "調剤薬局",
+        "AIエージェント"
+      ],
+      "summary": "今回の研究は、長期にわたる不安定な環境において、AIエージェントがどれだけの成果を積み上げることができるかを評価するためのベンチマーク「CEO-BENCH」を提案したものです。 研究の方法CEO-BENCHでは、AIエージェントがNovaMindという架空の会社を経営するシミュレーションを3回行います。 初期条件は顧客ゼロ、現金100万ドルで、シミュレーショ…"
+    },
     {
       "id": "n064bec883dda",
       "title": "生成AIが出力する「良い説明」とは何か",
