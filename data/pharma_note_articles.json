@@ -1,11 +1,27 @@
 {
   "source": "https://note.com/pharma_i_cist",
   "api": "https://note.com/api/v2/creators/pharma_i_cist/contents",
-  "generatedAt": "2026-06-21T23:19:45.188684+00:00",
+  "generatedAt": "2026-06-22T23:23:45.014357+00:00",
   "startDate": "2025-03-16",
   "timezone": "Asia/Tokyo",
-  "articleCount": 354,
+  "articleCount": 355,
   "articles": [
+    {
+      "id": "n3c105ef25d7e",
+      "title": "たまには私の近況を…その3",
+      "url": "https://note.com/pharma_i_cist/n/n3c105ef25d7e",
+      "date": "2026-06-23",
+      "category": "blog",
+      "tags": [
+        "子育て",
+        "生活",
+        "子供",
+        "パパの子育て",
+        "赤ちゃん",
+        "予防接種"
+      ],
+      "summary": "現在の私の状況「現在の私の状況」と書きましたが、正直に言うと特に変わったことはありません。相変わらず暗い部屋でパソコンをカタカタと触っております。 強いて変化を挙げるなら、長男のカービィブームに便乗する形で家族全員分のカービィの服が調達されたため、私のパジャマのラインナップに「GU × カービィコラボ」のパジャマが加わりました。ピンク色のかわいいやつです。…"
+    },
     {
       "id": "n580c4defdb3c",
       "title": "AIエージェントは、500日間会社を経営できるのか",
