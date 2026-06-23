@@ -1,11 +1,27 @@
 {
   "source": "https://note.com/pharma_i_cist",
   "api": "https://note.com/api/v2/creators/pharma_i_cist/contents",
-  "generatedAt": "2026-06-22T23:23:45.014357+00:00",
+  "generatedAt": "2026-06-23T23:11:22.348943+00:00",
   "startDate": "2025-03-16",
   "timezone": "Asia/Tokyo",
-  "articleCount": 355,
+  "articleCount": 356,
   "articles": [
+    {
+      "id": "n858b4d004388",
+      "title": "生成AIにタスクを丸投げすることで、失うものは何か",
+      "url": "https://note.com/pharma_i_cist/n/n858b4d004388",
+      "date": "2026-06-24",
+      "category": "news",
+      "tags": [
+        "変化",
+        "リスク",
+        "心理",
+        "薬剤師",
+        "調剤薬局",
+        "研究"
+      ],
+      "summary": "今回の研究は、仕事で生成AIを使うことが、働く人の心理にどのような影響を与えるかを検討したものです。 研究の方法1. 参加者とタスク内容 参加者（最終的な主要解析対象は269人）はProlific Academicというプラットフォームで募集され、コンサルタント、データアナリスト、人事担当者、管理職、マーケターなど、様々な職種の方々が参加しています。 実験で…"
+    },
     {
       "id": "n3c105ef25d7e",
       "title": "たまには私の近況を…その3",
