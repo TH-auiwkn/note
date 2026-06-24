@@ -1,11 +1,26 @@
 {
   "source": "https://note.com/pharma_i_cist",
   "api": "https://note.com/api/v2/creators/pharma_i_cist/contents",
-  "generatedAt": "2026-06-23T23:11:22.348943+00:00",
+  "generatedAt": "2026-06-24T23:08:34.056659+00:00",
   "startDate": "2025-03-16",
   "timezone": "Asia/Tokyo",
-  "articleCount": 356,
+  "articleCount": 357,
   "articles": [
+    {
+      "id": "n197aa5e45b58",
+      "title": "さすがのAIも、画像を「透視」できるわけではなく…",
+      "url": "https://note.com/pharma_i_cist/n/n197aa5e45b58",
+      "date": "2026-06-25",
+      "category": "blog",
+      "tags": [
+        "画像",
+        "薬剤師",
+        "倫理",
+        "AIリテラシー",
+        "調剤薬局"
+      ],
+      "summary": "こちらの記事は、AIによって生成された画像とインターネット上のデマが原因で、無関係な一般人が誤って特定された事例についてまとめられたものです。 記事の要約2026年1月7日にミネアポリスで発生した銃撃事件において、事件に関与したICE（移民税関捜査局）捜査官の顔を特定しようとする動きがSNS上で起こり、Grokで生成された「捜査官のマスクを外した画像」と「捜…"
+    },
     {
       "id": "n858b4d004388",
       "title": "生成AIにタスクを丸投げすることで、失うものは何か",
