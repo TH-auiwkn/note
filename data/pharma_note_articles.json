@@ -1,11 +1,28 @@
 {
   "source": "https://note.com/pharma_i_cist",
   "api": "https://note.com/api/v2/creators/pharma_i_cist/contents",
-  "generatedAt": "2026-06-24T23:08:34.056659+00:00",
+  "generatedAt": "2026-06-25T23:22:24.829554+00:00",
   "startDate": "2025-03-16",
   "timezone": "Asia/Tokyo",
-  "articleCount": 357,
+  "articleCount": 358,
   "articles": [
+    {
+      "id": "nfe65cc51fc0b",
+      "title": "研究者を補助するAIシステムのメリットを享受するには…",
+      "url": "https://note.com/pharma_i_cist/n/nfe65cc51fc0b",
+      "date": "2026-06-26",
+      "category": "news",
+      "tags": [
+        "Gemini",
+        "研究",
+        "リスク",
+        "Google",
+        "薬剤師",
+        "論文",
+        "LLM"
+      ],
+      "summary": "今回の研究は、科学分野の研究において評価指標を最大化するための解析コードや予測モデルを、AIが自動的に作成・改良するシステム「ERA（Empirical Research Assistance）」を提案したものです。 研究の方法1. ERAの仕組み ERAは、以下のような流れで動きます。 人間が、解くべき課題を与える その課題の評価指標を与える 関連する研究…"
+    },
     {
       "id": "n197aa5e45b58",
       "title": "さすがのAIも、画像を「透視」できるわけではなく…",
