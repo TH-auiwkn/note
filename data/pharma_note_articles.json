@@ -1,11 +1,26 @@
 {
   "source": "https://note.com/pharma_i_cist",
   "api": "https://note.com/api/v2/creators/pharma_i_cist/contents",
-  "generatedAt": "2026-06-25T23:22:24.829554+00:00",
+  "generatedAt": "2026-06-26T23:11:19.318258+00:00",
   "startDate": "2025-03-16",
   "timezone": "Asia/Tokyo",
-  "articleCount": 358,
+  "articleCount": 359,
   "articles": [
+    {
+      "id": "n757670625804",
+      "title": "「AIを共著者とした論文」を専門に扱う、新たな国際科学誌が誕生する？",
+      "url": "https://note.com/pharma_i_cist/n/n757670625804",
+      "date": "2026-06-27",
+      "category": "news",
+      "tags": [
+        "未来",
+        "研究",
+        "薬剤師",
+        "論文",
+        "調剤薬局"
+      ],
+      "summary": "日本生物物理学会が、「AIを共著者とした論文」を専門に扱う新たな国際科学誌を作る方針である、という報道です。 今回はこの報道から、実際にこのような取り組みによって得られるメリットは何か、逆にどのようなリスクがあるのかを整理してみます。 メリット1. AIが関与したことの透明化が進む可能性がある これだけAIツールが普及している現代においては、すでに論文の執筆…"
+    },
     {
       "id": "nfe65cc51fc0b",
       "title": "研究者を補助するAIシステムのメリットを享受するには…",
