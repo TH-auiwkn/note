@@ -1,11 +1,27 @@
 {
   "source": "https://note.com/pharma_i_cist",
   "api": "https://note.com/api/v2/creators/pharma_i_cist/contents",
-  "generatedAt": "2026-06-26T23:11:19.318258+00:00",
+  "generatedAt": "2026-06-27T23:07:18.588882+00:00",
   "startDate": "2025-03-16",
   "timezone": "Asia/Tokyo",
-  "articleCount": 359,
+  "articleCount": 360,
   "articles": [
+    {
+      "id": "n6a75f82ae9e9",
+      "title": "GPT-5.6のリリースをめぐるニュースを見て、私が思ったこと",
+      "url": "https://note.com/pharma_i_cist/n/n6a75f82ae9e9",
+      "date": "2026-06-28",
+      "category": "news",
+      "tags": [
+        "ChatGPT",
+        "未来",
+        "アメリカ",
+        "ニュース",
+        "考察",
+        "OpenAI"
+      ],
+      "summary": "こちらの記事は、GPT-5.6「Sol」「Terra」「Luna」の概要と、そのリリースに関する動きについて報じたものです。 今回は、後者のトピックに関して色々と書いていこうと思います。 記事によると…安全保障上の懸念から、アメリカ政府はOpenAIに対してGPT-5.6の公開を慎重に行うよう求めました。 この求めに応じる形で、まずは「特定のパートナー向けの…"
+    },
     {
       "id": "n757670625804",
       "title": "「AIを共著者とした論文」を専門に扱う、新たな国際科学誌が誕生する？",
