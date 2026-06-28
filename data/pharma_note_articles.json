@@ -1,11 +1,27 @@
 {
   "source": "https://note.com/pharma_i_cist",
   "api": "https://note.com/api/v2/creators/pharma_i_cist/contents",
-  "generatedAt": "2026-06-27T23:07:18.588882+00:00",
+  "generatedAt": "2026-06-28T23:07:55.589605+00:00",
   "startDate": "2025-03-16",
   "timezone": "Asia/Tokyo",
-  "articleCount": 360,
+  "articleCount": 361,
   "articles": [
+    {
+      "id": "n1aa385ea19df",
+      "title": "本当にAIで作業時間が短縮できる？",
+      "url": "https://note.com/pharma_i_cist/n/n1aa385ea19df",
+      "date": "2026-06-29",
+      "category": "news",
+      "tags": [
+        "時間",
+        "効率化",
+        "薬剤師",
+        "負担",
+        "調剤薬局",
+        "研究"
+      ],
+      "summary": "今回の研究は、人間がAIを使って作業を効率化するとき、人間側の作業時間の予測と実際の作業時間がどれほどズレるのかを検証したものです。 研究の方法1. 参加者と課題 今回の研究は事前登録された大規模行動実験です。 参加者は米国の成人を代表するようにオンライン上で募集され、「課題にどのくらい時間がかかるかを予測するグループ（401名）」と「実際に課題を行い、かか…"
+    },
     {
       "id": "n6a75f82ae9e9",
       "title": "GPT-5.6のリリースをめぐるニュースを見て、私が思ったこと",
