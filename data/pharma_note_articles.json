@@ -1,11 +1,29 @@
 {
   "source": "https://note.com/pharma_i_cist",
   "api": "https://note.com/api/v2/creators/pharma_i_cist/contents",
-  "generatedAt": "2026-06-28T23:07:55.589605+00:00",
+  "generatedAt": "2026-06-29T23:01:58.170902+00:00",
   "startDate": "2025-03-16",
   "timezone": "Asia/Tokyo",
-  "articleCount": 361,
+  "articleCount": 362,
   "articles": [
+    {
+      "id": "neda309f3379f",
+      "title": "間接プロンプトインジェクションに関する研究から、その対策を考える",
+      "url": "https://note.com/pharma_i_cist/n/neda309f3379f",
+      "date": "2026-06-30",
+      "category": "news",
+      "tags": [
+        "リスク",
+        "薬剤師",
+        "セキュリティ",
+        "調剤薬局",
+        "プロンプトインジェクション",
+        "プロンプト",
+        "論文",
+        "研究"
+      ],
+      "summary": "こちらの論文は、AIに読み込ませる文書の中に人間には見えない悪意ある指示を埋め込む「間接プロンプトインジェクション」に関するものです。 研究の方法1. 職務経歴書と攻撃 実験では、以下の2つの観点に基づいて分けられた27本の職務経歴書が用意されました。 応募者の経験 経験が浅い人を「Junior」、中堅を「Mid-Level」、経験豊富な人を「Senior」…"
+    },
     {
       "id": "n1aa385ea19df",
       "title": "本当にAIで作業時間が短縮できる？",
