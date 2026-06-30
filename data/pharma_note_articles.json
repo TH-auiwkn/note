@@ -1,11 +1,27 @@
 {
   "source": "https://note.com/pharma_i_cist",
   "api": "https://note.com/api/v2/creators/pharma_i_cist/contents",
-  "generatedAt": "2026-06-29T23:01:58.170902+00:00",
+  "generatedAt": "2026-06-30T23:17:14.378982+00:00",
   "startDate": "2025-03-16",
   "timezone": "Asia/Tokyo",
-  "articleCount": 362,
+  "articleCount": 363,
   "articles": [
+    {
+      "id": "n05788e9debc4",
+      "title": "OpenAIが発表した、Codexに関する観察研究の結果を見てみましょう",
+      "url": "https://note.com/pharma_i_cist/n/n05788e9debc4",
+      "date": "2026-07-01",
+      "category": "news",
+      "tags": [
+        "研究",
+        "OpenAI",
+        "薬剤師",
+        "論文",
+        "Codex",
+        "調剤薬局"
+      ],
+      "summary": "今回の論文は、OpenAIが膨大なCodexの利用ログを分析した結果をまとめたもので、AIの役割がチャットボットから「ユーザーに代わって作業を実行するエージェント」に移行しつつあることを示唆しています。 研究の方法1. データの収集 Codexの利用者は、個人アカウントの利用者、組織アカウントの利用者、OpenAI内部の労働者の3グループに分けられ、個人アカ…"
+    },
     {
       "id": "neda309f3379f",
       "title": "間接プロンプトインジェクションに関する研究から、その対策を考える",
