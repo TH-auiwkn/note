@@ -1,11 +1,27 @@
 {
   "source": "https://note.com/pharma_i_cist",
   "api": "https://note.com/api/v2/creators/pharma_i_cist/contents",
-  "generatedAt": "2026-06-30T23:17:14.378982+00:00",
+  "generatedAt": "2026-07-01T23:19:59.649362+00:00",
   "startDate": "2025-03-16",
   "timezone": "Asia/Tokyo",
-  "articleCount": 363,
+  "articleCount": 364,
   "articles": [
+    {
+      "id": "n918cca4cb5c3",
+      "title": "Anthropicの「Economic Index report」を読んでみましょう",
+      "url": "https://note.com/pharma_i_cist/n/n918cca4cb5c3",
+      "date": "2026-07-02",
+      "category": "literacy",
+      "tags": [
+        "未来",
+        "Claude",
+        "薬剤師",
+        "レポート",
+        "Anthropic",
+        "調剤薬局"
+      ],
+      "summary": "情報元：https://www.anthropic.com/research/economic-index-june-2026-report こちらは、Anthropicの2026年6月版「Economic Index report: Cadences」になります。 このレポートは、Claudeが人々の仕事・生活・学習にどのような形で使われ、どのような成果物…"
+    },
     {
       "id": "n05788e9debc4",
       "title": "OpenAIが発表した、Codexに関する観察研究の結果を見てみましょう",
