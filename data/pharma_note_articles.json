@@ -1,11 +1,27 @@
 {
   "source": "https://note.com/pharma_i_cist",
   "api": "https://note.com/api/v2/creators/pharma_i_cist/contents",
-  "generatedAt": "2026-07-01T23:19:59.649362+00:00",
+  "generatedAt": "2026-07-02T23:12:07.878138+00:00",
   "startDate": "2025-03-16",
   "timezone": "Asia/Tokyo",
-  "articleCount": 364,
+  "articleCount": 365,
   "articles": [
+    {
+      "id": "n69e2530c3ce0",
+      "title": "AIは記事の「事実誤認」をどれくらい検出できるか",
+      "url": "https://note.com/pharma_i_cist/n/n69e2530c3ce0",
+      "date": "2026-07-03",
+      "category": "literacy",
+      "tags": [
+        "研究",
+        "リスク",
+        "薬剤師",
+        "論文",
+        "調剤薬局",
+        "LLM"
+      ],
+      "summary": "今回の研究は、人間が書いた文章ではどのような種類の事実誤認が起こるのか、および外部知識を使わない通常のLLMが人間由来の事実誤認をどの程度検出できるのかを検証したものです。 研究の方法1. データセットの作成 著者らは、2020年1月から2023年12月までに公開された日本経済新聞の朝刊・夕刊に関する234件の訂正記事を収集し、そこに含まれる誤りを手作業で1…"
+    },
     {
       "id": "n918cca4cb5c3",
       "title": "Anthropicの「Economic Index report」を読んでみましょう",
