@@ -1,11 +1,28 @@
 {
   "source": "https://note.com/pharma_i_cist",
   "api": "https://note.com/api/v2/creators/pharma_i_cist/contents",
-  "generatedAt": "2026-07-02T23:12:07.878138+00:00",
+  "generatedAt": "2026-07-03T23:08:53.336665+00:00",
   "startDate": "2025-03-16",
   "timezone": "Asia/Tokyo",
-  "articleCount": 365,
+  "articleCount": 366,
   "articles": [
+    {
+      "id": "n19b03fb925b1",
+      "title": "たとえ個人を直接識別できない情報でも、それが蓄積すると…",
+      "url": "https://note.com/pharma_i_cist/n/n19b03fb925b1",
+      "date": "2026-07-04",
+      "category": "news",
+      "tags": [
+        "リスク",
+        "薬剤師",
+        "セキュリティ",
+        "個人情報",
+        "調剤薬局",
+        "研究",
+        "患者"
+      ],
+      "summary": "今回の研究は、1回1回の入力では匿名化されているように見えても、AIとの会話を重ねることで特定の患者さんがどんどん特定されやすくなるという問題を取り扱ったものです。 研究の方法1. データソース 今回の研究では、実際の患者さんのデータの代わりに「SyntheticMass Version 2」という架空の患者さんのデータセットが採用されています。こちらは、年…"
+    },
     {
       "id": "n69e2530c3ce0",
       "title": "AIは記事の「事実誤認」をどれくらい検出できるか",
