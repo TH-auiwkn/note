@@ -1,11 +1,29 @@
 {
   "source": "https://note.com/pharma_i_cist",
   "api": "https://note.com/api/v2/creators/pharma_i_cist/contents",
-  "generatedAt": "2026-07-03T23:08:53.336665+00:00",
+  "generatedAt": "2026-07-04T23:01:12.541654+00:00",
   "startDate": "2025-03-16",
   "timezone": "Asia/Tokyo",
-  "articleCount": 366,
+  "articleCount": 367,
   "articles": [
+    {
+      "id": "n5a0ffb2cb1dd",
+      "title": "たまには私の近況を…その4",
+      "url": "https://note.com/pharma_i_cist/n/n5a0ffb2cb1dd",
+      "date": "2026-07-05",
+      "category": "blog",
+      "tags": [
+        "子育て",
+        "パパの子育て",
+        "赤ちゃん",
+        "赤ちゃんのいる生活",
+        "オーケストラ",
+        "ランドセル",
+        "子どもの成長を感じるとき",
+        "ヴィオラ"
+      ],
+      "summary": "長男のランドセル来年、うちの長男は小学校に入学します。 そして、小学校に入学するということは…そう、ランドセルが必要になりますね。恐らく、「これまでの人生で一度は背負ったことがある」という方も多いであろう、ランドセルです。 …え？ランリュックですか？ 私が住む地域では普及していないのと、そもそも許可されている雰囲気もないので、今回は選択肢からは外れました。便…"
+    },
     {
       "id": "n19b03fb925b1",
       "title": "たとえ個人を直接識別できない情報でも、それが蓄積すると…",
