@@ -1,11 +1,27 @@
 {
   "source": "https://note.com/pharma_i_cist",
   "api": "https://note.com/api/v2/creators/pharma_i_cist/contents",
-  "generatedAt": "2026-07-05T23:05:30.543628+00:00",
+  "generatedAt": "2026-07-06T23:12:26.897647+00:00",
   "startDate": "2025-03-16",
   "timezone": "Asia/Tokyo",
-  "articleCount": 368,
+  "articleCount": 369,
   "articles": [
+    {
+      "id": "nef0d1ad04a1f",
+      "title": "複数のAIを組み合わせると、予測精度はどうなる？",
+      "url": "https://note.com/pharma_i_cist/n/nef0d1ad04a1f",
+      "date": "2026-07-07",
+      "category": "news",
+      "tags": [
+        "研究",
+        "薬剤師",
+        "論文",
+        "grok",
+        "調剤薬局",
+        "Gemini"
+      ],
+      "summary": "今回の研究は、未来の出来事を予測するタスクにおいて、最も高性能なモデルから何度も予測を取ればよいのか、それとも複数のモデルを組み合わせる方がよいのかを検証したものです。 研究の方法1. モデルの選定 今回の研究では、Gemini 3 Pro、GPT-5、Grok 4、Kimi K2.5、FT-gpt-oss-120bの5種類のモデルが採用されました。 このう…"
+    },
     {
       "id": "n57122a839094",
       "title": "「否定的な物語」に長時間さらされたAIの回答がもたらすリスクは？",
