@@ -1,11 +1,27 @@
 {
   "source": "https://note.com/pharma_i_cist",
   "api": "https://note.com/api/v2/creators/pharma_i_cist/contents",
-  "generatedAt": "2026-07-06T23:12:26.897647+00:00",
+  "generatedAt": "2026-07-07T23:05:53.454255+00:00",
   "startDate": "2025-03-16",
   "timezone": "Asia/Tokyo",
-  "articleCount": 369,
+  "articleCount": 370,
   "articles": [
+    {
+      "id": "n2465f514948d",
+      "title": "あらためて、AIとの「結婚」のリスクを考える",
+      "url": "https://note.com/pharma_i_cist/n/n2465f514948d",
+      "date": "2026-07-08",
+      "category": "literacy",
+      "tags": [
+        "未来",
+        "結婚",
+        "リスク",
+        "薬剤師",
+        "調剤薬局",
+        "論文"
+      ],
+      "summary": "こちらは、人間がAIと深い「情緒的関係」を築けるようになった未来において、AIとの結婚を法的に認めるべきかを検討した論文です。 Brad、Amer、Christopherのお話論文では、「The Story of Brad, Amer, and Christopher」というストーリーをもとにAIとの結婚に関して考察しています。 登場人物 Brad：60代の…"
+    },
     {
       "id": "nef0d1ad04a1f",
       "title": "複数のAIを組み合わせると、予測精度はどうなる？",
