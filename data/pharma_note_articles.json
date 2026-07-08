@@ -1,11 +1,27 @@
 {
   "source": "https://note.com/pharma_i_cist",
   "api": "https://note.com/api/v2/creators/pharma_i_cist/contents",
-  "generatedAt": "2026-07-07T23:05:53.454255+00:00",
+  "generatedAt": "2026-07-08T23:11:48.300978+00:00",
   "startDate": "2025-03-16",
   "timezone": "Asia/Tokyo",
-  "articleCount": 370,
+  "articleCount": 371,
   "articles": [
+    {
+      "id": "n35faaa09dd30",
+      "title": "Sakana Translateを使ってみました",
+      "url": "https://note.com/pharma_i_cist/n/n35faaa09dd30",
+      "date": "2026-07-09",
+      "category": "usage",
+      "tags": [
+        "翻訳",
+        "薬剤師",
+        "AIで遊ぼう",
+        "AIツール",
+        "調剤薬局",
+        "sakanaai"
+      ],
+      "summary": "Sakana Chatに「Sakana Translate」が追加されたとのことです。 公式発表の内容から想像すると、Sakana Translateの翻訳は文法的に正確なだけでなく、その温度感・ニュアンスまで反映した翻訳結果を提供してくれるものと考えられます。 公式が提案する用途公式サイトによると、以下のような用途でSakana Translateを活用す…"
+    },
     {
       "id": "n2465f514948d",
       "title": "あらためて、AIとの「結婚」のリスクを考える",
