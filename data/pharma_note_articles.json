@@ -1,11 +1,28 @@
 {
   "source": "https://note.com/pharma_i_cist",
   "api": "https://note.com/api/v2/creators/pharma_i_cist/contents",
-  "generatedAt": "2026-07-08T23:11:48.300978+00:00",
+  "generatedAt": "2026-07-09T23:15:36.973217+00:00",
   "startDate": "2025-03-16",
   "timezone": "Asia/Tokyo",
-  "articleCount": 371,
+  "articleCount": 372,
   "articles": [
+    {
+      "id": "nc3ca598989b0",
+      "title": "進化したChatGPTのボイスチャット「GPT-Live」とは？",
+      "url": "https://note.com/pharma_i_cist/n/nc3ca598989b0",
+      "date": "2026-07-10",
+      "category": "news",
+      "tags": [
+        "ChatGPT",
+        "薬剤師",
+        "AIで遊ぼう",
+        "音声",
+        "調剤薬局",
+        "新機能",
+        "OpenAI"
+      ],
+      "summary": "情報元：https://openai.com/ja-JP/index/introducing-gpt-live/ 従来もChatGPTと音声でやり取りをすることは出来ていましたが、それがさらに人間同士の会話に近づき、自然かつ高品質になったようです。 何が変わった？1. 従来の仕組み 従来は、「音声認識モデル」「言語モデル」「音声合成モデル」の3つが順番につな…"
+    },
     {
       "id": "n35faaa09dd30",
       "title": "Sakana Translateを使ってみました",
