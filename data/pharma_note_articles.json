@@ -1,11 +1,28 @@
 {
   "source": "https://note.com/pharma_i_cist",
   "api": "https://note.com/api/v2/creators/pharma_i_cist/contents",
-  "generatedAt": "2026-07-09T23:15:36.973217+00:00",
+  "generatedAt": "2026-07-10T23:01:43.335462+00:00",
   "startDate": "2025-03-16",
   "timezone": "Asia/Tokyo",
-  "articleCount": 372,
+  "articleCount": 373,
   "articles": [
+    {
+      "id": "n54baf24793e6",
+      "title": "AIエージェントが、自律的にランサムウェア攻撃を完了させた事例",
+      "url": "https://note.com/pharma_i_cist/n/n54baf24793e6",
+      "date": "2026-07-11",
+      "category": "security",
+      "tags": [
+        "リスク",
+        "AIエージェント",
+        "薬剤師",
+        "セキュリティ",
+        "攻撃",
+        "調剤薬局",
+        "ランサムウェア"
+      ],
+      "summary": "この記事は、Sysdig Threat Research Teamが観測した「JADEPUFFER」という攻撃についてまとめられたものです。 記事によると、AIエージェントが人間の指示を待つことなく、侵入先の調査、パスワードやAPIキーなどの探索、別のシステムへの侵入、攻撃を続けるための仕組み作り、データベースの破壊、身代金の要求まで進めた可能性が高いと報告…"
+    },
     {
       "id": "nc3ca598989b0",
       "title": "進化したChatGPTのボイスチャット「GPT-Live」とは？",
