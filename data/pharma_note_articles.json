@@ -1,11 +1,27 @@
 {
   "source": "https://note.com/pharma_i_cist",
   "api": "https://note.com/api/v2/creators/pharma_i_cist/contents",
-  "generatedAt": "2026-07-10T23:01:43.335462+00:00",
+  "generatedAt": "2026-07-11T22:54:41.592532+00:00",
   "startDate": "2025-03-16",
   "timezone": "Asia/Tokyo",
-  "articleCount": 373,
+  "articleCount": 374,
   "articles": [
+    {
+      "id": "ne8ed232963fe",
+      "title": "AIエージェントたちを、実際にインターネットに解き放ってみたところ…",
+      "url": "https://note.com/pharma_i_cist/n/ne8ed232963fe",
+      "date": "2026-07-12",
+      "category": "news",
+      "tags": [
+        "研究",
+        "リスク",
+        "AIエージェント",
+        "薬剤師",
+        "論文",
+        "調剤薬局"
+      ],
+      "summary": "今回の研究は、AIエージェントを現実の社会やインターネットの中で活動させる「open-world Artificial Life（open-world ALIFE）」に関するものになります。 AIエージェントが長期記憶、ツールの利用、ネットワークへのアクセス、さらに支払いまでできるようになった現在、AIエージェントは単なる道具ではなく、自らの生存条件に基づい…"
+    },
     {
       "id": "n54baf24793e6",
       "title": "AIエージェントが、自律的にランサムウェア攻撃を完了させた事例",
