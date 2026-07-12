@@ -1,11 +1,29 @@
 {
   "source": "https://note.com/pharma_i_cist",
   "api": "https://note.com/api/v2/creators/pharma_i_cist/contents",
-  "generatedAt": "2026-07-11T22:54:41.592532+00:00",
+  "generatedAt": "2026-07-12T22:55:01.079962+00:00",
   "startDate": "2025-03-16",
   "timezone": "Asia/Tokyo",
-  "articleCount": 374,
+  "articleCount": 375,
   "articles": [
+    {
+      "id": "n6092714adab6",
+      "title": "英国NHSの「AIトリアージ」とは？",
+      "url": "https://note.com/pharma_i_cist/n/n6092714adab6",
+      "date": "2026-07-13",
+      "category": "usage",
+      "tags": [
+        "医療",
+        "薬剤師",
+        "英国",
+        "事例",
+        "調剤薬局",
+        "トリアージ",
+        "薬局",
+        "患者"
+      ],
+      "summary": "英国NHS（国民保健サービス）は、公式アプリであるNHS Appに「患者さんを適切な医療サービスへ振り分ける、AIトリアージ機能」を導入すると発表しました。 今後12か月で20万人以上に提供し、2028年4月までに全てのNHS Appユーザーに展開される予定です。 案内先には、かかりつけの一般診療医（GP）、救急外来、地域サービス、セルフケアに加えて、薬局も…"
+    },
     {
       "id": "ne8ed232963fe",
       "title": "AIエージェントたちを、実際にインターネットに解き放ってみたところ…",
