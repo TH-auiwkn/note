@@ -1,11 +1,28 @@
 {
   "source": "https://note.com/pharma_i_cist",
   "api": "https://note.com/api/v2/creators/pharma_i_cist/contents",
-  "generatedAt": "2026-07-12T22:55:01.079962+00:00",
+  "generatedAt": "2026-07-13T22:58:29.615322+00:00",
   "startDate": "2025-03-16",
   "timezone": "Asia/Tokyo",
-  "articleCount": 375,
+  "articleCount": 376,
   "articles": [
+    {
+      "id": "nd1e9ea2c3938",
+      "title": "ChatGPTの「スキル」を使ってみましょう",
+      "url": "https://note.com/pharma_i_cist/n/nd1e9ea2c3938",
+      "date": "2026-07-14",
+      "category": "usage",
+      "tags": [
+        "ChatGPT",
+        "スキル",
+        "薬剤師",
+        "AIで遊ぼう",
+        "機能",
+        "薬局",
+        "Claude"
+      ],
+      "summary": "AIの「スキル」と言うと、CodexやClaude Codeを思い浮かべるかもしれませんが、実はChatGPTでもスキルを作成することができます。 似たような機能として「GPT」がありますが、違いを簡潔に説明すると… GPT：用途ごとに人格・知識・振る舞いをまとめた「専用のアシスタント」のようなイメージ。 スキル：頻繁に行う特定の作業を、毎回一定の手順および…"
+    },
     {
       "id": "n6092714adab6",
       "title": "英国NHSの「AIトリアージ」とは？",
