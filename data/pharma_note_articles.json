@@ -1,11 +1,28 @@
 {
   "source": "https://note.com/pharma_i_cist",
   "api": "https://note.com/api/v2/creators/pharma_i_cist/contents",
-  "generatedAt": "2026-07-13T22:58:29.615322+00:00",
+  "generatedAt": "2026-07-14T22:59:36.203300+00:00",
   "startDate": "2025-03-16",
   "timezone": "Asia/Tokyo",
-  "articleCount": 376,
+  "articleCount": 377,
   "articles": [
+    {
+      "id": "nd3e922f6d137",
+      "title": "AIは、人間の医師の評価を再現できるか",
+      "url": "https://note.com/pharma_i_cist/n/nd3e922f6d137",
+      "date": "2026-07-15",
+      "category": "literacy",
+      "tags": [
+        "研究",
+        "医療",
+        "薬剤師",
+        "論文",
+        "薬局",
+        "LLM",
+        "AIエージェント"
+      ],
+      "summary": "医療分野のLLMは、これまでMedQAやPubMedQAなどの「正解があらかじめ用意されたベンチマーク」を用いて評価されてきましたが、これらのベンチマークで高得点を記録したLLMが、臨床現場において必要な能力を兼ね備えているかどうかは別問題です。 そのため、医療分野のLLMの評価には実際の医療従事者による評価も必要と考えられていますが、それを実施するには多く…"
+    },
     {
       "id": "nd1e9ea2c3938",
       "title": "ChatGPTの「スキル」を使ってみましょう",
