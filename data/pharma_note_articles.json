@@ -1,11 +1,27 @@
 {
   "source": "https://note.com/pharma_i_cist",
   "api": "https://note.com/api/v2/creators/pharma_i_cist/contents",
-  "generatedAt": "2026-07-14T22:59:36.203300+00:00",
+  "generatedAt": "2026-07-15T23:00:30.326867+00:00",
   "startDate": "2025-03-16",
   "timezone": "Asia/Tokyo",
-  "articleCount": 377,
+  "articleCount": 378,
   "articles": [
+    {
+      "id": "n6cc9b12d703a",
+      "title": "AIエージェントの作業の様子を覗いてみると…",
+      "url": "https://note.com/pharma_i_cist/n/n6cc9b12d703a",
+      "date": "2026-07-16",
+      "category": "news",
+      "tags": [
+        "研究",
+        "リスク",
+        "AIエージェント",
+        "薬剤師",
+        "論文",
+        "薬局"
+      ],
+      "summary": "元論文：https://aclanthology.org/2026.acl-long.1711/ 今回の研究は、AIエージェントが何をすべきかまでは理解しているのに、どこまで実行すべきか、どの要素を含めるべきか、そしてどの程度の細かさで行動すべきかを誤ってしまう問題について検証したものです。 2種類のエラー今回の研究では、「間違った行動（計画エラー）」と「不…"
+    },
     {
       "id": "nd3e922f6d137",
       "title": "AIは、人間の医師の評価を再現できるか",
@@ -4981,7 +4997,7 @@
     },
     {
       "id": "n9b67ffb5aeac",
-      "title": "改めて自己紹介を",
+      "title": "プロフィール",
       "url": "https://note.com/pharma_i_cist/n/n9b67ffb5aeac",
       "date": "2025-03-18",
       "category": "blog",
