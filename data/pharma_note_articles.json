@@ -1,11 +1,28 @@
 {
   "source": "https://note.com/pharma_i_cist",
   "api": "https://note.com/api/v2/creators/pharma_i_cist/contents",
-  "generatedAt": "2026-07-15T23:00:30.326867+00:00",
+  "generatedAt": "2026-07-16T23:00:47.076299+00:00",
   "startDate": "2025-03-16",
   "timezone": "Asia/Tokyo",
-  "articleCount": 378,
+  "articleCount": 379,
   "articles": [
+    {
+      "id": "n4b9ab4644e77",
+      "title": "アメリカ・ユタ州のAI処方システムの、現在の状況は？",
+      "url": "https://note.com/pharma_i_cist/n/n4b9ab4644e77",
+      "date": "2026-07-17",
+      "category": "news",
+      "tags": [
+        "未来",
+        "アメリカ",
+        "医療",
+        "薬剤師",
+        "薬局",
+        "処方",
+        "Doctronic"
+      ],
+      "summary": "こちらの記事は、アメリカ・ユタ州で始まったAI処方システム「Doctronic」に関する続報になります。 以前、Doctronicが何者なのかを解説した記事を投稿しましたが、その中ではざっくりと以下のようなことをお伝えしました。 医師が不足している状況や受診アクセスが悪い状況でも、オンライン環境におけるAIの「再診」と医薬品の郵送により、受診が途切れることな…"
+    },
     {
       "id": "n6cc9b12d703a",
       "title": "AIエージェントの作業の様子を覗いてみると…",
