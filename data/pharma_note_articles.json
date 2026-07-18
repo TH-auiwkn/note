@@ -1,11 +1,27 @@
 {
   "source": "https://note.com/pharma_i_cist",
   "api": "https://note.com/api/v2/creators/pharma_i_cist/contents",
-  "generatedAt": "2026-07-17T22:53:29.381397+00:00",
+  "generatedAt": "2026-07-18T22:54:26.181784+00:00",
   "startDate": "2025-03-16",
   "timezone": "Asia/Tokyo",
-  "articleCount": 380,
+  "articleCount": 381,
   "articles": [
+    {
+      "id": "nd7ec88725e5b",
+      "title": "ChatGPTの「Work」とは？",
+      "url": "https://note.com/pharma_i_cist/n/nd7ec88725e5b",
+      "date": "2026-07-19",
+      "category": "usage",
+      "tags": [
+        "ChatGPT",
+        "薬剤師",
+        "AIで遊ぼう",
+        "薬局",
+        "noteで読めるマンガ",
+        "プロンプト"
+      ],
+      "summary": "先日のChatGPTのアップデートで、ChatGPTの「Chat」と「Work」が切り替えられるようになりました。 というわけで（？）、今回はこの「Work」が何者なのかを解説します。 Chatとの違いはChatは、身も蓋もない事を言えば従来のChatGPTです。 「プロンプトを入力して何らかの形で回答を得る」というシンプルな仕組みで、チャットを通じて考えを…"
+    },
     {
       "id": "n72153eb323e2",
       "title": "AIエージェントは、人間の行動予測が正確にできるのか",
