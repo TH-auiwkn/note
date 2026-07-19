@@ -1,11 +1,27 @@
 {
   "source": "https://note.com/pharma_i_cist",
   "api": "https://note.com/api/v2/creators/pharma_i_cist/contents",
-  "generatedAt": "2026-07-18T22:54:26.181784+00:00",
+  "generatedAt": "2026-07-19T22:56:39.158794+00:00",
   "startDate": "2025-03-16",
   "timezone": "Asia/Tokyo",
-  "articleCount": 381,
+  "articleCount": 382,
   "articles": [
+    {
+      "id": "nf472ac481b53",
+      "title": "WHOの医療AIに関する提言から、調剤薬局でAIを使うときの注意事項を改めて考える",
+      "url": "https://note.com/pharma_i_cist/n/nf472ac481b53",
+      "date": "2026-07-20",
+      "category": "news",
+      "tags": [
+        "未来",
+        "薬剤師",
+        "薬局",
+        "AIガバナンス",
+        "WHO",
+        "調剤薬局"
+      ],
+      "summary": "こちらはWHOの欧州地域事務局が発表したニュースリリースで、2026年7月13日～16日に医療AIに関する国際会議が開催されたことが報告されています。 今回の記事では、まずこのニュースリリースで何が報告されているのかを簡単に確認し、その内容をもとに、調剤薬局でAIを導入・活用するにあたって注意すべきことを改めて考えてみたいと思います。 ニュースリリースの内容…"
+    },
     {
       "id": "nd7ec88725e5b",
       "title": "ChatGPTの「Work」とは？",
