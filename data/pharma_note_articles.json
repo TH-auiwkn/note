@@ -1,11 +1,26 @@
 {
   "source": "https://note.com/pharma_i_cist",
   "api": "https://note.com/api/v2/creators/pharma_i_cist/contents",
-  "generatedAt": "2026-07-19T22:56:39.158794+00:00",
+  "generatedAt": "2026-07-20T23:04:05.071531+00:00",
   "startDate": "2025-03-16",
   "timezone": "Asia/Tokyo",
-  "articleCount": 382,
+  "articleCount": 383,
   "articles": [
+    {
+      "id": "nc1da98548a2f",
+      "title": "LLMに文章を評価させると「甘口」になる？",
+      "url": "https://note.com/pharma_i_cist/n/nc1da98548a2f",
+      "date": "2026-07-21",
+      "category": "literacy",
+      "tags": [
+        "研究",
+        "薬剤師",
+        "LLM",
+        "論文",
+        "薬局"
+      ],
+      "summary": "LLMが作成した成果物を自動的かつ定量的に別のLLMに評価させる手法を「LLM-as-a-judge」と呼びますが、今回の研究は、LLMが生成した感染予防や抗菌薬耐性（以下、AMR）に関する健康情報をLLM-as-a-judgeで評価すると、どのような結果になるかを検証したものになります。 研究の方法1. 人間の専門家と3種類のLLMを比較する 今回の研究は…"
+    },
     {
       "id": "nf472ac481b53",
       "title": "WHOの医療AIに関する提言から、調剤薬局でAIを使うときの注意事項を改めて考える",
