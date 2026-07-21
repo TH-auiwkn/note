@@ -1,11 +1,28 @@
 {
   "source": "https://note.com/pharma_i_cist",
   "api": "https://note.com/api/v2/creators/pharma_i_cist/contents",
-  "generatedAt": "2026-07-20T23:04:05.071531+00:00",
+  "generatedAt": "2026-07-21T23:01:06.018959+00:00",
   "startDate": "2025-03-16",
   "timezone": "Asia/Tokyo",
-  "articleCount": 383,
+  "articleCount": 384,
   "articles": [
+    {
+      "id": "n16b70fac134b",
+      "title": "たまには私の近況を…その5",
+      "url": "https://note.com/pharma_i_cist/n/n16b70fac134b",
+      "date": "2026-07-22",
+      "category": "blog",
+      "tags": [
+        "育児",
+        "生活",
+        "トラブル",
+        "近況報告",
+        "IoT",
+        "子どもの成長を感じるとき",
+        "スマートホーム"
+      ],
+      "summary": "続・長男のランドセル…なんやかんやあって、黒をベースとしたレインボーの装飾が施されたランドセルになりました。購入直前にたまたま見たランドセルが相当印象に残ったようです。 まあ確かに、かっこいいと思いました。 レインボーのライン、レインボーのステッチ、レインボーのボタン、レインボーの稲妻…全てが少年の心をくすぐる感じで、私も個人的にちょっと欲しいと思ったくらい…"
+    },
     {
       "id": "nc1da98548a2f",
       "title": "LLMに文章を評価させると「甘口」になる？",
