@@ -1,11 +1,29 @@
 {
   "source": "https://note.com/pharma_i_cist",
   "api": "https://note.com/api/v2/creators/pharma_i_cist/contents",
-  "generatedAt": "2026-07-22T23:08:54.941414+00:00",
+  "generatedAt": "2026-07-23T22:59:50.738395+00:00",
   "startDate": "2025-03-16",
   "timezone": "Asia/Tokyo",
-  "articleCount": 385,
+  "articleCount": 386,
   "articles": [
+    {
+      "id": "nc44f9c9999a6",
+      "title": "「デジタル社会の実現に向けた重点計画」を読む（前編：AIエージェントが行政手続きを支援する？）",
+      "url": "https://note.com/pharma_i_cist/n/nc44f9c9999a6",
+      "date": "2026-07-24",
+      "category": "literacy",
+      "tags": [
+        "情報",
+        "AIエージェント",
+        "薬剤師",
+        "行政",
+        "薬局",
+        "ガバナンス",
+        "手続",
+        "デジタル庁"
+      ],
+      "summary": "こちらのページには、2026年7月21日に閣議決定された「デジタル社会の実現に向けた重点計画」に関してまとめられているのですが、この中の「本文」内に気になる記述がありました。 今回は、この記述について掘り下げてみようと思います。 現在の状況と今後の構想1. 現在の状況 現在でも、マイナポータルなどから一部の行政手続をオンラインで完結させることが可能です。しか…"
+    },
     {
       "id": "n7b42bc395529",
       "title": "AI画像生成は、誰かの思い出を描写できるのか",
