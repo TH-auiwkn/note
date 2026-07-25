@@ -1,11 +1,26 @@
 {
   "source": "https://note.com/pharma_i_cist",
   "api": "https://note.com/api/v2/creators/pharma_i_cist/contents",
-  "generatedAt": "2026-07-24T23:04:45.745463+00:00",
+  "generatedAt": "2026-07-25T22:58:20.376655+00:00",
   "startDate": "2025-03-16",
   "timezone": "Asia/Tokyo",
-  "articleCount": 387,
+  "articleCount": 388,
   "articles": [
+    {
+      "id": "nc73b4595ce9c",
+      "title": "AppleのLive Notesの「噂」を見てみましょう",
+      "url": "https://note.com/pharma_i_cist/n/nc73b4595ce9c",
+      "date": "2026-07-26",
+      "category": "news",
+      "tags": [
+        "薬剤師",
+        "apple",
+        "薬局",
+        "録音",
+        "噂"
+      ],
+      "summary": "今回は、こちらの9to5Macの記事の内容をもとに、Appleが試験運用を計画していると噂されている「Live Notes」に関して見ていきます。 なお、この記事はAppleの公式発表ではなく、BloombergのMark Gurman氏による報道を9to5Macが紹介したものであり、あくまで一部店舗での試験運用に関する報道である点には注意が必要です。 記事…"
+    },
     {
       "id": "n1c78481a6308",
       "title": "「デジタル社会の実現に向けた重点計画」を読む（後編：医療DXの推進）",
