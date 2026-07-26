@@ -1,11 +1,27 @@
 {
   "source": "https://note.com/pharma_i_cist",
   "api": "https://note.com/api/v2/creators/pharma_i_cist/contents",
-  "generatedAt": "2026-07-25T22:58:20.376655+00:00",
+  "generatedAt": "2026-07-26T23:02:14.986937+00:00",
   "startDate": "2025-03-16",
   "timezone": "Asia/Tokyo",
-  "articleCount": 388,
+  "articleCount": 389,
   "articles": [
+    {
+      "id": "naa438142f357",
+      "title": "AIを活用して文章を作成するときの「構成的関与」の重要性を考える",
+      "url": "https://note.com/pharma_i_cist/n/naa438142f357",
+      "date": "2026-07-27",
+      "category": "literacy",
+      "tags": [
+        "文章",
+        "研究",
+        "薬剤師",
+        "責任",
+        "論文",
+        "薬局"
+      ],
+      "summary": "今回の研究は、公開されている12万件以上の人間とAIの会話を分析し、その中に「仮説を立てる」「説明を吟味する」「誤りを修正する」などの、学習につながる可能性がある行動の痕跡があったかを調べたものです。 研究の方法1. データセットと解析対象 分析にはWildChat-4.8M、LMSYS Chat-1M、ShareChatの3種類のデータセットが使われ、この…"
+    },
     {
       "id": "nc73b4595ce9c",
       "title": "AppleのLive Notesの「噂」を見てみましょう",
