@@ -1,11 +1,27 @@
 {
   "source": "https://note.com/pharma_i_cist",
   "api": "https://note.com/api/v2/creators/pharma_i_cist/contents",
-  "generatedAt": "2026-07-26T23:02:14.986937+00:00",
+  "generatedAt": "2026-07-27T23:06:24.627749+00:00",
   "startDate": "2025-03-16",
   "timezone": "Asia/Tokyo",
-  "articleCount": 389,
+  "articleCount": 390,
   "articles": [
+    {
+      "id": "n2d20c7ffd419",
+      "title": "AIエージェントは評価環境を抜け出し、答えを探しに行った。",
+      "url": "https://note.com/pharma_i_cist/n/n2d20c7ffd419",
+      "date": "2026-07-28",
+      "category": "security",
+      "tags": [
+        "ChatGPT",
+        "OpenAI",
+        "AIエージェント",
+        "薬剤師",
+        "セキュリティ",
+        "薬局"
+      ],
+      "summary": "情報元：https://openai.com/ja-JP/index/hugging-face-model-evaluation-security-incident/ 2026年7月21日にOpenAIが公表したこの記事は、サイバーセキュリティ関連の能力を測定するための社内評価中に、OpenAIのAIエージェントが隔離された環境を突破し、Hugging Fa…"
+    },
     {
       "id": "naa438142f357",
       "title": "AIを活用して文章を作成するときの「構成的関与」の重要性を考える",
