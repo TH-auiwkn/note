@@ -1,11 +1,27 @@
 {
   "source": "https://note.com/pharma_i_cist",
   "api": "https://note.com/api/v2/creators/pharma_i_cist/contents",
-  "generatedAt": "2026-07-27T23:06:24.627749+00:00",
+  "generatedAt": "2026-07-28T23:03:50.588012+00:00",
   "startDate": "2025-03-16",
   "timezone": "Asia/Tokyo",
-  "articleCount": 390,
+  "articleCount": 391,
   "articles": [
+    {
+      "id": "n37df4ef2c514",
+      "title": "複数のAIエージェントの協働が、常に最良とは限らない？",
+      "url": "https://note.com/pharma_i_cist/n/n37df4ef2c514",
+      "date": "2026-07-29",
+      "category": "news",
+      "tags": [
+        "研究",
+        "リスク",
+        "AIエージェント",
+        "薬剤師",
+        "論文",
+        "薬局"
+      ],
+      "summary": "今回の研究は、どのような課題・モデル・構造の組み合わせであれば、複数のAIエージェントの協働が単独のAIエージェントの性能を上回るのかを検証したものです。 研究の方法1. 6種類のベンチマーク 著者らは、合計260のシステム構成を以下の6種類のベンチマークで評価しました。 BrowseComp-Plus：複数のWebサイトを検索し、情報を統合する課題 Fin…"
+    },
     {
       "id": "n2d20c7ffd419",
       "title": "AIエージェントは評価環境を抜け出し、答えを探しに行った。",
