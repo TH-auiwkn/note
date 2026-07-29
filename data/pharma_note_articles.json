@@ -1,11 +1,27 @@
 {
   "source": "https://note.com/pharma_i_cist",
   "api": "https://note.com/api/v2/creators/pharma_i_cist/contents",
-  "generatedAt": "2026-07-28T23:03:50.588012+00:00",
+  "generatedAt": "2026-07-29T23:01:18.159224+00:00",
   "startDate": "2025-03-16",
   "timezone": "Asia/Tokyo",
-  "articleCount": 391,
+  "articleCount": 392,
   "articles": [
+    {
+      "id": "n2d07fcb4404d",
+      "title": "生成AIが、探索的な研究者を新しい分野に導く？",
+      "url": "https://note.com/pharma_i_cist/n/n2d07fcb4404d",
+      "date": "2026-07-30",
+      "category": "news",
+      "tags": [
+        "研究",
+        "ルール",
+        "薬剤師",
+        "論文",
+        "薬局",
+        "研究者"
+      ],
+      "summary": "今回の研究は、生成AIが広く利用されるようになった時期に、「研究者は新しい分野に進出するようになったか」「共同研究者の専門分野は多様化したか」「研究チーム内の役割分担は変わったか」を検証したものになります。 研究の方法1. 研究者の抽出 研究領域と共同研究の分析にはPubMed Central（以下、PMC）の全文データとOpenAlex（学術論文・引用デー…"
+    },
     {
       "id": "n37df4ef2c514",
       "title": "複数のAIエージェントの協働が、常に最良とは限らない？",
