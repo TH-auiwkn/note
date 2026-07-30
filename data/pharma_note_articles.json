@@ -1,11 +1,29 @@
 {
   "source": "https://note.com/pharma_i_cist",
   "api": "https://note.com/api/v2/creators/pharma_i_cist/contents",
-  "generatedAt": "2026-07-29T23:01:18.159224+00:00",
+  "generatedAt": "2026-07-30T23:11:42.066250+00:00",
   "startDate": "2025-03-16",
   "timezone": "Asia/Tokyo",
-  "articleCount": 392,
+  "articleCount": 393,
   "articles": [
+    {
+      "id": "n7bc4a708f663",
+      "title": "Googleの音楽生成AI「Lyria 3.5」を使ってみましょう",
+      "url": "https://note.com/pharma_i_cist/n/n7bc4a708f663",
+      "date": "2026-07-31",
+      "category": "usage",
+      "tags": [
+        "音楽",
+        "AIとやってみた",
+        "Google",
+        "作曲",
+        "薬剤師",
+        "薬局",
+        "Lyria",
+        "プロンプト"
+      ],
+      "summary": "Googleが提供しているAI作曲プラットフォーム「Google Flow Music」内で、新しいモデル「Lyria 3.5」が使えるようになりました。 今回は実際にこのモデルを使って、音楽を作ってみようと思います。 さっそく使ってみましょう1. アクセス 冒頭のリンクからGoogle Flow Musicにアクセスし、Googleアカウントでログインしま…"
+    },
     {
       "id": "n2d07fcb4404d",
       "title": "生成AIが、探索的な研究者を新しい分野に導く？",
