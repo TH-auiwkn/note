@@ -1,11 +1,27 @@
 {
   "source": "https://note.com/pharma_i_cist",
   "api": "https://note.com/api/v2/creators/pharma_i_cist/contents",
-  "generatedAt": "2026-07-30T23:11:42.066250+00:00",
+  "generatedAt": "2026-07-31T23:05:21.435117+00:00",
   "startDate": "2025-03-16",
   "timezone": "Asia/Tokyo",
-  "articleCount": 393,
+  "articleCount": 394,
   "articles": [
+    {
+      "id": "nd88dc03e8061",
+      "title": "SEOポイズニングで、検索エンジンの「AI要約」も汚染されうる",
+      "url": "https://note.com/pharma_i_cist/n/nd88dc03e8061",
+      "date": "2026-08-01",
+      "category": "blog",
+      "tags": [
+        "リスク",
+        "薬剤師",
+        "セキュリティ",
+        "SEO",
+        "検索",
+        "薬局"
+      ],
+      "summary": ""
+    },
     {
       "id": "n7bc4a708f663",
       "title": "Googleの音楽生成AI「Lyria 3.5」を使ってみましょう",
