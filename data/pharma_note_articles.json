@@ -1,11 +1,28 @@
 {
   "source": "https://note.com/pharma_i_cist",
   "api": "https://note.com/api/v2/creators/pharma_i_cist/contents",
-  "generatedAt": "2026-07-31T23:05:21.435117+00:00",
+  "generatedAt": "2026-08-01T22:58:07.636623+00:00",
   "startDate": "2025-03-16",
   "timezone": "Asia/Tokyo",
-  "articleCount": 394,
+  "articleCount": 395,
   "articles": [
+    {
+      "id": "nb31d75aab17b",
+      "title": "人間と「パーソナルAI」の相互作用について考える",
+      "url": "https://note.com/pharma_i_cist/n/nb31d75aab17b",
+      "date": "2026-08-02",
+      "category": "literacy",
+      "tags": [
+        "未来",
+        "価値観",
+        "研究",
+        "薬剤師",
+        "論文",
+        "薬局",
+        "パーソナライズ"
+      ],
+      "summary": "例えば、ユーザーがパーソナライズ機能を備えたAIに自分の好みを伝えれば、AIはその情報を基にユーザーの価値観を学習します。 一方で、AIが提示する情報や助言もユーザーの考え方に影響を与える可能性があるため、ユーザーとAIの間には双方向の相互作用が存在すると言えます。 今回の研究では、その「ユーザーと『ユーザーに最適化されたAI（以下、パーソナルAI）』の間に…"
+    },
     {
       "id": "nd88dc03e8061",
       "title": "SEOポイズニングで、検索エンジンの「AI要約」も汚染されうる",
