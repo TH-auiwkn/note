@@ -1,11 +1,29 @@
 {
   "source": "https://note.com/pharma_i_cist",
   "api": "https://note.com/api/v2/creators/pharma_i_cist/contents",
-  "generatedAt": "2026-08-01T22:58:07.636623+00:00",
+  "generatedAt": "2026-08-02T22:59:07.105554+00:00",
   "startDate": "2025-03-16",
   "timezone": "Asia/Tokyo",
-  "articleCount": 395,
+  "articleCount": 396,
   "articles": [
+    {
+      "id": "n081262ea406f",
+      "title": "たまには私の近況を…その6",
+      "url": "https://note.com/pharma_i_cist/n/n081262ea406f",
+      "date": "2026-08-03",
+      "category": "blog",
+      "tags": [
+        "ゲーム",
+        "育児日記",
+        "レシピ",
+        "アプリ",
+        "開発",
+        "クイズ",
+        "献立",
+        "近況報告"
+      ],
+      "summary": "本当によく寝返りをする…先日長女が寝返りを始めたことをお伝えしましたが、最近はさらに磨きがかかり、少し目を離した隙にゴロンと寝返りするようになりました。 それ自体はまあ良いのですが、ベビーベッドに置いていると寝返りした後に足が柵の隙間によく引っかかるので、最近はバウンサーに寝かせたり、マットの上に転がしたりしています。 ただ、寝返りした後にもとに戻ることはで…"
+    },
     {
       "id": "nb31d75aab17b",
       "title": "人間と「パーソナルAI」の相互作用について考える",
