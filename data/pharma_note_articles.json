@@ -1,11 +1,25 @@
 {
   "source": "https://note.com/pharma_i_cist",
   "api": "https://note.com/api/v2/creators/pharma_i_cist/contents",
-  "generatedAt": "2026-08-02T22:59:07.105554+00:00",
+  "generatedAt": "2026-08-03T23:05:33.533094+00:00",
   "startDate": "2025-03-16",
   "timezone": "Asia/Tokyo",
-  "articleCount": 396,
+  "articleCount": 397,
   "articles": [
+    {
+      "id": "nef3caafd9048",
+      "title": "EU AI Actの透明性義務が、8月2日から適用になりました",
+      "url": "https://note.com/pharma_i_cist/n/nef3caafd9048",
+      "date": "2026-08-04",
+      "category": "news",
+      "tags": [
+        "薬剤師",
+        "制度",
+        "薬局",
+        "EU"
+      ],
+      "summary": "2026年8月2日、EU AI ActのArticle 50（第50条）で定められた「特定のAIシステムに対する透明性義務」が適用されました。 あくまでEU AI Actなので、日本国内ですぐにこの内容が反映されるというわけではないのですが、今後同様の義務が日本でも発生する可能性があることを踏まえ、今回はその内容を見ていこうと思います。 そもそも、何が変わる…"
+    },
     {
       "id": "n081262ea406f",
       "title": "たまには私の近況を…その6",
