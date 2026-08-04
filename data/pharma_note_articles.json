@@ -1,11 +1,27 @@
 {
   "source": "https://note.com/pharma_i_cist",
   "api": "https://note.com/api/v2/creators/pharma_i_cist/contents",
-  "generatedAt": "2026-08-03T23:05:33.533094+00:00",
+  "generatedAt": "2026-08-04T23:06:21.640106+00:00",
   "startDate": "2025-03-16",
   "timezone": "Asia/Tokyo",
-  "articleCount": 397,
+  "articleCount": 398,
   "articles": [
+    {
+      "id": "n7d0012a762af",
+      "title": "たとえLLMの知識が膨大であっても、臨床現場の柔軟な判断は…",
+      "url": "https://note.com/pharma_i_cist/n/n7d0012a762af",
+      "date": "2026-08-05",
+      "category": "news",
+      "tags": [
+        "研究",
+        "医療",
+        "薬剤師",
+        "LLM",
+        "論文",
+        "薬局"
+      ],
+      "summary": "元論文：Zhou, Q et al., (2026). Performance of large language models for oncology nursing decision support: Cross-sectional study. Journal of Medical Internet Research, 28, e97802. htt…"
+    },
     {
       "id": "nef3caafd9048",
       "title": "EU AI Actの透明性義務が、8月2日から適用になりました",
