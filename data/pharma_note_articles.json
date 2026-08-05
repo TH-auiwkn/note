@@ -1,11 +1,27 @@
 {
   "source": "https://note.com/pharma_i_cist",
   "api": "https://note.com/api/v2/creators/pharma_i_cist/contents",
-  "generatedAt": "2026-08-04T23:06:21.640106+00:00",
+  "generatedAt": "2026-08-05T23:03:50.378487+00:00",
   "startDate": "2025-03-16",
   "timezone": "Asia/Tokyo",
-  "articleCount": 398,
+  "articleCount": 399,
   "articles": [
+    {
+      "id": "ncc6d929f0b0b",
+      "title": "「Gemini Spark」を使ってみましょう",
+      "url": "https://note.com/pharma_i_cist/n/ncc6d929f0b0b",
+      "date": "2026-08-06",
+      "category": "usage",
+      "tags": [
+        "AIとやってみた",
+        "Gemini",
+        "Google",
+        "AIエージェント",
+        "薬剤師",
+        "薬局"
+      ],
+      "summary": "一足先に海外でリリースされていた「Gemini Spark」が、日本でも使えるようになりました。 ざっくり言うとGemini Sparkは「Geminiが搭載されたAIエージェント」で、他のエージェントと同様、複数のステップに分かれる複雑なタスクを一回の指示で任せることができます。 ただし、2026年8月1日現在、Gemini Sparkを試すにはGoogl…"
+    },
     {
       "id": "n7d0012a762af",
       "title": "たとえLLMの知識が膨大であっても、臨床現場の柔軟な判断は…",
