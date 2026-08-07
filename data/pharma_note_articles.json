@@ -1,11 +1,28 @@
 {
   "source": "https://note.com/pharma_i_cist",
   "api": "https://note.com/api/v2/creators/pharma_i_cist/contents",
-  "generatedAt": "2026-08-07T01:31:01.119569+00:00",
+  "generatedAt": "2026-08-07T22:40:15.531227+00:00",
   "startDate": "2025-03-16",
   "timezone": "Asia/Tokyo",
-  "articleCount": 400,
+  "articleCount": 401,
   "articles": [
+    {
+      "id": "nb9b32fc9ca27",
+      "title": "生成AIの回答から、入力されたプロンプトを復元することができるか",
+      "url": "https://note.com/pharma_i_cist/n/nb9b32fc9ca27",
+      "date": "2026-08-08",
+      "category": "usage",
+      "tags": [
+        "プロンプト",
+        "研究",
+        "薬剤師",
+        "論文",
+        "薬局",
+        "復元",
+        "LLM"
+      ],
+      "summary": "今回の研究は、LLMが生成した回答から元のプロンプトを復元する方法「PTP（Previous-Token Prediction）」に関して検証したもので、「元のプロンプトと同じ、または近い文字列を復元できるか」「復元したプロンプトから、元と似た回答を再生成できるか」という2つの目標が設定されています。 PTPの仕組みPTPでは対象となるLLMに大量の文章を生…"
+    },
     {
       "id": "nd18bb6e4cf4c",
       "title": "中国で公開予定の「国家レベルのAIエージェント向け本人確認基盤」とは",
