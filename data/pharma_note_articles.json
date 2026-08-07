@@ -1,11 +1,27 @@
 {
   "source": "https://note.com/pharma_i_cist",
   "api": "https://note.com/api/v2/creators/pharma_i_cist/contents",
-  "generatedAt": "2026-08-05T23:03:50.378487+00:00",
+  "generatedAt": "2026-08-07T01:31:01.119569+00:00",
   "startDate": "2025-03-16",
   "timezone": "Asia/Tokyo",
-  "articleCount": 399,
+  "articleCount": 400,
   "articles": [
+    {
+      "id": "nd18bb6e4cf4c",
+      "title": "中国で公開予定の「国家レベルのAIエージェント向け本人確認基盤」とは",
+      "url": "https://note.com/pharma_i_cist/n/nd18bb6e4cf4c",
+      "date": "2026-08-07",
+      "category": "literacy",
+      "tags": [
+        "中国",
+        "研究",
+        "AIエージェント",
+        "薬剤師",
+        "論文",
+        "薬局"
+      ],
+      "summary": "例えばAIエージェントが人間の代わりに商品を注文し、契約を結び、情報を送信する場合に、すべてのAIエージェントを実在する人や組織に結びつけ、プラットフォーム側がその本人情報を確認できるようにすれば、責任の所在が明確になります。 しかしこの方法では、AIエージェントが利用する（アクセスする）サービスを運営する企業に本人の情報が集中することになると考えられます。…"
+    },
     {
       "id": "ncc6d929f0b0b",
       "title": "「Gemini Spark」を使ってみましょう",
