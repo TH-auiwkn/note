@@ -1,11 +1,27 @@
 {
   "source": "https://note.com/pharma_i_cist",
   "api": "https://note.com/api/v2/creators/pharma_i_cist/contents",
-  "generatedAt": "2026-08-07T22:40:15.531227+00:00",
+  "generatedAt": "2026-08-08T22:33:21.554168+00:00",
   "startDate": "2025-03-16",
   "timezone": "Asia/Tokyo",
-  "articleCount": 401,
+  "articleCount": 402,
   "articles": [
+    {
+      "id": "n926e1776a00b",
+      "title": "ユーザーの質問の語尾で、生成AIの「賛成・反対」の態度が変わる？",
+      "url": "https://note.com/pharma_i_cist/n/n926e1776a00b",
+      "date": "2026-08-09",
+      "category": "literacy",
+      "tags": [
+        "研究",
+        "リスク",
+        "薬剤師",
+        "論文",
+        "薬局",
+        "LLM"
+      ],
+      "summary": "生成AIに相談するとき、ユーザーは完全に中立な立場から質問をするとは限りません。 例えば、「単にどちらがよいかを尋ねる場合」と「こちらの案がよいですよね、と同意を求める場合」では、質問内容がほぼ同じでも（社会的な）圧力が異なります。 そこで今回の研究では、正解のない二択問題を使って以下の点が検証されました。 同意を求める表現によって、LLMの賛成率が変わるか…"
+    },
     {
       "id": "nb9b32fc9ca27",
       "title": "生成AIの回答から、入力されたプロンプトを復元することができるか",
