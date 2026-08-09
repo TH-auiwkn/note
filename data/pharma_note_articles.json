@@ -1,11 +1,27 @@
 {
   "source": "https://note.com/pharma_i_cist",
   "api": "https://note.com/api/v2/creators/pharma_i_cist/contents",
-  "generatedAt": "2026-08-08T22:33:21.554168+00:00",
+  "generatedAt": "2026-08-09T22:34:59.449477+00:00",
   "startDate": "2025-03-16",
   "timezone": "Asia/Tokyo",
-  "articleCount": 402,
+  "articleCount": 403,
   "articles": [
+    {
+      "id": "nc31c14bf04c7",
+      "title": "84億件のペルソナで製品を評価する「MatrAIx」",
+      "url": "https://note.com/pharma_i_cist/n/nc31c14bf04c7",
+      "date": "2026-08-10",
+      "category": "literacy",
+      "tags": [
+        "研究",
+        "薬剤師",
+        "論文",
+        "薬局",
+        "シミュレーション",
+        "ペルソナ"
+      ],
+      "summary": "今回の論文は、84億件の架空の人物設定（以下、ペルソナ）を使い、AIシステムやデジタル製品の使いやすさを評価する仕組み「MatrAIx」に関して提案されているものです。 MatrAIxは、何を評価する仕組みなのか一般的なベンチマークでは、「正解を出せたか」「タスクを完了できたか」といった能力を評価しますが、実際の製品の評価の場合は、ユーザーの専門領域や経験な…"
+    },
     {
       "id": "n926e1776a00b",
       "title": "ユーザーの質問の語尾で、生成AIの「賛成・反対」の態度が変わる？",
