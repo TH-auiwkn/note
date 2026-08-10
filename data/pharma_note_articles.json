@@ -1,11 +1,28 @@
 {
   "source": "https://note.com/pharma_i_cist",
   "api": "https://note.com/api/v2/creators/pharma_i_cist/contents",
-  "generatedAt": "2026-08-09T22:34:59.449477+00:00",
+  "generatedAt": "2026-08-10T22:41:37.651476+00:00",
   "startDate": "2025-03-16",
   "timezone": "Asia/Tokyo",
-  "articleCount": 403,
+  "articleCount": 404,
   "articles": [
+    {
+      "id": "n0a7fc94fd791",
+      "title": "法務省が示した「声の権利」に関する報告を読んでみましょう",
+      "url": "https://note.com/pharma_i_cist/n/n0a7fc94fd791",
+      "date": "2026-08-11",
+      "category": "news",
+      "tags": [
+        "薬剤師",
+        "声",
+        "薬局",
+        "権利",
+        "AIリテラシー",
+        "報告書",
+        "法務省"
+      ],
+      "summary": "＜資料＞ 肖像、声等の無断利用による民事責任の在り方に関する検討会 取りまとめ報告書：https://www.moj.go.jp/content/001468286.pdf 2026年8月7日、法務省は生成AIによる肖像や声の無断利用に関する民事責任の考え方をまとめた報告書を公表しました。 この報告書では、顔や氏名と同様に、声もその人を識別し、その人の人格と…"
+    },
     {
       "id": "nc31c14bf04c7",
       "title": "84億件のペルソナで製品を評価する「MatrAIx」",
