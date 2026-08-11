@@ -1,11 +1,29 @@
 {
   "source": "https://note.com/pharma_i_cist",
   "api": "https://note.com/api/v2/creators/pharma_i_cist/contents",
-  "generatedAt": "2026-08-10T22:41:37.651476+00:00",
+  "generatedAt": "2026-08-11T22:48:13.536617+00:00",
   "startDate": "2025-03-16",
   "timezone": "Asia/Tokyo",
-  "articleCount": 404,
+  "articleCount": 405,
   "articles": [
+    {
+      "id": "nec053bcb81dc",
+      "title": "トラウマ要素を含む文章を読んだAIエージェントは、その後の買い物で何を選ぶのか",
+      "url": "https://note.com/pharma_i_cist/n/nec053bcb81dc",
+      "date": "2026-08-12",
+      "category": "news",
+      "tags": [
+        "研究",
+        "AIエージェント",
+        "トラウマ",
+        "薬剤師",
+        "論文",
+        "薬局",
+        "Claude",
+        "Gemini"
+      ],
+      "summary": "論文によると、LLMに感情的な文章を読ませたとき、回答の内容や自己評価式の不安尺度のスコアに影響が及ぶことが従来の研究で報告されている一方で、AIエージェントの行動にまで影響が及ぶかどうかは十分に検証されていなかったとされています。 そこで今回の研究では、トラウマ要素を含む文章がAIエージェントの商品検索や購入などの行動にどう影響するのかが検証されています。…"
+    },
     {
       "id": "n0a7fc94fd791",
       "title": "法務省が示した「声の権利」に関する報告を読んでみましょう",
