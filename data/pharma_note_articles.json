@@ -1,11 +1,28 @@
 {
   "source": "https://note.com/pharma_i_cist",
   "api": "https://note.com/api/v2/creators/pharma_i_cist/contents",
-  "generatedAt": "2026-08-11T22:48:13.536617+00:00",
+  "generatedAt": "2026-08-12T22:44:57.668912+00:00",
   "startDate": "2025-03-16",
   "timezone": "Asia/Tokyo",
-  "articleCount": 405,
+  "articleCount": 406,
   "articles": [
+    {
+      "id": "n06428f96a843",
+      "title": "Googleスライドをもとに、Google Vidsの動画を作成する",
+      "url": "https://note.com/pharma_i_cist/n/n06428f96a843",
+      "date": "2026-08-13",
+      "category": "blog",
+      "tags": [
+        "AI活用",
+        "AIとやってみた",
+        "Google",
+        "薬剤師",
+        "薬局",
+        "Googleスライド",
+        "GoogleVids"
+      ],
+      "summary": "最近、GoogleスライドをGoogle Vidsに取り込んだ際、自動でスクリプト（字幕）とナレーションまで生成してくれるようになりました。 Googleスライドの取り込み自体は前からできていたのですが、これまではスクリプトを予め設定しておくかVidsに手入力するかで対応する必要があったので、かゆいところに手が届いたような形になります。 …というわけで、今回…"
+    },
     {
       "id": "nec053bcb81dc",
       "title": "トラウマ要素を含む文章を読んだAIエージェントは、その後の買い物で何を選ぶのか",
