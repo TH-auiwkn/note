@@ -1,11 +1,29 @@
 {
   "source": "https://note.com/pharma_i_cist",
   "api": "https://note.com/api/v2/creators/pharma_i_cist/contents",
-  "generatedAt": "2026-08-12T22:44:57.668912+00:00",
+  "generatedAt": "2026-08-13T22:47:06.877868+00:00",
   "startDate": "2025-03-16",
   "timezone": "Asia/Tokyo",
-  "articleCount": 406,
+  "articleCount": 407,
   "articles": [
+    {
+      "id": "n3320d6cc5658",
+      "title": "「新しくて規模が大きい生成AI」でも、メンタルヘルスの問題は…",
+      "url": "https://note.com/pharma_i_cist/n/n3320d6cc5658",
+      "date": "2026-08-14",
+      "category": "news",
+      "tags": [
+        "メンタル",
+        "メンタルヘルス",
+        "研究",
+        "リスク",
+        "薬剤師",
+        "論文",
+        "薬局",
+        "LLM"
+      ],
+      "summary": "今回の研究は、AIとの会話で心理的な被害を受けたと報告したユーザーの実際の会話履歴を使い、各LLMが妄想を肯定したり、自傷行為や他人への危害を制止しなかったりする傾向を比較したものになります。 研究の方法1. 対象となった会話データ 今回の研究の対象となった会話データは、AIの利用に関連した「妄想的な思考」などの心理的被害を自己申告した18人から提供されたも…"
+    },
     {
       "id": "n06428f96a843",
       "title": "Googleスライドをもとに、Google Vidsの動画を作成する",
