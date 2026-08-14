@@ -1,11 +1,29 @@
 {
   "source": "https://note.com/pharma_i_cist",
   "api": "https://note.com/api/v2/creators/pharma_i_cist/contents",
-  "generatedAt": "2026-08-13T22:47:06.877868+00:00",
+  "generatedAt": "2026-08-14T22:27:11.185676+00:00",
   "startDate": "2025-03-16",
   "timezone": "Asia/Tokyo",
-  "articleCount": 407,
+  "articleCount": 408,
   "articles": [
+    {
+      "id": "n9e0c292d1366",
+      "title": "今一度、メール内のリンクや添付ファイルを安易に開かないことを徹底しましょう",
+      "url": "https://note.com/pharma_i_cist/n/n9e0c292d1366",
+      "date": "2026-08-15",
+      "category": "security",
+      "tags": [
+        "薬剤師",
+        "セキュリティ",
+        "メール",
+        "薬局",
+        "サイバー攻撃",
+        "Gmail",
+        "ランサムウェア",
+        "ソーシャルエンジニアリング"
+      ],
+      "summary": "こちらの記事は、アメリカのProofpointが公開した「2026 AI-Era Ransomware Report」をITmedia NEWSが紹介したものです。 具体的には、ランサムウェアの被害を受けた組織がそもそもどこから被害を受けたのかを、セキュリティ担当者への聞き取りからまとめたものになります。 記事の内容を見てみましょう1. 調査の条件 調査の条…"
+    },
     {
       "id": "n3320d6cc5658",
       "title": "「新しくて規模が大きい生成AI」でも、メンタルヘルスの問題は…",
