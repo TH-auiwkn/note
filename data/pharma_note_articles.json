@@ -1,11 +1,27 @@
 {
   "source": "https://note.com/pharma_i_cist",
   "api": "https://note.com/api/v2/creators/pharma_i_cist/contents",
-  "generatedAt": "2026-08-17T22:28:08.788335+00:00",
+  "generatedAt": "2026-08-18T22:27:21.290147+00:00",
   "startDate": "2025-03-16",
   "timezone": "Asia/Tokyo",
-  "articleCount": 411,
+  "articleCount": 412,
   "articles": [
+    {
+      "id": "nd6a8ac015aeb",
+      "title": "Sakana Chatがアップデートされました",
+      "url": "https://note.com/pharma_i_cist/n/nd6a8ac015aeb",
+      "date": "2026-08-19",
+      "category": "blog",
+      "tags": [
+        "AI活用",
+        "AIとやってみた",
+        "AIエージェント",
+        "薬剤師",
+        "薬局",
+        "sakanaai"
+      ],
+      "summary": "先日のアップデートにより、Sakana Chat上で新世代のSakana NamazuとSakana Fuguが試せるようになりました。 加えて文章の生成だけでなく、コードの出力や修正、データ分析、グラフの作成などもできるようになったようです。 Sakana NamazuとSakana Fuguのいずれを選択した場合でもSakana Chatでできること自体…"
+    },
     {
       "id": "n03f3829a516e",
       "title": "Google発の医療AI「AMIE」のレポートを見てみましょう",
