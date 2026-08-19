@@ -1,11 +1,27 @@
 {
   "source": "https://note.com/pharma_i_cist",
   "api": "https://note.com/api/v2/creators/pharma_i_cist/contents",
-  "generatedAt": "2026-08-18T22:27:21.290147+00:00",
+  "generatedAt": "2026-08-19T22:28:19.692862+00:00",
   "startDate": "2025-03-16",
   "timezone": "Asia/Tokyo",
-  "articleCount": 412,
+  "articleCount": 413,
   "articles": [
+    {
+      "id": "n1814d8414ed5",
+      "title": "医療AIは、性能が高ければ受け入れられるのか？",
+      "url": "https://note.com/pharma_i_cist/n/n1814d8414ed5",
+      "date": "2026-08-20",
+      "category": "news",
+      "tags": [
+        "研究",
+        "医療",
+        "薬剤師",
+        "論文",
+        "薬局",
+        "ChatGPT"
+      ],
+      "summary": "元論文：https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2852422 Balcı, M. F., Akdemi̇r, C., & Yildirim, F. (2026). Can artificial intelligence counsel expectant mothers? E…"
+    },
     {
       "id": "nd6a8ac015aeb",
       "title": "Sakana Chatがアップデートされました",
