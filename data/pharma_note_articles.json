@@ -1,11 +1,28 @@
 {
   "source": "https://note.com/pharma_i_cist",
   "api": "https://note.com/api/v2/creators/pharma_i_cist/contents",
-  "generatedAt": "2026-08-19T22:28:19.692862+00:00",
+  "generatedAt": "2026-08-20T22:31:21.683107+00:00",
   "startDate": "2025-03-16",
   "timezone": "Asia/Tokyo",
-  "articleCount": 413,
+  "articleCount": 414,
   "articles": [
+    {
+      "id": "n03eb4b598858",
+      "title": "AIは、日常会話からユーザーの話し方や反応の癖を予測できるか",
+      "url": "https://note.com/pharma_i_cist/n/n03eb4b598858",
+      "date": "2026-08-21",
+      "category": "news",
+      "tags": [
+        "未来",
+        "研究",
+        "医療",
+        "薬剤師",
+        "論文",
+        "薬局",
+        "JITAI"
+      ],
+      "summary": "今回の研究は、スマートウォッチに記録された長期にわたる日常会話の履歴から個人特有の行動パターンを抽出し、現在の状況に応じて次の行動を予測できるかを検証したものになります。 研究の方法1. 参加者とデータの収集 参加者は18歳以上の英語話者14人で、各参加者はスマートウォッチを7〜10日間装着した状態で過ごしました。 音声データの収集は、音声が検出されるたびに…"
+    },
     {
       "id": "n1814d8414ed5",
       "title": "医療AIは、性能が高ければ受け入れられるのか？",
