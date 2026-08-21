@@ -1,11 +1,29 @@
 {
   "source": "https://note.com/pharma_i_cist",
   "api": "https://note.com/api/v2/creators/pharma_i_cist/contents",
-  "generatedAt": "2026-08-20T22:31:21.683107+00:00",
+  "generatedAt": "2026-08-21T22:28:37.760126+00:00",
   "startDate": "2025-03-16",
   "timezone": "Asia/Tokyo",
-  "articleCount": 414,
+  "articleCount": 415,
   "articles": [
+    {
+      "id": "n50e3fea72b83",
+      "title": "SNSで高い影響力を持つ研究者が、必ずしも高い学術的評価や専門性を持つとは限らない？",
+      "url": "https://note.com/pharma_i_cist/n/n50e3fea72b83",
+      "date": "2026-08-22",
+      "category": "news",
+      "tags": [
+        "SNS",
+        "Twitter",
+        "研究",
+        "薬剤師",
+        "X",
+        "論文",
+        "薬局",
+        "影響力"
+      ],
+      "summary": "今回の研究は、約9.9万人の研究者のTwitter（現：X）への投稿を分析し、研究者の学術的な評価・専門性とSNS上の影響力が一致しているかどうか、そしてアメリカの研究者が一般のTwitterユーザーと比べてどのような政治的立場を示していたかを検証したものになります。 研究の方法1. 対象と規模 分析対象となったのは、TwitterアカウントとOpenAle…"
+    },
     {
       "id": "n03eb4b598858",
       "title": "AIは、日常会話からユーザーの話し方や反応の癖を予測できるか",
