@@ -1,11 +1,28 @@
 {
   "source": "https://note.com/pharma_i_cist",
   "api": "https://note.com/api/v2/creators/pharma_i_cist/contents",
-  "generatedAt": "2026-08-21T22:28:37.760126+00:00",
+  "generatedAt": "2026-08-22T22:25:59.537541+00:00",
   "startDate": "2025-03-16",
   "timezone": "Asia/Tokyo",
-  "articleCount": 415,
+  "articleCount": 416,
   "articles": [
+    {
+      "id": "n46312313b261",
+      "title": "「Claude Academy」で、AIのことを学びましょう",
+      "url": "https://note.com/pharma_i_cist/n/n46312313b261",
+      "date": "2026-08-23",
+      "category": "literacy",
+      "tags": [
+        "AI活用",
+        "Claude",
+        "学習",
+        "薬剤師",
+        "Anthropic",
+        "薬局",
+        "AIリテラシー"
+      ],
+      "summary": "2026年8月20日、AnthropicはAIとClaudeについて学べるWebサイト「Claude Academy」を公開しました。 今回の記事ではこのClaude Academyを簡単に紹介し、実際の受講の流れを紹介したいと思います。 Claude AcademyとはClaude AcademyはClaudeの基本操作だけでなく、生成AIの仕組み、AIリ…"
+    },
     {
       "id": "n50e3fea72b83",
       "title": "SNSで高い影響力を持つ研究者が、必ずしも高い学術的評価や専門性を持つとは限らない？",
