@@ -1,11 +1,27 @@
 {
   "source": "https://note.com/pharma_i_cist",
   "api": "https://note.com/api/v2/creators/pharma_i_cist/contents",
-  "generatedAt": "2026-08-22T22:25:59.537541+00:00",
+  "generatedAt": "2026-08-23T22:26:01.726094+00:00",
   "startDate": "2025-03-16",
   "timezone": "Asia/Tokyo",
-  "articleCount": 416,
+  "articleCount": 417,
   "articles": [
+    {
+      "id": "n32472ee2e2ba",
+      "title": "臨床現場の「人を助けたい」という価値観が、ソーシャルエンジニアリングに利用される？",
+      "url": "https://note.com/pharma_i_cist/n/n32472ee2e2ba",
+      "date": "2026-08-24",
+      "category": "security",
+      "tags": [
+        "考察",
+        "医療",
+        "リスク",
+        "薬剤師",
+        "セキュリティ",
+        "薬局"
+      ],
+      "summary": "この記事は、会話そのものを攻撃の経路にするソーシャルエンジニアリングについてまとめられたものです。 記事によると、攻撃者は電話やSMS、TeamsやSlackといった日常の連絡手段で人間に直接コンタクトを取り、正規の手続きを経て組織の中へ入れてもらおうとしていると報告されています。 なお、この記事の執筆者はDoppelのJosh Bartolomie氏であり…"
+    },
     {
       "id": "n46312313b261",
       "title": "「Claude Academy」で、AIのことを学びましょう",
