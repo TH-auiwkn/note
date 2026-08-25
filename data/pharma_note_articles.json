@@ -1,11 +1,26 @@
 {
   "source": "https://note.com/pharma_i_cist",
   "api": "https://note.com/api/v2/creators/pharma_i_cist/contents",
-  "generatedAt": "2026-08-24T22:30:05.266635+00:00",
+  "generatedAt": "2026-08-25T22:31:08.718867+00:00",
   "startDate": "2025-03-16",
   "timezone": "Asia/Tokyo",
-  "articleCount": 418,
+  "articleCount": 419,
   "articles": [
+    {
+      "id": "n978c2fffd794",
+      "title": "生成AIが作った反論で、道徳的判断が覆るのか",
+      "url": "https://note.com/pharma_i_cist/n/n978c2fffd794",
+      "date": "2026-08-26",
+      "category": "news",
+      "tags": [
+        "研究",
+        "薬剤師",
+        "論文",
+        "薬局",
+        "認知的オフローディング"
+      ],
+      "summary": "元論文：Tamura, K et al., (2027). Large language model counterarguments in older adults: Cognitive offloading or susceptibility to moral persuasion? Computers in Human Behavior, 186(10…"
+    },
     {
       "id": "nd0973d78033d",
       "title": "「AIエージェントが遺志を実行し続ける未来」に対して、どのような意見が生まれるか",
