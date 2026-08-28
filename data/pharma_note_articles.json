@@ -1,11 +1,27 @@
 {
   "source": "https://note.com/pharma_i_cist",
   "api": "https://note.com/api/v2/creators/pharma_i_cist/contents",
-  "generatedAt": "2026-08-27T03:01:00.640571+00:00",
+  "generatedAt": "2026-08-28T06:01:21.479484+00:00",
   "startDate": "2025-03-16",
   "timezone": "Asia/Tokyo",
-  "articleCount": 420,
+  "articleCount": 421,
   "articles": [
+    {
+      "id": "ndc00022a2607",
+      "title": "バイブコーディングの経験は、アプリ開発を本格的に学ぶための入口になるか",
+      "url": "https://note.com/pharma_i_cist/n/ndc00022a2607",
+      "date": "2026-08-28",
+      "category": "news",
+      "tags": [
+        "研究",
+        "AIエージェント",
+        "薬剤師",
+        "論文",
+        "薬局",
+        "バイブコーディング"
+      ],
+      "summary": "今回の研究は、プログラミング未経験者から経験者までが幅広く参加できるバイブコーディングのハッカソン（短い時間でアプリやサービスを開発し、その成果を競い合うイベント）を実際に開催し、以下の3点を検証したものになります。 経験が異なる人のプログラミング教育を支援できるか バイブコーディングを学ぶ競技をどのように設計できるか 将来のプログラミング教育にどのような影…"
+    },
     {
       "id": "na752e949afea",
       "title": "AIとの恋愛は、どのように始まり、深まり、終わるのか",
