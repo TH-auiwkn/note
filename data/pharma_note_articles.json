@@ -1,11 +1,27 @@
 {
   "source": "https://note.com/pharma_i_cist",
   "api": "https://note.com/api/v2/creators/pharma_i_cist/contents",
-  "generatedAt": "2026-08-28T06:01:21.479484+00:00",
+  "generatedAt": "2026-08-29T03:34:36.994817+00:00",
   "startDate": "2025-03-16",
   "timezone": "Asia/Tokyo",
-  "articleCount": 421,
+  "articleCount": 422,
   "articles": [
+    {
+      "id": "n08aceb475ee5",
+      "title": "「Gemini 3.5 Transcribe」で音声を文字起こししてみましょう",
+      "url": "https://note.com/pharma_i_cist/n/n08aceb475ee5",
+      "date": "2026-08-29",
+      "category": "news",
+      "tags": [
+        "AIとやってみた",
+        "Gemini",
+        "Google",
+        "薬剤師",
+        "薬局",
+        "文字起こし"
+      ],
+      "summary": "こちらは、Googleが2026年8月に公開した音声文字起こし専用のモデル「Gemini 3.5 Transcribe」の仕様をまとめたページになります。 イメージとしては、「音声をそのまま文字にするだけでなく、誰が話したか、いつ話したか、専門用語をどう認識させるか、読みやすく整形するかまで指定できる文字起こし専用Gemini」といったところでしょうか。 概…"
+    },
     {
       "id": "ndc00022a2607",
       "title": "バイブコーディングの経験は、アプリ開発を本格的に学ぶための入口になるか",
