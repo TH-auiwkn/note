@@ -1,11 +1,29 @@
 {
   "source": "https://note.com/pharma_i_cist",
   "api": "https://note.com/api/v2/creators/pharma_i_cist/contents",
-  "generatedAt": "2026-08-29T03:34:36.994817+00:00",
+  "generatedAt": "2026-08-29T23:58:06.004975+00:00",
   "startDate": "2025-03-16",
   "timezone": "Asia/Tokyo",
-  "articleCount": 422,
+  "articleCount": 423,
   "articles": [
+    {
+      "id": "ne7cd3081ae15",
+      "title": "たまには私の近況を…その8",
+      "url": "https://note.com/pharma_i_cist/n/ne7cd3081ae15",
+      "date": "2026-08-30",
+      "category": "blog",
+      "tags": [
+        "育児",
+        "生活",
+        "ありがとう",
+        "夏休み",
+        "練習",
+        "薬剤師",
+        "離乳食",
+        "お礼"
+      ],
+      "summary": "続・長男の鍵盤ハーモニカめちゃくちゃ上達しました。 いや〜、継続は力なり、ですね。 先方（幼稚園の先生）から指定された通りの運指で演奏できていますし、テンポもほぼキープできています。 …強いて心配な点を挙げるなら、周りのテンポに合わせて演奏する練習はできていないので、幼稚園の合わせ練習のときに1人で勝手に突っ走っていってしまう可能性がありますね。 とりあえず…"
+    },
     {
       "id": "n08aceb475ee5",
       "title": "「Gemini 3.5 Transcribe」で音声を文字起こししてみましょう",
