@@ -1,11 +1,29 @@
 {
   "source": "https://note.com/pharma_i_cist",
   "api": "https://note.com/api/v2/creators/pharma_i_cist/contents",
-  "generatedAt": "2026-08-29T23:58:06.004975+00:00",
+  "generatedAt": "2026-08-31T00:17:51.570748+00:00",
   "startDate": "2025-03-16",
   "timezone": "Asia/Tokyo",
-  "articleCount": 423,
+  "articleCount": 424,
   "articles": [
+    {
+      "id": "nac875da29e9d",
+      "title": "医療AIの研究の公開コードに、APIキーが残っている可能性がある？",
+      "url": "https://note.com/pharma_i_cist/n/nac875da29e9d",
+      "date": "2026-08-31",
+      "category": "news",
+      "tags": [
+        "アプリ",
+        "研究",
+        "薬剤師",
+        "セキュリティ",
+        "論文",
+        "薬局",
+        "Github",
+        "API"
+      ],
+      "summary": "今回の研究は、医療AIに関連する論文とそれらからリンクされた公開GitHubリポジトリを対象に、APIキーなどの認証情報がコード内に残っていないかを調査したものです。 APIキーは、外部のサービスが提供する機能（API）を利用する際に必要となる、正当な利用者であることを証明するためのパスワードのような文字列（鍵）です。 研究の方法1. 対象となった論文 今回…"
+    },
     {
       "id": "ne7cd3081ae15",
       "title": "たまには私の近況を…その8",
