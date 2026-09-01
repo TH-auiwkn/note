@@ -1,11 +1,27 @@
 {
   "source": "https://note.com/pharma_i_cist",
   "api": "https://note.com/api/v2/creators/pharma_i_cist/contents",
-  "generatedAt": "2026-08-31T00:17:51.570748+00:00",
+  "generatedAt": "2026-09-01T01:06:13.397737+00:00",
   "startDate": "2025-03-16",
   "timezone": "Asia/Tokyo",
-  "articleCount": 424,
+  "articleCount": 425,
   "articles": [
+    {
+      "id": "n2ec7fa84179a",
+      "title": "AIシステムにおける「グラフエンジニアリング」とは？",
+      "url": "https://note.com/pharma_i_cist/n/n2ec7fa84179a",
+      "date": "2026-09-01",
+      "category": "news",
+      "tags": [
+        "AIエージェント",
+        "薬剤師",
+        "薬局",
+        "AIリテラシー",
+        "グラフエンジニアリング",
+        "論文"
+      ],
+      "summary": "今回の論文は、AIシステムの設計における「グラフエンジニアリング」について提案されたものになります。 グラフエンジニアリングとはグラフエンジニアリングは2026年に提案された比較的新しい概念で、実際の作業や担当者（AI）を「点（ノード）」、依存関係や情報の流れを「線（エッジ）」で結び、主に以下の3点を設計します。 作業をどう分解し、どの順番で進めるか どのA…"
+    },
     {
       "id": "nac875da29e9d",
       "title": "医療AIの研究の公開コードに、APIキーが残っている可能性がある？",
