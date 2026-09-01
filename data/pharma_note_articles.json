@@ -1,11 +1,27 @@
 {
   "source": "https://note.com/pharma_i_cist",
   "api": "https://note.com/api/v2/creators/pharma_i_cist/contents",
-  "generatedAt": "2026-09-01T01:06:13.397737+00:00",
+  "generatedAt": "2026-09-01T23:53:31.375374+00:00",
   "startDate": "2025-03-16",
   "timezone": "Asia/Tokyo",
-  "articleCount": 425,
+  "articleCount": 426,
   "articles": [
+    {
+      "id": "nc96b10e87e7c",
+      "title": "プロンプトの詳細さは、AIエージェントのコストにどう影響するのか",
+      "url": "https://note.com/pharma_i_cist/n/nc96b10e87e7c",
+      "date": "2026-09-02",
+      "category": "news",
+      "tags": [
+        "プロンプト",
+        "研究",
+        "AIエージェント",
+        "薬剤師",
+        "論文",
+        "薬局"
+      ],
+      "summary": "今回の研究は、AIにコードの修正を任せるタスクに関して、指示の詳細さが費用・ターン数・解決率にどのような影響を及ぼすのかを検証したものです。 研究の方法1. 検証の環境 今回の検証に使われたモデルはKimi K3で、推論の深さは「low」「high」「max」の3段階に分かれていました。 また、エージェント基盤（コードの修正を進めさせる仕組み）はmini-s…"
+    },
     {
       "id": "n2ec7fa84179a",
       "title": "AIシステムにおける「グラフエンジニアリング」とは？",
