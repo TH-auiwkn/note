@@ -1,11 +1,29 @@
 {
   "source": "https://note.com/pharma_i_cist",
   "api": "https://note.com/api/v2/creators/pharma_i_cist/contents",
-  "generatedAt": "2026-09-01T23:53:31.375374+00:00",
+  "generatedAt": "2026-09-02T23:55:18.786647+00:00",
   "startDate": "2025-03-16",
   "timezone": "Asia/Tokyo",
-  "articleCount": 426,
+  "articleCount": 427,
   "articles": [
+    {
+      "id": "n8b20bb5a0500",
+      "title": "薬剤師が投稿すべきではないAI生成コンテンツについて考える（前編）",
+      "url": "https://note.com/pharma_i_cist/n/n8b20bb5a0500",
+      "date": "2026-09-03",
+      "category": "news",
+      "tags": [
+        "動画",
+        "SNS",
+        "AI画像生成",
+        "薬剤師",
+        "倫理",
+        "薬局",
+        "AIリテラシー",
+        "研究"
+      ],
+      "summary": "皆さんは、「薬剤師がSNSに投稿すべきではないAI生成コンテンツ」の線引きができますか？ そんなのできて当たり前だ、と思われている方も多いかもしれませんが、AI生成コンテンツでちょっとした炎上騒ぎも起こっている現状を踏まえ、今回は記事を2つに分けてこの線引きに関して改めて考察しようと思います。 前編では、まず過去の研究を参考に、AI生成コンテンツを公開するに…"
+    },
     {
       "id": "nc96b10e87e7c",
       "title": "プロンプトの詳細さは、AIエージェントのコストにどう影響するのか",
