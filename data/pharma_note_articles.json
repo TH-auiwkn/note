@@ -1,11 +1,29 @@
 {
   "source": "https://note.com/pharma_i_cist",
   "api": "https://note.com/api/v2/creators/pharma_i_cist/contents",
-  "generatedAt": "2026-09-02T23:55:18.786647+00:00",
+  "generatedAt": "2026-09-03T23:52:09.534622+00:00",
   "startDate": "2025-03-16",
   "timezone": "Asia/Tokyo",
-  "articleCount": 427,
+  "articleCount": 428,
   "articles": [
+    {
+      "id": "n7c5b01924457",
+      "title": "薬剤師が投稿すべきではないAI生成コンテンツについて考える（後編）",
+      "url": "https://note.com/pharma_i_cist/n/n7c5b01924457",
+      "date": "2026-09-04",
+      "category": "news",
+      "tags": [
+        "動画",
+        "SNS",
+        "AI画像生成",
+        "薬剤師",
+        "倫理",
+        "薬局",
+        "AIリテラシー",
+        "研究"
+      ],
+      "summary": "＜前編はこちら＞ 前編では、過去の研究の内容をもとに、AI生成画像を公開するにあたって何に注意すべきなのかを確認しました。 後編ではそれを踏まえて、「薬剤師が投稿すべきではないAI生成画像」の具体例を見ていきます。 AI生成コンテンツを公開するにあたっての、5つの注意点初めて見る人がどう感じるかを想像する 例えば笑えるコンテンツとして公開するなら、その笑いの…"
+    },
     {
       "id": "n8b20bb5a0500",
       "title": "薬剤師が投稿すべきではないAI生成コンテンツについて考える（前編）",
