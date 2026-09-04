@@ -1,11 +1,29 @@
 {
   "source": "https://note.com/pharma_i_cist",
   "api": "https://note.com/api/v2/creators/pharma_i_cist/contents",
-  "generatedAt": "2026-09-03T23:52:09.534622+00:00",
+  "generatedAt": "2026-09-04T23:49:50.433369+00:00",
   "startDate": "2025-03-16",
   "timezone": "Asia/Tokyo",
-  "articleCount": 428,
+  "articleCount": 429,
   "articles": [
+    {
+      "id": "nf8f49048f0e6",
+      "title": "Anthropicが発表した「MHS」とは？",
+      "url": "https://note.com/pharma_i_cist/n/nf8f49048f0e6",
+      "date": "2026-09-05",
+      "category": "news",
+      "tags": [
+        "未来",
+        "考察",
+        "AIエージェント",
+        "薬剤師",
+        "Anthropic",
+        "薬局",
+        "フィジカルAI",
+        "MHS"
+      ],
+      "summary": "2026年8月27日、Anthropicは「Model Hardware Standard（MHS）」という新しい規格を発表しました。 ざっくり言うと、AI（エージェント）と物理的な機械をつなぐための共通規格というイメージです。 現時点では研究室や製造現場が主な対象とされていますが、いずれ医療機関にも対象が広がる可能性があることも想定し、今回は上記のAnth…"
+    },
     {
       "id": "n7c5b01924457",
       "title": "薬剤師が投稿すべきではないAI生成コンテンツについて考える（後編）",
