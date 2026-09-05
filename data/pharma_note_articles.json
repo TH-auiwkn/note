@@ -1,11 +1,27 @@
 {
   "source": "https://note.com/pharma_i_cist",
   "api": "https://note.com/api/v2/creators/pharma_i_cist/contents",
-  "generatedAt": "2026-09-04T23:49:50.433369+00:00",
+  "generatedAt": "2026-09-05T23:38:56.328712+00:00",
   "startDate": "2025-03-16",
   "timezone": "Asia/Tokyo",
-  "articleCount": 429,
+  "articleCount": 430,
   "articles": [
+    {
+      "id": "n3c5ba195d4ec",
+      "title": "ChatGPTの「Visualize」を使ってみましょう",
+      "url": "https://note.com/pharma_i_cist/n/n3c5ba195d4ec",
+      "date": "2026-09-06",
+      "category": "usage",
+      "tags": [
+        "ChatGPT",
+        "AI活用",
+        "AIとやってみた",
+        "OpenAI",
+        "薬剤師",
+        "薬局"
+      ],
+      "summary": "皆さんは、ChatGPTの「Visualize」を使われたことはありますか？ ざっくり言うと「質問やデータを、ChatGPTのチャット上で操作できる図解やグラフに変換する機能」なのですが、フローチャート、地図、数値を動かすと結果が変化する計算ツール、シミュレーション、段階に分かれた解説など、様々なコンテンツが作成できます。 非常に便利ですが、プランや環境によ…"
+    },
     {
       "id": "nf8f49048f0e6",
       "title": "Anthropicが発表した「MHS」とは？",
