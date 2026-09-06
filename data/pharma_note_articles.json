@@ -1,11 +1,28 @@
 {
   "source": "https://note.com/pharma_i_cist",
   "api": "https://note.com/api/v2/creators/pharma_i_cist/contents",
-  "generatedAt": "2026-09-05T23:38:56.328712+00:00",
+  "generatedAt": "2026-09-06T23:37:31.065900+00:00",
   "startDate": "2025-03-16",
   "timezone": "Asia/Tokyo",
-  "articleCount": 430,
+  "articleCount": 431,
   "articles": [
+    {
+      "id": "n9881023a2426",
+      "title": "「感染症の診断と抗菌薬の処方にLLMを活用する研究」の現在地",
+      "url": "https://note.com/pharma_i_cist/n/n9881023a2426",
+      "date": "2026-09-07",
+      "category": "news",
+      "tags": [
+        "研究",
+        "薬剤師",
+        "LLM",
+        "論文",
+        "薬局",
+        "感染症",
+        "抗菌薬"
+      ],
+      "summary": "今回の研究は、感染症の診断と抗菌薬の処方にLLMを活用する研究が、現時点でどこまで進んでいるのかを検証したスコーピングレビューになります。 研究の方法1. 47件の論文の選定 この研究はPRISMA-ScRと呼ばれるガイドラインに沿ったスコーピングレビューとなっており、以下の条件で論文が選定されました。 検索先はPubMed / MEDLINEのみで、最終検…"
+    },
     {
       "id": "n3c5ba195d4ec",
       "title": "ChatGPTの「Visualize」を使ってみましょう",
