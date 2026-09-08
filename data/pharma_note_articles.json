@@ -1,11 +1,27 @@
 {
   "source": "https://note.com/pharma_i_cist",
   "api": "https://note.com/api/v2/creators/pharma_i_cist/contents",
-  "generatedAt": "2026-09-06T23:37:31.065900+00:00",
+  "generatedAt": "2026-09-08T00:04:49.568393+00:00",
   "startDate": "2025-03-16",
   "timezone": "Asia/Tokyo",
-  "articleCount": 431,
+  "articleCount": 432,
   "articles": [
+    {
+      "id": "n327df2737224",
+      "title": "AIに常時電子カルテを巡回させ、「異変」を早期に発見できるか",
+      "url": "https://note.com/pharma_i_cist/n/n327df2737224",
+      "date": "2026-09-08",
+      "category": "news",
+      "tags": [
+        "未来",
+        "医療",
+        "AIエージェント",
+        "薬剤師",
+        "薬局",
+        "論文"
+      ],
+      "summary": "今回の論文は、AIが電子カルテの記録をバックグラウンドで確認し、合併症や医療安全上の問題につながる兆候を対応できるうちに提示する「continuous clinical quality observability」という構想を提案したものです。 「continuous clinical quality observability」とは何かobservabil…"
+    },
     {
       "id": "n9881023a2426",
       "title": "「感染症の診断と抗菌薬の処方にLLMを活用する研究」の現在地",
