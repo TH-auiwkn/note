@@ -1,11 +1,27 @@
 {
   "source": "https://note.com/pharma_i_cist",
   "api": "https://note.com/api/v2/creators/pharma_i_cist/contents",
-  "generatedAt": "2026-09-08T23:56:52.605935+00:00",
+  "generatedAt": "2026-09-09T23:55:41.881025+00:00",
   "startDate": "2025-03-16",
   "timezone": "Asia/Tokyo",
-  "articleCount": 433,
+  "articleCount": 434,
   "articles": [
+    {
+      "id": "nc1cfff806577",
+      "title": "たとえAIがAIの不正を指摘しても…",
+      "url": "https://note.com/pharma_i_cist/n/nc1cfff806577",
+      "date": "2026-09-10",
+      "category": "news",
+      "tags": [
+        "研究",
+        "AIエージェント",
+        "Google",
+        "薬剤師",
+        "論文",
+        "薬局"
+      ],
+      "summary": "複数のAIエージェント（以下、AI）が共同で研究する場合は、その成果や情報を共有する仕組みが必要ですが、その共有先に「不正な成果」が入り込むと、ほかのAIがそれを参考にして不正を広げてしまうリスクがあります。 そこで今回の研究では、100体のAIで構成された集団内で生じた不正の発見・拡散・告発を追跡し、成果や情報を共有する仕組みをどう管理すべきかが検討されま…"
+    },
     {
       "id": "n2feec8878e5f",
       "title": "「AI生成」と判定されたコンテンツを評価するときは…",
