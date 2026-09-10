@@ -1,11 +1,28 @@
 {
   "source": "https://note.com/pharma_i_cist",
   "api": "https://note.com/api/v2/creators/pharma_i_cist/contents",
-  "generatedAt": "2026-09-09T23:55:41.881025+00:00",
+  "generatedAt": "2026-09-10T23:51:25.281274+00:00",
   "startDate": "2025-03-16",
   "timezone": "Asia/Tokyo",
-  "articleCount": 434,
+  "articleCount": 435,
   "articles": [
+    {
+      "id": "nb4063b3f501a",
+      "title": "ドパガキがドパガキたる所以は、ドパミンがドパドパだからなのか",
+      "url": "https://note.com/pharma_i_cist/n/nb4063b3f501a",
+      "date": "2026-09-11",
+      "category": "blog",
+      "tags": [
+        "エッセイ",
+        "考察",
+        "薬剤師",
+        "薬局",
+        "ショート動画",
+        "ドパガキ",
+        "ドパミン"
+      ],
+      "summary": "今回のまとめドパガキがドパガキと呼ばれる所以は、「短時間で強い刺激を次々に求めようとする行動が、そのように見えるから」であって、実際にドパミンがドパドパだと確認されたからではありません。 「ドパガキ」は俗語。病名ではありません。 ドパミンは、快楽をもたらすだけの物質ではありません。 ドパミンを意図的に増やすことは難しいと考えられます。 ショート動画で集中力や…"
+    },
     {
       "id": "nc1cfff806577",
       "title": "たとえAIがAIの不正を指摘しても…",
