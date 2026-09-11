@@ -1,11 +1,29 @@
 {
   "source": "https://note.com/pharma_i_cist",
   "api": "https://note.com/api/v2/creators/pharma_i_cist/contents",
-  "generatedAt": "2026-09-10T23:51:25.281274+00:00",
+  "generatedAt": "2026-09-11T23:59:19.595003+00:00",
   "startDate": "2025-03-16",
   "timezone": "Asia/Tokyo",
-  "articleCount": 435,
+  "articleCount": 436,
   "articles": [
+    {
+      "id": "nfd5641ab93a1",
+      "title": "AIに急性術後痛の相談をしてみたところ…",
+      "url": "https://note.com/pharma_i_cist/n/nfd5641ab93a1",
+      "date": "2026-09-12",
+      "category": "literacy",
+      "tags": [
+        "相談",
+        "研究",
+        "医療",
+        "リスク",
+        "薬剤師",
+        "論文",
+        "薬局",
+        "ChatGPT"
+      ],
+      "summary": "今回の研究は、術後の痛みに関するAIの回答を、安全性・正確性・共感・情報の質・読みやすさの5つの観点から評価したものになります。 研究の方法1. 使用されたサービスと回答の評価 著者らは、2026年6月時点のChatGPT、Gemini、Microsoft Copilot、DeepSeek、Doubao、Perplexity、Claudeの7種類のサービス（…"
+    },
     {
       "id": "nb4063b3f501a",
       "title": "ドパガキがドパガキたる所以は、ドパミンがドパドパだからなのか",
