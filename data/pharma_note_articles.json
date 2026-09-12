@@ -1,11 +1,27 @@
 {
   "source": "https://note.com/pharma_i_cist",
   "api": "https://note.com/api/v2/creators/pharma_i_cist/contents",
-  "generatedAt": "2026-09-11T23:59:19.595003+00:00",
+  "generatedAt": "2026-09-12T23:51:52.061330+00:00",
   "startDate": "2025-03-16",
   "timezone": "Asia/Tokyo",
-  "articleCount": 436,
+  "articleCount": 437,
   "articles": [
+    {
+      "id": "n688bc14641b7",
+      "title": "たまには私の近況を…その9",
+      "url": "https://note.com/pharma_i_cist/n/n688bc14641b7",
+      "date": "2026-09-13",
+      "category": "blog",
+      "tags": [
+        "日記",
+        "育児",
+        "育児日記",
+        "近況報告",
+        "離乳食",
+        "スマートグラス"
+      ],
+      "summary": "長女の離乳食スタート先週から長女の離乳食がスタートしたのですが、思っていたよりちゃんと食べています。 特に離乳食2日目は、妻から「もっと欲しかったのか、涙を流していた」との報告に驚いて、思わずひっくり返ってしまいました（注：実際にひっくり返ったわけではありません）。 そんな我が家の離乳食の現場では、レコルトの自動調理ポットが活躍しています。この自動調理ポット…"
+    },
     {
       "id": "nfd5641ab93a1",
       "title": "AIに急性術後痛の相談をしてみたところ…",
