@@ -1,11 +1,27 @@
 {
   "source": "https://note.com/pharma_i_cist",
   "api": "https://note.com/api/v2/creators/pharma_i_cist/contents",
-  "generatedAt": "2026-09-12T23:51:52.061330+00:00",
+  "generatedAt": "2026-09-13T23:57:51.867857+00:00",
   "startDate": "2025-03-16",
   "timezone": "Asia/Tokyo",
-  "articleCount": 437,
+  "articleCount": 438,
   "articles": [
+    {
+      "id": "n4abde05d9115",
+      "title": "AIは過去の論文から、未知の遺伝的つながりや相互作用を見つけられるか",
+      "url": "https://note.com/pharma_i_cist/n/n4abde05d9115",
+      "date": "2026-09-14",
+      "category": "news",
+      "tags": [
+        "研究",
+        "医療",
+        "薬剤師",
+        "論文",
+        "薬",
+        "薬局"
+      ],
+      "summary": "今回の研究は、まだ報告されていない生物学的関係（遺伝子などのつながりや相互作用）に関して予測するAI「Hakken」を開発し、実際に3件の仮説を細胞実験で検証したものになります。 「Hakken」の仕組みHakkenは、論文に登場する遺伝子や薬剤などについて、何と何がどのようにつながっているかを整理してナレッジグラフ（今回の研究においては、遺伝子や薬剤の関係…"
+    },
     {
       "id": "n688bc14641b7",
       "title": "たまには私の近況を…その9",
