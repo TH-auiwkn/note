@@ -1,11 +1,29 @@
 {
   "source": "https://note.com/pharma_i_cist",
   "api": "https://note.com/api/v2/creators/pharma_i_cist/contents",
-  "generatedAt": "2026-09-15T00:24:14.111739+00:00",
+  "generatedAt": "2026-09-16T00:03:35.235763+00:00",
   "startDate": "2025-03-16",
   "timezone": "Asia/Tokyo",
-  "articleCount": 439,
+  "articleCount": 440,
   "articles": [
+    {
+      "id": "nb1f45a596669",
+      "title": "繰り返される多種多様な反論に対して、AIは「正しい立場」を維持できるか",
+      "url": "https://note.com/pharma_i_cist/n/nb1f45a596669",
+      "date": "2026-09-16",
+      "category": "news",
+      "tags": [
+        "研究",
+        "リスク",
+        "薬剤師",
+        "論文",
+        "薬局",
+        "シミュレーション",
+        "反論",
+        "迎合"
+      ],
+      "summary": "今回の研究は、誤った主張を繰り返す相手に対して、AIが正しい立場を維持できるかを検証したものです。 AIがユーザーの意見に迎合する現象自体はこれまでにも確認されていますが [1] [2] [3] 、短い会話だけでは「反論が続いた後に現れる迎合」を見落としてしまう可能性があるため、今回の研究では新たに「SPINE」という評価方法が提案されています。 研究の方法…"
+    },
     {
       "id": "n95206e0a089e",
       "title": "生成AIが、誰かを介護する家族の支えになる？",
