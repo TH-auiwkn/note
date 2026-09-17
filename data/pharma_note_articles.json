@@ -1,11 +1,28 @@
 {
   "source": "https://note.com/pharma_i_cist",
   "api": "https://note.com/api/v2/creators/pharma_i_cist/contents",
-  "generatedAt": "2026-09-16T00:03:35.235763+00:00",
+  "generatedAt": "2026-09-17T00:13:10.001364+00:00",
   "startDate": "2025-03-16",
   "timezone": "Asia/Tokyo",
-  "articleCount": 440,
+  "articleCount": 441,
   "articles": [
+    {
+      "id": "nc0f76aed520d",
+      "title": "AIで薬学部のOSCE対策ができる時代になる？",
+      "url": "https://note.com/pharma_i_cist/n/nc0f76aed520d",
+      "date": "2026-09-17",
+      "category": "news",
+      "tags": [
+        "コミュニケーション",
+        "未来",
+        "練習",
+        "薬剤師",
+        "薬局",
+        "薬学部",
+        "ロールプレイ"
+      ],
+      "summary": "こちらのプレスリリースによると、東京薬科大学とトランスコスモスは、トランスコスモスの音声対話型生成AIサービス「trans-AI Tutor」を薬学生・薬剤師向けに最適化すると発表しました。 2026年11月のリリースを目標に、まずは東京薬科大学の4年次生を対象としたパイロット運用の準備を進めているとのことです。 今回は、この薬学生・薬剤師向けに最適化される…"
+    },
     {
       "id": "nb1f45a596669",
       "title": "繰り返される多種多様な反論に対して、AIは「正しい立場」を維持できるか",
