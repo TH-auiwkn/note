@@ -1,11 +1,27 @@
 {
   "source": "https://note.com/pharma_i_cist",
   "api": "https://note.com/api/v2/creators/pharma_i_cist/contents",
-  "generatedAt": "2026-09-17T00:13:10.001364+00:00",
+  "generatedAt": "2026-09-18T00:00:09.904127+00:00",
   "startDate": "2025-03-16",
   "timezone": "Asia/Tokyo",
-  "articleCount": 441,
+  "articleCount": 442,
   "articles": [
+    {
+      "id": "nda1022686453",
+      "title": "「高度なAIに関する技術」の研修は、技術的知識が少ない参加者にどのような影響を与えるか",
+      "url": "https://note.com/pharma_i_cist/n/nda1022686453",
+      "date": "2026-09-18",
+      "category": "news",
+      "tags": [
+        "研究",
+        "開発",
+        "薬剤師",
+        "研修",
+        "論文",
+        "薬局"
+      ],
+      "summary": "元論文：Baek, G et al. (2026). Teaching model context protocol, retrieval-augmented generation, and AI agents to a multidisciplinary hospital workforce: Single-group pre-post survey st…"
+    },
     {
       "id": "nc0f76aed520d",
       "title": "AIで薬学部のOSCE対策ができる時代になる？",
