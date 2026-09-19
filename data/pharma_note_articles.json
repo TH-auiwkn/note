@@ -1,11 +1,26 @@
 {
   "source": "https://note.com/pharma_i_cist",
   "api": "https://note.com/api/v2/creators/pharma_i_cist/contents",
-  "generatedAt": "2026-09-19T00:00:34.861461+00:00",
+  "generatedAt": "2026-09-19T23:58:25.344381+00:00",
   "startDate": "2025-03-16",
   "timezone": "Asia/Tokyo",
-  "articleCount": 443,
+  "articleCount": 444,
   "articles": [
+    {
+      "id": "n2dc2d30ce8f7",
+      "title": "「通話音声」を第三者に不正に取得されると、どのようなリスクがある？",
+      "url": "https://note.com/pharma_i_cist/n/n2dc2d30ce8f7",
+      "date": "2026-09-20",
+      "category": "news",
+      "tags": [
+        "リスク",
+        "薬剤師",
+        "セキュリティ",
+        "音声",
+        "薬局"
+      ],
+      "summary": "この記事は、ロート製薬の通信販売に関係するシステムが第三者による不正アクセスを受け、顧客情報の一部が外部に持ち出された可能性があるという報告の続報になります。 2026年9月15日時点では、被害の範囲や人数はまだ調査中とされています。 今回は、この記事の内容の簡単な解説と我々が注意すべきことをお伝えしたいと思います。 記事の内容経緯 今回の不正アクセスに関す…"
+    },
     {
       "id": "nf29d59cabd27",
       "title": "「Google Pics」とは、一体何者か",
