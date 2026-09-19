@@ -1,11 +1,28 @@
 {
   "source": "https://note.com/pharma_i_cist",
   "api": "https://note.com/api/v2/creators/pharma_i_cist/contents",
-  "generatedAt": "2026-09-18T00:00:09.904127+00:00",
+  "generatedAt": "2026-09-19T00:00:34.861461+00:00",
   "startDate": "2025-03-16",
   "timezone": "Asia/Tokyo",
-  "articleCount": 442,
+  "articleCount": 443,
   "articles": [
+    {
+      "id": "nf29d59cabd27",
+      "title": "「Google Pics」とは、一体何者か",
+      "url": "https://note.com/pharma_i_cist/n/nf29d59cabd27",
+      "date": "2026-09-19",
+      "category": "usage",
+      "tags": [
+        "AI活用",
+        "AIとやってみた",
+        "Gemini",
+        "Google",
+        "画像",
+        "薬剤師",
+        "薬局"
+      ],
+      "summary": "Google Picsは、Googleが2026年9月から提供を開始した、AIによる画像生成・画像編集ツールです。 通常のGeminiと同様に画像を生成することも可能ですし、生成した画像や既存の画像に対して指示をすることで、細かい部分をAIで編集をすることもできるツールとなっています。 さっそく使ってみましょう1. アクセス まずは「https://work…"
+    },
     {
       "id": "nda1022686453",
       "title": "「高度なAIに関する技術」の研修は、技術的知識が少ない参加者にどのような影響を与えるか",
