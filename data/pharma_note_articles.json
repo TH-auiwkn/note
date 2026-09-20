@@ -1,11 +1,27 @@
 {
   "source": "https://note.com/pharma_i_cist",
   "api": "https://note.com/api/v2/creators/pharma_i_cist/contents",
-  "generatedAt": "2026-09-19T23:58:25.344381+00:00",
+  "generatedAt": "2026-09-20T23:59:20.739735+00:00",
   "startDate": "2025-03-16",
   "timezone": "Asia/Tokyo",
-  "articleCount": 444,
+  "articleCount": 445,
   "articles": [
+    {
+      "id": "na1d9e6f77ce4",
+      "title": "AIへの指示は、具体例よりルールを重視すべき？",
+      "url": "https://note.com/pharma_i_cist/n/na1d9e6f77ce4",
+      "date": "2026-09-21",
+      "category": "news",
+      "tags": [
+        "研究",
+        "薬剤師",
+        "論文",
+        "薬局",
+        "指示",
+        "LLM"
+      ],
+      "summary": "今回の研究は、LLMに新しい課題の内容を伝えるとき、「ルールの説明」と「具体例の提示」のどちらの方が正確な回答につながるのかを比較したものです。 研究の方法著者らは今回の検証にあたって、以下の5種類の課題を作成しました。 カードの組み合わせの選択 盤面の勝敗の判定 新しい演算規則による計算 人工言語の文法の判定 単語の意味の分類 そして、それぞれの課題ごとに…"
+    },
     {
       "id": "n2dc2d30ce8f7",
       "title": "「通話音声」を第三者に不正に取得されると、どのようなリスクがある？",
