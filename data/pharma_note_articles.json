@@ -1,11 +1,28 @@
 {
   "source": "https://note.com/pharma_i_cist",
   "api": "https://note.com/api/v2/creators/pharma_i_cist/contents",
-  "generatedAt": "2026-09-20T23:59:20.739735+00:00",
+  "generatedAt": "2026-09-22T00:39:34.460308+00:00",
   "startDate": "2025-03-16",
   "timezone": "Asia/Tokyo",
-  "articleCount": 445,
+  "articleCount": 446,
   "articles": [
+    {
+      "id": "nee477910ee5d",
+      "title": "いつの間にか、ChatGPTの画面上で「スケッチ」を添付できるように",
+      "url": "https://note.com/pharma_i_cist/n/nee477910ee5d",
+      "date": "2026-09-22",
+      "category": "usage",
+      "tags": [
+        "ChatGPT",
+        "AI活用",
+        "AIとやってみた",
+        "薬剤師",
+        "スケッチ",
+        "薬局",
+        "プロンプト"
+      ],
+      "summary": "ChatGPTの「＋」メニューに突如現れた「スケッチ」。どうやら、その場でスケッチを描いて添付することができるようです。 これは試すしかないでしょう（？）。 さっそく試してみましょう方法はシンプルで、先ほどの手順で「スケッチ」を選択し、スケッチを描いて添付するだけです。 手始めに、猫でも描いてみましょう。 完成したら、右下のチェックマークをクリックすればスケ…"
+    },
     {
       "id": "na1d9e6f77ce4",
       "title": "AIへの指示は、具体例よりルールを重視すべき？",
