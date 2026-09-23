@@ -1,11 +1,27 @@
 {
   "source": "https://note.com/pharma_i_cist",
   "api": "https://note.com/api/v2/creators/pharma_i_cist/contents",
-  "generatedAt": "2026-09-22T00:39:34.460308+00:00",
+  "generatedAt": "2026-09-23T00:09:27.214080+00:00",
   "startDate": "2025-03-16",
   "timezone": "Asia/Tokyo",
-  "articleCount": 446,
+  "articleCount": 447,
   "articles": [
+    {
+      "id": "nd63ef8452c1d",
+      "title": "同じ症例を医療AIに複数回診察させて、同じ診断名が出力されたら…",
+      "url": "https://note.com/pharma_i_cist/n/nd63ef8452c1d",
+      "date": "2026-09-23",
+      "category": "news",
+      "tags": [
+        "未来",
+        "研究",
+        "医療",
+        "薬剤師",
+        "論文",
+        "薬局"
+      ],
+      "summary": "今回の研究は、施設内で稼働するオンプレミス型（施設内に設置したサーバーなどの設備内で、システムを構築・運用する方式）の医療AIに関して、個々の診断がどの程度信頼できるかを見積もる方法を検証したものです。 研究の方法1. データセットとモデル 今回の研究では、以下の3種類のデータセットが使われました。 MIRA-v2：実際の診療の記録をもとにした、肺炎や尿路感…"
+    },
     {
       "id": "nee477910ee5d",
       "title": "いつの間にか、ChatGPTの画面上で「スケッチ」を添付できるように",
