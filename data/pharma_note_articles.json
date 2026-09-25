@@ -1,11 +1,27 @@
 {
   "source": "https://note.com/pharma_i_cist",
   "api": "https://note.com/api/v2/creators/pharma_i_cist/contents",
-  "generatedAt": "2026-09-24T00:18:58.850520+00:00",
+  "generatedAt": "2026-09-25T00:21:29.376204+00:00",
   "startDate": "2025-03-16",
   "timezone": "Asia/Tokyo",
-  "articleCount": 448,
+  "articleCount": 449,
   "articles": [
+    {
+      "id": "n67718523865f",
+      "title": "「大量の人間の行動」を学習したモデルを搭載したロボットは、現実世界の家庭で活躍できるか",
+      "url": "https://note.com/pharma_i_cist/n/n67718523865f",
+      "date": "2026-09-25",
+      "category": "literacy",
+      "tags": [
+        "未来",
+        "研究",
+        "薬剤師",
+        "ロボット",
+        "薬局",
+        "フィジカルAI"
+      ],
+      "summary": "こちらの発表によると、Figure AI社は、訓練データを収集したことがないサンフランシスコ・ベイエリアの30軒の住宅に人型ロボット「Figure 03」を持ち込み、以下の3種類のタスクを実施させたそうです。 リビングに散らばった13～15個のおもちゃを片付ける タオルを畳んでバスケットへ入れる 枕と掛け布団を整えてベッドメイキングする その結果、片付けの成…"
+    },
     {
       "id": "nf3aa5aa479cc",
       "title": "「この論文の手法で解析してほしい」とAIエージェントに依頼できるようになる？",
