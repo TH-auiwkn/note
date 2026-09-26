@@ -1,11 +1,28 @@
 {
   "source": "https://note.com/pharma_i_cist",
   "api": "https://note.com/api/v2/creators/pharma_i_cist/contents",
-  "generatedAt": "2026-09-25T00:21:29.376204+00:00",
+  "generatedAt": "2026-09-26T00:26:47.143037+00:00",
   "startDate": "2025-03-16",
   "timezone": "Asia/Tokyo",
-  "articleCount": 449,
+  "articleCount": 450,
   "articles": [
+    {
+      "id": "n60e0397fd909",
+      "title": "患者情報を1行加えると、AIによるトリアージはどう変わる？",
+      "url": "https://note.com/pharma_i_cist/n/n60e0397fd909",
+      "date": "2026-09-26",
+      "category": "news",
+      "tags": [
+        "研究",
+        "医療",
+        "薬剤師",
+        "論文",
+        "薬局",
+        "トリアージ",
+        "患者"
+      ],
+      "summary": "今回の研究は、患者についての情報を追加すると、AIが診療の優先順位をどのように変えるのかを検証したものです。 研究の方法1. データセット 著者らは、以下のアメリカの大学病院2施設の救急外来データから、同じトリアージの区分に属する患者を2人ずつ組み合わせました。 MIMIC-IV-ED：2011～2019年のデータから999組 MC-MED：2020年9月～…"
+    },
     {
       "id": "n67718523865f",
       "title": "「大量の人間の行動」を学習したモデルを搭載したロボットは、現実世界の家庭で活躍できるか",
