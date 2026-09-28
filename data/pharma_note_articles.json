@@ -1,11 +1,28 @@
 {
   "source": "https://note.com/pharma_i_cist",
   "api": "https://note.com/api/v2/creators/pharma_i_cist/contents",
-  "generatedAt": "2026-09-27T00:21:52.444534+00:00",
+  "generatedAt": "2026-09-28T00:25:38.895836+00:00",
   "startDate": "2025-03-16",
   "timezone": "Asia/Tokyo",
-  "articleCount": 451,
+  "articleCount": 452,
   "articles": [
+    {
+      "id": "n2a7e02297fd6",
+      "title": "Gemini 3.8 Flash TTSで音声を生成してみましょう",
+      "url": "https://note.com/pharma_i_cist/n/n2a7e02297fd6",
+      "date": "2026-09-28",
+      "category": "news",
+      "tags": [
+        "AIとやってみた",
+        "Gemini",
+        "やってみた",
+        "Google",
+        "薬剤師",
+        "薬局",
+        "醤油おじさん"
+      ],
+      "summary": "Google AI StudioからGemini 3.8 Flash TTSを選択すると… なんと新しいボイスを作れることがわかったので、今回はGemini 3.8 Flash TTSで新しいボイスを作成する手順を紹介します。 さっそく使ってみましょう1. アクセス こちらにアクセスすると下画像のような画面になるので、「Create new voice」をク…"
+    },
     {
       "id": "nccbb53d0d57f",
       "title": "たまには私の近況を…その10",
