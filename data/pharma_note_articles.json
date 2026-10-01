@@ -1,11 +1,27 @@
 {
   "source": "https://note.com/pharma_i_cist",
   "api": "https://note.com/api/v2/creators/pharma_i_cist/contents",
-  "generatedAt": "2026-09-30T01:09:55.561971+00:00",
+  "generatedAt": "2026-10-01T01:09:42.717793+00:00",
   "startDate": "2025-03-16",
   "timezone": "Asia/Tokyo",
-  "articleCount": 454,
+  "articleCount": 455,
   "articles": [
+    {
+      "id": "n5b2fd7c98b86",
+      "title": "ChatGPTが医療文書を易しく書き換えると、患者の理解度は上がる？",
+      "url": "https://note.com/pharma_i_cist/n/n5b2fd7c98b86",
+      "date": "2026-10-01",
+      "category": "news",
+      "tags": [
+        "ChatGPT",
+        "研究",
+        "薬剤師",
+        "論文",
+        "薬局",
+        "患者"
+      ],
+      "summary": "今回の研究は、医師が書いた医療文書をChatGPTで易しく書き換えると、患者の理解が改善するのかを検証したものです。 研究の方法1. 参加者と用意された文書 今回の研究には、医療に関する教育を受けていない、かつ医療分野の業務に従事したことがない成人576人が参加しました。 使用された文書は、MRI報告書、CT報告書、手術記録、病理報告書、退院サマリーの原文と…"
+    },
     {
       "id": "n75b831dbeebf",
       "title": "もし、AIに「恐喝の文章」を書かせたら…",
