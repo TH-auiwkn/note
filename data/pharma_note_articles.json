@@ -1,11 +1,28 @@
 {
   "source": "https://note.com/pharma_i_cist",
   "api": "https://note.com/api/v2/creators/pharma_i_cist/contents",
-  "generatedAt": "2026-10-01T01:09:42.717793+00:00",
+  "generatedAt": "2026-10-02T01:25:55.427458+00:00",
   "startDate": "2025-03-16",
   "timezone": "Asia/Tokyo",
-  "articleCount": 455,
+  "articleCount": 456,
   "articles": [
+    {
+      "id": "n175987248572",
+      "title": "津田健次郎さんの「声」に関する裁判の、判決を見てみましょう",
+      "url": "https://note.com/pharma_i_cist/n/n175987248572",
+      "date": "2026-10-02",
+      "category": "news",
+      "tags": [
+        "薬剤師",
+        "声",
+        "裁判",
+        "薬局",
+        "権利",
+        "AIリテラシー",
+        "判決"
+      ],
+      "summary": "こちらの記事は、AIを使って人の声をまねる行為に対して、東京地裁が「声もパブリシティ権の保護対象になり得る」ことを初めて明確に示したという内容のものです。 2026年8月の法務省の報告書では、「顔や氏名と同様に、声もその人を識別し、その人の人格と結び付く情報になり得る」ことが明記されましたが [1] 、この方向性と整合する司法判断といえるでしょう。 ＜関連記…"
+    },
     {
       "id": "n5b2fd7c98b86",
       "title": "ChatGPTが医療文書を易しく書き換えると、患者の理解度は上がる？",
