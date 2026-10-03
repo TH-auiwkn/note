@@ -1,11 +1,27 @@
 {
   "source": "https://note.com/pharma_i_cist",
   "api": "https://note.com/api/v2/creators/pharma_i_cist/contents",
-  "generatedAt": "2026-10-02T01:25:55.427458+00:00",
+  "generatedAt": "2026-10-03T01:00:28.181097+00:00",
   "startDate": "2025-03-16",
   "timezone": "Asia/Tokyo",
-  "articleCount": 456,
+  "articleCount": 457,
   "articles": [
+    {
+      "id": "n25e04586a72b",
+      "title": "ユーザーの誤った指示で、AIが自身の成果物を破壊する？",
+      "url": "https://note.com/pharma_i_cist/n/n25e04586a72b",
+      "date": "2026-10-03",
+      "category": "news",
+      "tags": [
+        "研究",
+        "リスク",
+        "AIエージェント",
+        "薬剤師",
+        "論文",
+        "薬局"
+      ],
+      "summary": "今回の研究は、正しくタスクを完了させたAIでも、ユーザーから誤った指摘を受けると、それを修正しようとして元の成果を「破壊」してしまう現象に関して検証されたものです。 研究の方法1. ベンチマーク 著者らは、「CAVE-Bench」という評価用の課題集を作成しました。 課題は「引き継ぎタイプ（172種類）」と「自分で完成させるタイプ（193種類）」の2種類が用…"
+    },
     {
       "id": "n175987248572",
       "title": "津田健次郎さんの「声」に関する裁判の、判決を見てみましょう",
