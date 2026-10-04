@@ -1,11 +1,28 @@
 {
   "source": "https://note.com/pharma_i_cist",
   "api": "https://note.com/api/v2/creators/pharma_i_cist/contents",
-  "generatedAt": "2026-10-03T01:00:28.181097+00:00",
+  "generatedAt": "2026-10-04T00:24:36.701429+00:00",
   "startDate": "2025-03-16",
   "timezone": "Asia/Tokyo",
-  "articleCount": 457,
+  "articleCount": 458,
   "articles": [
+    {
+      "id": "nbf4b4a3c2e6f",
+      "title": "厚生労働省が、来年度から医療機関へのAI導入の実証試験に乗り出す？",
+      "url": "https://note.com/pharma_i_cist/n/nbf4b4a3c2e6f",
+      "date": "2026-10-04",
+      "category": "blog",
+      "tags": [
+        "未来",
+        "医療",
+        "AIエージェント",
+        "薬剤師",
+        "薬局",
+        "厚生労働省",
+        "患者"
+      ],
+      "summary": "厚生労働省が、医療機関へのAIエージェントの導入を促進しようとしていることが報道されています。 今回はこちらの記事の内容をもとに、何が行われようとしているのかを整理してみます。 記事によると具体的にAIに何を任せようとしているか この記述から、AIが病院内の患者の状態・経過などの情報を電子カルテから取得し、日勤→夜勤、夜勤→日勤の申し送り事項を自動で作成する…"
+    },
     {
       "id": "n25e04586a72b",
       "title": "ユーザーの誤った指示で、AIが自身の成果物を破壊する？",
