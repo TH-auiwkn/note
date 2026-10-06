@@ -1,11 +1,29 @@
 {
   "source": "https://note.com/pharma_i_cist",
   "api": "https://note.com/api/v2/creators/pharma_i_cist/contents",
-  "generatedAt": "2026-10-05T00:34:38.342282+00:00",
+  "generatedAt": "2026-10-06T02:07:58.163665+00:00",
   "startDate": "2025-03-16",
   "timezone": "Asia/Tokyo",
-  "articleCount": 459,
+  "articleCount": 460,
   "articles": [
+    {
+      "id": "n644d4fa2941c",
+      "title": "「AIを使う」と説明している医師の広告を見た患者は、何を思うのか",
+      "url": "https://note.com/pharma_i_cist/n/n644d4fa2941c",
+      "date": "2026-10-06",
+      "category": "literacy",
+      "tags": [
+        "研究",
+        "評価",
+        "医療",
+        "薬剤師",
+        "説明",
+        "論文",
+        "薬局",
+        "患者"
+      ],
+      "summary": "今回の研究は、「診断や治療にAIを使う」と表明した医師への評価が、医師や評価者の属性によってどう変わるのかを検証したものです。 研究の方法著者らは今回の研究にあたって、架空の家庭医の広告を用意しました。 参加者は、広告の「医師の性別」「年齢」「AIの活用の有無」の組み合わせに応じた8つのグループに無作為に割り付けられ、広告をランダムに3つずつ見てその医師の印…"
+    },
     {
       "id": "nf28f302f64b8",
       "title": "「AIの意識」は、いかにして検証できるか",
