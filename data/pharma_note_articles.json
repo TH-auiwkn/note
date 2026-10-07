@@ -1,11 +1,27 @@
 {
   "source": "https://note.com/pharma_i_cist",
   "api": "https://note.com/api/v2/creators/pharma_i_cist/contents",
-  "generatedAt": "2026-10-06T02:07:58.163665+00:00",
+  "generatedAt": "2026-10-07T01:16:39.279582+00:00",
   "startDate": "2025-03-16",
   "timezone": "Asia/Tokyo",
-  "articleCount": 460,
+  "articleCount": 461,
   "articles": [
+    {
+      "id": "n05d3011090fd",
+      "title": "AI画像生成によって結果が逆転した画像を、人間の専門家は見抜けるか",
+      "url": "https://note.com/pharma_i_cist/n/n05d3011090fd",
+      "date": "2026-10-07",
+      "category": "literacy",
+      "tags": [
+        "研究",
+        "画像",
+        "薬剤師",
+        "論文",
+        "薬局",
+        "AIリテラシー"
+      ],
+      "summary": "元論文：Luo, S., et al. (2026). Biomedical research images manipulated by generative AI to alter scientific outcomes: Diagnostic study of human and automated detection. Journal of Medi…"
+    },
     {
       "id": "n644d4fa2941c",
       "title": "「AIを使う」と説明している医師の広告を見た患者は、何を思うのか",
