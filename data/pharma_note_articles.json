@@ -1,11 +1,26 @@
 {
   "source": "https://note.com/pharma_i_cist",
   "api": "https://note.com/api/v2/creators/pharma_i_cist/contents",
-  "generatedAt": "2026-10-07T01:16:39.279582+00:00",
+  "generatedAt": "2026-10-08T01:37:58.302716+00:00",
   "startDate": "2025-03-16",
   "timezone": "Asia/Tokyo",
-  "articleCount": 461,
+  "articleCount": 462,
   "articles": [
+    {
+      "id": "nafd71902b1dc",
+      "title": "Claudeに犯罪を示唆するメッセージを送信した結果…",
+      "url": "https://note.com/pharma_i_cist/n/nafd71902b1dc",
+      "date": "2026-10-08",
+      "category": "blog",
+      "tags": [
+        "Claude",
+        "薬剤師",
+        "Anthropic",
+        "薬局",
+        "AIリテラシー"
+      ],
+      "summary": "こちらは、30歳の女性がClaudeに送信した「銃撃を予告する内容を含むメッセージ」がセーフガードに検知された結果、Anthropicが警察に通報し、女性の逮捕に至ったという報道です。 実際にClaudeとどのようなやり取りがあったのかGulf Coast News Nowは、容疑者とClaudeの間で以下のやりとりがあったことを報じています。 9月26日…"
+    },
     {
       "id": "n05d3011090fd",
       "title": "AI画像生成によって結果が逆転した画像を、人間の専門家は見抜けるか",
