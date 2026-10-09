@@ -1,11 +1,27 @@
 {
   "source": "https://note.com/pharma_i_cist",
   "api": "https://note.com/api/v2/creators/pharma_i_cist/contents",
-  "generatedAt": "2026-10-08T01:37:58.302716+00:00",
+  "generatedAt": "2026-10-09T01:50:59.295974+00:00",
   "startDate": "2025-03-16",
   "timezone": "Asia/Tokyo",
-  "articleCount": 462,
+  "articleCount": 463,
   "articles": [
+    {
+      "id": "nb9e30961c0d2",
+      "title": "アメリカ・ユタ州のAI処方システムで、「ニキビの外用薬」の新規処方ができるようになる？",
+      "url": "https://note.com/pharma_i_cist/n/nb9e30961c0d2",
+      "date": "2026-10-09",
+      "category": "news",
+      "tags": [
+        "未来",
+        "アメリカ",
+        "医療",
+        "薬剤師",
+        "薬局",
+        "患者"
+      ],
+      "summary": "AIヘルスケア企業のNolla Healthは、ユタ州の18歳以上の住民を対象に、ニキビの治療を対象としたAIによる新規処方（外用薬）のサービスを開始することを発表しました。 今回は、このNolla Healthの発表の内容と、現在のユタ州のAI処方システムの現状について改めてまとめていきます。 ＜関連記事＞ Nolla Healthによると…ユタ州では、ニ…"
+    },
     {
       "id": "nafd71902b1dc",
       "title": "Claudeに犯罪を示唆するメッセージを送信した結果…",
