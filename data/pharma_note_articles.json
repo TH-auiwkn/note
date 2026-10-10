@@ -1,11 +1,27 @@
 {
   "source": "https://note.com/pharma_i_cist",
   "api": "https://note.com/api/v2/creators/pharma_i_cist/contents",
-  "generatedAt": "2026-10-09T01:50:59.295974+00:00",
+  "generatedAt": "2026-10-10T01:35:06.771393+00:00",
   "startDate": "2025-03-16",
   "timezone": "Asia/Tokyo",
-  "articleCount": 463,
+  "articleCount": 464,
   "articles": [
+    {
+      "id": "n5cb47061cc10",
+      "title": "「現在の日付」で、AIたちのベンチマークの成績が変わる？",
+      "url": "https://note.com/pharma_i_cist/n/n5cb47061cc10",
+      "date": "2026-10-10",
+      "category": "news",
+      "tags": [
+        "研究",
+        "薬剤師",
+        "論文",
+        "薬局",
+        "ベンチマーク",
+        "日付"
+      ],
+      "summary": "今回の研究は、AIに与えられた「現在の日付」だけを変更したとき、回答の正確さがどの程度変わるかを検証したものです。 研究の方法著者らは、モデル側の日付を2024年1月1日から12月31日の間で変更し、日付以外の条件はそろえた状態で以下のベンチマークの成績が変化するか（回答が変化するか）を検証しました。 選択式問題（MMLU、GPQA、ARC-Challeng…"
+    },
     {
       "id": "nb9e30961c0d2",
       "title": "アメリカ・ユタ州のAI処方システムで、「ニキビの外用薬」の新規処方ができるようになる？",
