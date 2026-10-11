@@ -1,11 +1,29 @@
 {
   "source": "https://note.com/pharma_i_cist",
   "api": "https://note.com/api/v2/creators/pharma_i_cist/contents",
-  "generatedAt": "2026-10-10T01:35:06.771393+00:00",
+  "generatedAt": "2026-10-11T00:44:48.412878+00:00",
   "startDate": "2025-03-16",
   "timezone": "Asia/Tokyo",
-  "articleCount": 464,
+  "articleCount": 465,
   "articles": [
+    {
+      "id": "n9f610528b2df",
+      "title": "たまには私の近況を…その11",
+      "url": "https://note.com/pharma_i_cist/n/n9f610528b2df",
+      "date": "2026-10-11",
+      "category": "blog",
+      "tags": [
+        "日常",
+        "育児",
+        "生活",
+        "成長",
+        "赤ちゃん",
+        "赤ちゃんのいる生活",
+        "近況報告",
+        "醤油おじさん"
+      ],
+      "summary": "蘇る、Nintendo 3DSNintendo 3DSとは Nintendo 3DSは、おそらく全国民が名前くらいは知っているであろう非常に有名なゲーム機（個人の感想です）なのですが、一番新しいモデルの「New Nintendo 3DS」が発売されたのが2014年10月11日 [1] （12年前）であることを踏まえると、ご存じでない方がいらっしゃっても不思議…"
+    },
     {
       "id": "n5cb47061cc10",
       "title": "「現在の日付」で、AIたちのベンチマークの成績が変わる？",
