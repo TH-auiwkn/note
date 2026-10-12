@@ -1,11 +1,29 @@
 {
   "source": "https://note.com/pharma_i_cist",
   "api": "https://note.com/api/v2/creators/pharma_i_cist/contents",
-  "generatedAt": "2026-10-11T00:44:48.412878+00:00",
+  "generatedAt": "2026-10-12T01:05:47.325365+00:00",
   "startDate": "2025-03-16",
   "timezone": "Asia/Tokyo",
-  "articleCount": 465,
+  "articleCount": 466,
   "articles": [
+    {
+      "id": "na80807a4d961",
+      "title": "実際のところ、バイブコーディングで開発されたアプリの安全性は？",
+      "url": "https://note.com/pharma_i_cist/n/na80807a4d961",
+      "date": "2026-10-12",
+      "category": "usage",
+      "tags": [
+        "研究",
+        "リスク",
+        "薬剤師",
+        "論文",
+        "薬局",
+        "バイブコーディング",
+        "AIリテラシー",
+        "Claude"
+      ],
+      "summary": "今回の研究は、実際に公開されている、バイブコーディングで開発されたWebアプリの安全性を検証したものです。 研究の方法1. Webアプリの抽出 著者らは検証にあたって、Claude CodeやLovableなどのAIツールを利用した痕跡があるGitHubのリポジトリ（コードや変更履歴をまとめて保存する保管庫）を抽出しました。 そして、その中から「最初の変更が…"
+    },
     {
       "id": "n9f610528b2df",
       "title": "たまには私の近況を…その11",
