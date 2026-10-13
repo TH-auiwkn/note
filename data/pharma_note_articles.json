@@ -1,11 +1,27 @@
 {
   "source": "https://note.com/pharma_i_cist",
   "api": "https://note.com/api/v2/creators/pharma_i_cist/contents",
-  "generatedAt": "2026-10-12T01:05:47.325365+00:00",
+  "generatedAt": "2026-10-13T02:55:11.701387+00:00",
   "startDate": "2025-03-16",
   "timezone": "Asia/Tokyo",
-  "articleCount": 466,
+  "articleCount": 467,
   "articles": [
+    {
+      "id": "na6c5cfeed9dd",
+      "title": "薬局向けのAnyCOMPASSの新サービス「オールインワンプラットフォーム」の中身を見てみましょう",
+      "url": "https://note.com/pharma_i_cist/n/na6c5cfeed9dd",
+      "date": "2026-10-13",
+      "category": "usage",
+      "tags": [
+        "未来",
+        "AIエージェント",
+        "薬剤師",
+        "能力",
+        "薬局",
+        "患者"
+      ],
+      "summary": "この発表で触れられている「保険薬局向けオールインワンプラットフォーム」は、レセコン・電子薬歴・AIエージェント・在庫分析・本部機能を1箇所にまとめる構想と解釈できます。 現在のAnyCOMPASSにもAIアシスタント機能自体は搭載されており、患者基本情報、処方内容、過去の薬歴（指導内容）などから服薬指導のポイントを提案したり、患者との会話を取り込んでSOAP…"
+    },
     {
       "id": "na80807a4d961",
       "title": "実際のところ、バイブコーディングで開発されたアプリの安全性は？",
