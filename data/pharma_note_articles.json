@@ -1,11 +1,28 @@
 {
   "source": "https://note.com/pharma_i_cist",
   "api": "https://note.com/api/v2/creators/pharma_i_cist/contents",
-  "generatedAt": "2026-10-14T00:59:03.383271+00:00",
+  "generatedAt": "2026-10-15T00:21:05.235937+00:00",
   "startDate": "2025-03-16",
   "timezone": "Asia/Tokyo",
-  "articleCount": 468,
+  "articleCount": 469,
   "articles": [
+    {
+      "id": "nda24ee03f4f1",
+      "title": "日本発のAI「Sarashina」のベータ版を使ってみる",
+      "url": "https://note.com/pharma_i_cist/n/nda24ee03f4f1",
+      "date": "2026-10-15",
+      "category": "news",
+      "tags": [
+        "AI活用",
+        "未来",
+        "AIとやってみた",
+        "日本語",
+        "薬剤師",
+        "薬局",
+        "Sarashina"
+      ],
+      "summary": "「Sarashina」は、ソフトバンクの子会社SB Intuitionsが開発している、日本語を重視した国産生成AIシリーズです。 上記プレスリリースは、このSarashinaのベータ版がチャット機能とAPI機能を通じて無料で試せるようになったという内容になります。 （なお、無料提供の終了時期は未定で、利用回数にも制限があります） チャット機能とAPI機能の…"
+    },
     {
       "id": "n5e17b4a6e3c6",
       "title": "たまにはゆる〜いAIの記事を…",
