@@ -1,11 +1,29 @@
 {
   "source": "https://note.com/pharma_i_cist",
   "api": "https://note.com/api/v2/creators/pharma_i_cist/contents",
-  "generatedAt": "2026-10-15T00:21:05.235937+00:00",
+  "generatedAt": "2026-10-16T00:09:45.052072+00:00",
   "startDate": "2025-03-16",
   "timezone": "Asia/Tokyo",
-  "articleCount": 469,
+  "articleCount": 470,
   "articles": [
+    {
+      "id": "n2635579d305f",
+      "title": "医療分野向けのモデル「MedGemma」とは？",
+      "url": "https://note.com/pharma_i_cist/n/n2635579d305f",
+      "date": "2026-10-16",
+      "category": "news",
+      "tags": [
+        "未来",
+        "研究",
+        "医療",
+        "Google",
+        "薬剤師",
+        "論文",
+        "薬局",
+        "MedGemma"
+      ],
+      "summary": "今回の論文はGoogleの研究チームなどによるもので、医療分野向けのAIモデル「MedGemma」の開発や評価についてまとめたものです。 研究の方法1. 3種類のモデル MedGemmaはGemma 3を医療分野向けに調整したモデルで、今回の論文では「文章と画像を入力できる4B・27Bモデル（マルチモーダル）」と「文章を扱う27B Textモデル」が評価され…"
+    },
     {
       "id": "nda24ee03f4f1",
       "title": "日本発のAI「Sarashina」のベータ版を使ってみる",
