@@ -1,11 +1,27 @@
 {
   "source": "https://note.com/pharma_i_cist",
   "api": "https://note.com/api/v2/creators/pharma_i_cist/contents",
-  "generatedAt": "2026-10-16T00:09:45.052072+00:00",
+  "generatedAt": "2026-10-17T00:13:28.368229+00:00",
   "startDate": "2025-03-16",
   "timezone": "Asia/Tokyo",
-  "articleCount": 470,
+  "articleCount": 471,
   "articles": [
+    {
+      "id": "n680dafd4cf9f",
+      "title": "医療AIの正確さは、Web検索やエージェント機能を使ったほうが高くなる？",
+      "url": "https://note.com/pharma_i_cist/n/n680dafd4cf9f",
+      "date": "2026-10-17",
+      "category": "news",
+      "tags": [
+        "研究",
+        "医療",
+        "リスク",
+        "薬剤師",
+        "論文",
+        "薬局"
+      ],
+      "summary": "今回の研究は、文章と医用画像を組み合わせた症例において、GPT-5を用いた10種類の構成のAIがどのような出力をするのかを比較したものです。 （なお、今回の論文は、2026年10月9日に公開された査読済みの早期公開版です） 研究の方法今回の検証では、GPT-5をベースにした以下の10種類の構成において、その出力の内容がどのように異なるかが比較されました。 A…"
+    },
     {
       "id": "n2635579d305f",
       "title": "医療分野向けのモデル「MedGemma」とは？",
