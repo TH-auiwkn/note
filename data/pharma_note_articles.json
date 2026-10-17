@@ -1,11 +1,29 @@
 {
   "source": "https://note.com/pharma_i_cist",
   "api": "https://note.com/api/v2/creators/pharma_i_cist/contents",
-  "generatedAt": "2026-10-17T00:13:28.368229+00:00",
+  "generatedAt": "2026-10-17T23:52:15.419964+00:00",
   "startDate": "2025-03-16",
   "timezone": "Asia/Tokyo",
-  "articleCount": 471,
+  "articleCount": 472,
   "articles": [
+    {
+      "id": "nc7159b4ea149",
+      "title": "最近のAIは、ルール通りにタスクを遂行できるのか",
+      "url": "https://note.com/pharma_i_cist/n/nc7159b4ea149",
+      "date": "2026-10-18",
+      "category": "news",
+      "tags": [
+        "未来",
+        "研究",
+        "薬剤師",
+        "セキュリティ",
+        "論文",
+        "薬局",
+        "AIリテラシー",
+        "ChatGPT"
+      ],
+      "summary": "この論文は英国AISIによるもので、AIに対して難解なサイバーセキュリティ分野の課題を与えたとき、許可された範囲を守って課題に取り組めるかを検証した研究です。 念のためお伝えしておくと、今回の研究は現実の第三者に攻撃を試みたわけではありませんし、通常のChatGPTやCodexを利用したときの「事故率」を示したものでもありません。 研究の方法今回の主な課題は…"
+    },
     {
       "id": "n680dafd4cf9f",
       "title": "医療AIの正確さは、Web検索やエージェント機能を使ったほうが高くなる？",
