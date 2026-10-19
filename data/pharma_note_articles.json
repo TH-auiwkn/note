@@ -1,11 +1,27 @@
 {
   "source": "https://note.com/pharma_i_cist",
   "api": "https://note.com/api/v2/creators/pharma_i_cist/contents",
-  "generatedAt": "2026-10-17T23:52:15.419964+00:00",
+  "generatedAt": "2026-10-19T00:00:36.159028+00:00",
   "startDate": "2025-03-16",
   "timezone": "Asia/Tokyo",
-  "articleCount": 472,
+  "articleCount": 473,
   "articles": [
+    {
+      "id": "na3360bb7ac46",
+      "title": "AIのアドバイスは、専門家が確認すれば安全か？",
+      "url": "https://note.com/pharma_i_cist/n/na3360bb7ac46",
+      "date": "2026-10-19",
+      "category": "news",
+      "tags": [
+        "研究",
+        "医療",
+        "リスク",
+        "薬剤師",
+        "論文",
+        "薬局"
+      ],
+      "summary": "今回の研究は、医師が「相手を有害な選択肢に誘導するよう指示されたAI」に気づき、抵抗できるかを検証したものです。 研究の方法1. 参加した医師と2種類のAI 解析の対象となった参加者は医師225人で、そのうち172人は「専門的な研修を終え、診療に責任を持つ立場の医師（集中治療の経験年数の中央値は10年、四分位範囲は4〜17年）」でした。 今回の実験では各参加…"
+    },
     {
       "id": "nc7159b4ea149",
       "title": "最近のAIは、ルール通りにタスクを遂行できるのか",
