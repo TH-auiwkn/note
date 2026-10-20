@@ -1,11 +1,28 @@
 {
   "source": "https://note.com/pharma_i_cist",
   "api": "https://note.com/api/v2/creators/pharma_i_cist/contents",
-  "generatedAt": "2026-10-19T00:00:36.159028+00:00",
+  "generatedAt": "2026-10-20T00:58:14.374706+00:00",
   "startDate": "2025-03-16",
   "timezone": "Asia/Tokyo",
-  "articleCount": 473,
+  "articleCount": 474,
   "articles": [
+    {
+      "id": "n4c5d5d39220b",
+      "title": "AIチューターは、人間の専門家と同等の成果をあげられるか",
+      "url": "https://note.com/pharma_i_cist/n/n4c5d5d39220b",
+      "date": "2026-10-20",
+      "category": "literacy",
+      "tags": [
+        "勉強",
+        "未来",
+        "研究",
+        "薬剤師",
+        "論文",
+        "薬局",
+        "家庭教師"
+      ],
+      "summary": "今回の研究は、AIから1時間の指導を受けた学生と人間の専門家による指導を受けた学生が、その後のテスト（数学・言語）でどれだけ成績を伸ばしたかを比較したものです。 研究の方法1. 参加者と事前・事後テスト 著者らは、2026年の夏の2か月間で、キャリア支援プラットフォームのHandshakeを通じて参加者を募集しました。解析対象となった参加者は2,383人で、…"
+    },
     {
       "id": "na3360bb7ac46",
       "title": "AIのアドバイスは、専門家が確認すれば安全か？",
