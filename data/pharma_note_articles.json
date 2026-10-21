@@ -1,11 +1,28 @@
 {
   "source": "https://note.com/pharma_i_cist",
   "api": "https://note.com/api/v2/creators/pharma_i_cist/contents",
-  "generatedAt": "2026-10-20T00:58:14.374706+00:00",
+  "generatedAt": "2026-10-21T00:27:27.877340+00:00",
   "startDate": "2025-03-16",
   "timezone": "Asia/Tokyo",
-  "articleCount": 474,
+  "articleCount": 475,
   "articles": [
+    {
+      "id": "n11ef5aefa3e7",
+      "title": "久々に、Gemini Notebookの新機能を紹介します",
+      "url": "https://note.com/pharma_i_cist/n/n11ef5aefa3e7",
+      "date": "2026-10-21",
+      "category": "blog",
+      "tags": [
+        "AI活用",
+        "AIとやってみた",
+        "Gemini",
+        "Google",
+        "薬剤師",
+        "薬局",
+        "GeminiNotebook"
+      ],
+      "summary": "1. インタラクティブレポート先月Gemini Notebookで、マインドマップ、クイズ、フラッシュカードなどのコンテンツなどを組み込める「インタラクティブレポート」なるものが作成できるようになりました。 今回はこちらの機能の使い方と、実際の作例をいくつかお見せしたいと思います。 さっそく使ってみましょう まずはGemini Notebookにアクセスし、…"
+    },
     {
       "id": "n4c5d5d39220b",
       "title": "AIチューターは、人間の専門家と同等の成果をあげられるか",
