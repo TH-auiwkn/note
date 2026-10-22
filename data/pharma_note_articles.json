@@ -1,11 +1,29 @@
 {
   "source": "https://note.com/pharma_i_cist",
   "api": "https://note.com/api/v2/creators/pharma_i_cist/contents",
-  "generatedAt": "2026-10-21T00:27:27.877340+00:00",
+  "generatedAt": "2026-10-22T00:30:18.416054+00:00",
   "startDate": "2025-03-16",
   "timezone": "Asia/Tokyo",
-  "articleCount": 475,
+  "articleCount": 476,
   "articles": [
+    {
+      "id": "n969cba38527c",
+      "title": "4体の「Gemini 4 Argonエージェント」が、Minecraftを攻略したようです",
+      "url": "https://note.com/pharma_i_cist/n/n969cba38527c",
+      "date": "2026-10-22",
+      "category": "news",
+      "tags": [
+        "Gemini",
+        "研究",
+        "AIエージェント",
+        "Google",
+        "薬剤師",
+        "論文",
+        "薬局",
+        "Minecraft"
+      ],
+      "summary": "今回の研究はGoogle DeepMindの研究チームによるもので、Minecraftの世界に配置された4体のAIエージェント（Gemini 4 Argon）が、「エンダードラゴン（ざっくり言うと、ラスボス）」を倒せるかを検証したものです。 研究の方法1. Minecraftの環境 今回使用されたのはMinecraft Java Edition 1.20.4…"
+    },
     {
       "id": "n11ef5aefa3e7",
       "title": "久々に、Gemini Notebookの新機能を紹介します",
