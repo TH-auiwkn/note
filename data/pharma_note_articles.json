@@ -1,11 +1,28 @@
 {
   "source": "https://note.com/pharma_i_cist",
   "api": "https://note.com/api/v2/creators/pharma_i_cist/contents",
-  "generatedAt": "2026-10-22T00:30:18.416054+00:00",
+  "generatedAt": "2026-10-23T00:28:13.660446+00:00",
   "startDate": "2025-03-16",
   "timezone": "Asia/Tokyo",
-  "articleCount": 476,
+  "articleCount": 477,
   "articles": [
+    {
+      "id": "n3b74a5d517b9",
+      "title": "「AI電話」で、深夜の迷惑電話を減らした事例を見てみましょう",
+      "url": "https://note.com/pharma_i_cist/n/n3b74a5d517b9",
+      "date": "2026-10-23",
+      "category": "blog",
+      "tags": [
+        "看護師",
+        "医療",
+        "薬剤師",
+        "電話",
+        "薬局",
+        "事例",
+        "カスハラ"
+      ],
+      "summary": "こちらは、看護師を深夜の迷惑電話から守るために仙台市の病院が「AI電話」を導入し、電話対応の負担を約半分に減らした事例を紹介したものです。 今回は、こちらの事例の紹介と、この事例に関する私の考察を書いていきます。 事例の内容導入の背景 2人体制の場合、1人が電話対応をしている最中はもう1人の看護師が病棟全体を見る必要があるため、緊急時の対応に重大な影響を及ぼ…"
+    },
     {
       "id": "n969cba38527c",
       "title": "4体の「Gemini 4 Argonエージェント」が、Minecraftを攻略したようです",
