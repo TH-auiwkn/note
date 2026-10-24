@@ -1,11 +1,29 @@
 {
   "source": "https://note.com/pharma_i_cist",
   "api": "https://note.com/api/v2/creators/pharma_i_cist/contents",
-  "generatedAt": "2026-10-23T00:28:13.660446+00:00",
+  "generatedAt": "2026-10-24T00:23:51.187596+00:00",
   "startDate": "2025-03-16",
   "timezone": "Asia/Tokyo",
-  "articleCount": 477,
+  "articleCount": 478,
   "articles": [
+    {
+      "id": "n5e47f65a44ff",
+      "title": "たまにはゆる〜いAIの記事を…その2",
+      "url": "https://note.com/pharma_i_cist/n/n5e47f65a44ff",
+      "date": "2026-10-24",
+      "category": "usage",
+      "tags": [
+        "ChatGPT",
+        "AIとやってみた",
+        "薬剤師",
+        "noteで読めるマンガ",
+        "薬局",
+        "Chrome",
+        "醤油おじさん",
+        "Claude"
+      ],
+      "summary": "Chrome拡張機能のChatGPTご存じの方も多いかもしれませんが、Chrome拡張機能の「ChatGPT」を使うことで、Chromeの画面右側にChatGPTのタブを呼び出すことができます。これはChatGPTに限った話ではなく、Chromeの標準機能でGeminiを右側に呼び出すこともできますし、Claudeの拡張機能を使えばClaudeを呼び出すこと…"
+    },
     {
       "id": "n3b74a5d517b9",
       "title": "「AI電話」で、深夜の迷惑電話を減らした事例を見てみましょう",
