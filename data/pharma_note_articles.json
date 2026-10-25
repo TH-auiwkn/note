@@ -1,11 +1,29 @@
 {
   "source": "https://note.com/pharma_i_cist",
   "api": "https://note.com/api/v2/creators/pharma_i_cist/contents",
-  "generatedAt": "2026-10-24T00:23:51.187596+00:00",
+  "generatedAt": "2026-10-25T00:06:27.398079+00:00",
   "startDate": "2025-03-16",
   "timezone": "Asia/Tokyo",
-  "articleCount": 478,
+  "articleCount": 479,
   "articles": [
+    {
+      "id": "n475bcf4d4889",
+      "title": "たまには私の近況を…その12",
+      "url": "https://note.com/pharma_i_cist/n/n475bcf4d4889",
+      "date": "2026-10-25",
+      "category": "blog",
+      "tags": [
+        "日常",
+        "育児",
+        "生活",
+        "成長",
+        "赤ちゃん",
+        "赤ちゃんのいる生活",
+        "近況報告",
+        "醤油おじさん"
+      ],
+      "summary": "自転車の練習私が住んでいる地域の小中学生の移動手段は基本的に自転車になるので、小学校に上がる前に自転車に乗れたほうが何かと便利です。なので、そろそろ長男も自転車に乗る練習を始めようということになりました。 練習の前に… 自転車の練習をする前に忘れてはならないのが、自転車の購入ですね。ここを忘れてしまうと自転車の練習をすることができないので、注意が必要です。…"
+    },
     {
       "id": "n5e47f65a44ff",
       "title": "たまにはゆる〜いAIの記事を…その2",
