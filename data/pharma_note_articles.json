@@ -1,11 +1,26 @@
 {
   "source": "https://note.com/pharma_i_cist",
   "api": "https://note.com/api/v2/creators/pharma_i_cist/contents",
-  "generatedAt": "2026-10-25T23:57:47.755375+00:00",
+  "generatedAt": "2026-10-27T01:18:15.549529+00:00",
   "startDate": "2025-03-16",
   "timezone": "Asia/Tokyo",
-  "articleCount": 480,
+  "articleCount": 481,
   "articles": [
+    {
+      "id": "nd15bb194b31d",
+      "title": "AIトランスフォーメーション（AX）とは？",
+      "url": "https://note.com/pharma_i_cist/n/nd15bb194b31d",
+      "date": "2026-10-27",
+      "category": "usage",
+      "tags": [
+        "医療",
+        "薬剤師",
+        "薬局",
+        "政府",
+        "AIリテラシー"
+      ],
+      "summary": "2026年10月21日、政府の「AX社会実装関係府省庁連絡会議」の第1回会合が開催され、その議事次第が公開されました。 今回はこの議事次第の内容について見ていきましょう。 議事次第の内容AXとは AXは「AIトランスフォーメーション」の略で、内閣官房はAXを「AIを前提として意思決定や業務の進め方を根底から見直すこと」と説明しています [2] 。 薬局のAI…"
+    },
     {
       "id": "nae35a5865f53",
       "title": "AI達は、医療倫理の問題にどのような判断をするのか？",
