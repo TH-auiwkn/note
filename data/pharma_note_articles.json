@@ -1,11 +1,27 @@
 {
   "source": "https://note.com/pharma_i_cist",
   "api": "https://note.com/api/v2/creators/pharma_i_cist/contents",
-  "generatedAt": "2026-10-27T01:18:15.549529+00:00",
+  "generatedAt": "2026-10-28T01:03:09.693738+00:00",
   "startDate": "2025-03-16",
   "timezone": "Asia/Tokyo",
-  "articleCount": 481,
+  "articleCount": 482,
   "articles": [
+    {
+      "id": "nce0182854d9b",
+      "title": "マレーシアの薬剤師の、AIに対する知識・態度およびAIの活用状況を調査したところ…",
+      "url": "https://note.com/pharma_i_cist/n/nce0182854d9b",
+      "date": "2026-10-28",
+      "category": "news",
+      "tags": [
+        "研究",
+        "薬剤師",
+        "マレーシア",
+        "論文",
+        "薬局",
+        "AIリテラシー"
+      ],
+      "summary": "元論文：Chang, C. T et al., (2026). Knowledge, attitudes, and practices of Malaysian pharmacists regarding AI adoption: Cross-sectional study. JMIR Formative Research, 10, e101650. htt…"
+    },
     {
       "id": "nd15bb194b31d",
       "title": "AIトランスフォーメーション（AX）とは？",
