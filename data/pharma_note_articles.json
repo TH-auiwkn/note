@@ -1,11 +1,29 @@
 {
   "source": "https://note.com/pharma_i_cist",
   "api": "https://note.com/api/v2/creators/pharma_i_cist/contents",
-  "generatedAt": "2026-10-28T01:03:09.693738+00:00",
+  "generatedAt": "2026-10-29T01:39:05.822232+00:00",
   "startDate": "2025-03-16",
   "timezone": "Asia/Tokyo",
-  "articleCount": 482,
+  "articleCount": 483,
   "articles": [
+    {
+      "id": "n803c66525901",
+      "title": "指示書とコードの情報が食い違った時、AIはどちらに従うのか",
+      "url": "https://note.com/pharma_i_cist/n/n803c66525901",
+      "date": "2026-10-29",
+      "category": "news",
+      "tags": [
+        "AI活用",
+        "研究",
+        "AIエージェント",
+        "薬剤師",
+        "論文",
+        "薬局",
+        "バイブコーディング",
+        "Claude"
+      ],
+      "summary": "今回の研究は、AIエージェントに古い指示書と現在のコードを与えるとどちらに従う傾向があるのか、および情報が食い違った場合の方針を1文追加すると行動がどう変わるのかを検証したものです。 研究の方法1. 用意されたPythonプロジェクト Claude CodeやCodex（CLI）では、基本的な作業の進め方やコードの書き方に関するルールをCLAUDE.mdやA…"
+    },
     {
       "id": "nce0182854d9b",
       "title": "マレーシアの薬剤師の、AIに対する知識・態度およびAIの活用状況を調査したところ…",
