@@ -1,11 +1,29 @@
 {
   "source": "https://note.com/pharma_i_cist",
   "api": "https://note.com/api/v2/creators/pharma_i_cist/contents",
-  "generatedAt": "2026-10-30T01:44:01.973295+00:00",
+  "generatedAt": "2026-10-31T01:27:52.429142+00:00",
   "startDate": "2025-03-16",
   "timezone": "Asia/Tokyo",
-  "articleCount": 484,
+  "articleCount": 485,
   "articles": [
+    {
+      "id": "n9c00ea645440",
+      "title": "AIに疾患名と医薬品の有効成分の情報を与え、推奨する製品を聞いてみると…",
+      "url": "https://note.com/pharma_i_cist/n/n9c00ea645440",
+      "date": "2026-10-31",
+      "category": "news",
+      "tags": [
+        "研究",
+        "医療",
+        "リスク",
+        "薬剤師",
+        "論文",
+        "薬",
+        "薬局",
+        "医薬品"
+      ],
+      "summary": "今回の研究は、疾患名と医薬品の有効成分の情報をAIに伝えたとき、AIがどのような製品を推奨するかを検証したものです。 研究の方法1. 模擬症例とAIへの質問 今回の検証では、いわゆる日常診療で扱われる疾患と医薬品の有効成分の組み合わせ123組に「年齢」「性別」「人種・民族」「LGBTQ+に関する属性」「所得」の1,440通りの組み合わせを掛け合わせた、「高血…"
+    },
     {
       "id": "ne30d70ccf0af",
       "title": "「AI秘書」を育ててみましょう",
