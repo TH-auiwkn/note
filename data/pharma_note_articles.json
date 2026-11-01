@@ -1,11 +1,29 @@
 {
   "source": "https://note.com/pharma_i_cist",
   "api": "https://note.com/api/v2/creators/pharma_i_cist/contents",
-  "generatedAt": "2026-10-31T01:27:52.429142+00:00",
+  "generatedAt": "2026-11-01T00:49:01.025801+00:00",
   "startDate": "2025-03-16",
   "timezone": "Asia/Tokyo",
-  "articleCount": 485,
+  "articleCount": 486,
   "articles": [
+    {
+      "id": "n03156ceb050d",
+      "title": "日本語の医療分野に特化したLLM「SIP-jmed-llm-4」とは",
+      "url": "https://note.com/pharma_i_cist/n/n03156ceb050d",
+      "date": "2026-11-01",
+      "category": "news",
+      "tags": [
+        "日本",
+        "未来",
+        "医療",
+        "AIエージェント",
+        "薬剤師",
+        "薬局",
+        "国産",
+        "LLM"
+      ],
+      "summary": "2026年10月26日、国立情報学研究所（NII）を中心とする研究チームは、日本語の医療分野に特化したLLM「SIP-jmed-llm-4」と、SIP-jmed-llm-4を中心に置いた「過去の症例から整理された知識を参照しながら、医師の鑑別診断を支援する医療AIエージェント」を構築したことを発表しました。 今回は、このSIP-jmed-llm-4と医療AI…"
+    },
     {
       "id": "n9c00ea645440",
       "title": "AIに疾患名と医薬品の有効成分の情報を与え、推奨する製品を聞いてみると…",
