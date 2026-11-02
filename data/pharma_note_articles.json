@@ -1,11 +1,29 @@
 {
   "source": "https://note.com/pharma_i_cist",
   "api": "https://note.com/api/v2/creators/pharma_i_cist/contents",
-  "generatedAt": "2026-11-01T00:49:01.025801+00:00",
+  "generatedAt": "2026-11-02T01:22:03.638770+00:00",
   "startDate": "2025-03-16",
   "timezone": "Asia/Tokyo",
-  "articleCount": 486,
+  "articleCount": 487,
   "articles": [
+    {
+      "id": "nc2641b567852",
+      "title": "たまにはゆる〜いAIの記事を…その3",
+      "url": "https://note.com/pharma_i_cist/n/nc2641b567852",
+      "date": "2026-11-02",
+      "category": "news",
+      "tags": [
+        "ChatGPT",
+        "AI活用",
+        "AIとやってみた",
+        "Gemini",
+        "画像",
+        "薬剤師",
+        "grok",
+        "ポスター"
+      ],
+      "summary": "突然ですが問題ですここに、「飲みすぎ注意」の啓発ポスターが4種類ありますね。 これらの作品は、「一切AIを使わずに作成した」もしくは「100%ChatGPTが生成した」のいずれかに該当しますが、皆さんは自力で見分けられますか？ 解答 では解答を発表します。 正解は… 作品1：100%ChatGPTが生成した 作品2：100%ChatGPTが生成した 作品3：…"
+    },
     {
       "id": "n03156ceb050d",
       "title": "日本語の医療分野に特化したLLM「SIP-jmed-llm-4」とは",
