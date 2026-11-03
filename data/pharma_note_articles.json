@@ -1,11 +1,27 @@
 {
   "source": "https://note.com/pharma_i_cist",
   "api": "https://note.com/api/v2/creators/pharma_i_cist/contents",
-  "generatedAt": "2026-11-02T01:22:03.638770+00:00",
+  "generatedAt": "2026-11-03T03:22:31.540005+00:00",
   "startDate": "2025-03-16",
   "timezone": "Asia/Tokyo",
-  "articleCount": 487,
+  "articleCount": 488,
   "articles": [
+    {
+      "id": "nb5e06df21f47",
+      "title": "AIの下書きを医師が修正すると、医療文書の作成時間と品質はどう変わる？",
+      "url": "https://note.com/pharma_i_cist/n/nb5e06df21f47",
+      "date": "2026-11-03",
+      "category": "news",
+      "tags": [
+        "研究",
+        "医療",
+        "医師",
+        "薬剤師",
+        "論文",
+        "薬局"
+      ],
+      "summary": "今回の研究は、生成AIが作成した医療文書の下書きに関して、文書の作成にかかった時間と品質を比較したものです。 研究の方法1. 参加者 参加者は、研究期間中に京都大学病院の眼科で勤務していた医師17人で、その内訳は初期研修医6人、後期研修医7人、そして指導医4人でした。 今回の研究では、上記17人の参加者は以下の2つのグループにランダムに割り当てられています。…"
+    },
     {
       "id": "nc2641b567852",
       "title": "たまにはゆる〜いAIの記事を…その3",
