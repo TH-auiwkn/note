@@ -1,11 +1,28 @@
 {
   "source": "https://note.com/pharma_i_cist",
   "api": "https://note.com/api/v2/creators/pharma_i_cist/contents",
-  "generatedAt": "2026-11-03T03:22:31.540005+00:00",
+  "generatedAt": "2026-11-04T02:00:50.934846+00:00",
   "startDate": "2025-03-16",
   "timezone": "Asia/Tokyo",
-  "articleCount": 488,
+  "articleCount": 489,
   "articles": [
+    {
+      "id": "n7117914f416f",
+      "title": "「Z世代の若者」は、薬局でのAI活用をどう受け止めるのか？",
+      "url": "https://note.com/pharma_i_cist/n/n7117914f416f",
+      "date": "2026-11-04",
+      "category": "usage",
+      "tags": [
+        "研究",
+        "医療",
+        "薬剤師",
+        "論文",
+        "Z世代",
+        "薬局",
+        "LLM"
+      ],
+      "summary": "元論文：Morrison, B., & Boyle, T. A. (2026). Gen Z perceptions of AI-supported prescription fulfillment in community pharmacy. Canadian Pharmacists Journal / Revue des Pharmaciens du C…"
+    },
     {
       "id": "nb5e06df21f47",
       "title": "AIの下書きを医師が修正すると、医療文書の作成時間と品質はどう変わる？",
