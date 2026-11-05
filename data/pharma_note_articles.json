@@ -1,11 +1,27 @@
 {
   "source": "https://note.com/pharma_i_cist",
   "api": "https://note.com/api/v2/creators/pharma_i_cist/contents",
-  "generatedAt": "2026-11-04T02:00:50.934846+00:00",
+  "generatedAt": "2026-11-05T02:03:34.014544+00:00",
   "startDate": "2025-03-16",
   "timezone": "Asia/Tokyo",
-  "articleCount": 489,
+  "articleCount": 490,
   "articles": [
+    {
+      "id": "n23b6fc9b2561",
+      "title": "Geminiで生成した一部コンテンツを、Gemini上で直接編集できるように",
+      "url": "https://note.com/pharma_i_cist/n/n23b6fc9b2561",
+      "date": "2026-11-05",
+      "category": "news",
+      "tags": [
+        "AI活用",
+        "AIとやってみた",
+        "Gemini",
+        "Google",
+        "薬剤師",
+        "薬局"
+      ],
+      "summary": "こちらは、Geminiで生成した「Googleドキュメント」「Googleスプレッドシート」「Googleスライド」「PDF」「マークダウンファイル」「テキストファイル」「コード」が、Geminiのチャット上で直接編集できるようになったという発表です。 従来も、Geminiに指示をして内容を変えてもらうことはできていましたが、今回のアップデートによって、自分…"
+    },
     {
       "id": "n7117914f416f",
       "title": "「Z世代の若者」は、薬局でのAI活用をどう受け止めるのか？",
