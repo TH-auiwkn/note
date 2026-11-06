@@ -1,11 +1,27 @@
 {
   "source": "https://note.com/pharma_i_cist",
   "api": "https://note.com/api/v2/creators/pharma_i_cist/contents",
-  "generatedAt": "2026-11-05T02:03:34.014544+00:00",
+  "generatedAt": "2026-11-06T02:05:49.233802+00:00",
   "startDate": "2025-03-16",
   "timezone": "Asia/Tokyo",
-  "articleCount": 490,
+  "articleCount": 491,
   "articles": [
+    {
+      "id": "n314e74a70f26",
+      "title": "AIエージェントたちが「新たな理論」を導き出した？",
+      "url": "https://note.com/pharma_i_cist/n/n314e74a70f26",
+      "date": "2026-11-06",
+      "category": "news",
+      "tags": [
+        "未来",
+        "研究",
+        "AIエージェント",
+        "薬剤師",
+        "論文",
+        "薬局"
+      ],
+      "summary": "今回の論文は、異なる役割が与えられた複数のAIエージェントが、研究課題を選び、新たな理論を導き、そして実際の実験装置を使って予測を検証した結果を報告したものです。 研究の方法著者らは、以下の役割を与えたAIエージェントを協働させました。 提案担当：課題の候補を考える 研究責任者担当：新規性や実現可能性を評価し、理論を発展させる 計算研究者担当：数学的な結果や…"
+    },
     {
       "id": "n23b6fc9b2561",
       "title": "Geminiで生成した一部コンテンツを、Gemini上で直接編集できるように",
