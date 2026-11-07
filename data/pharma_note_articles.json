@@ -1,11 +1,29 @@
 {
   "source": "https://note.com/pharma_i_cist",
   "api": "https://note.com/api/v2/creators/pharma_i_cist/contents",
-  "generatedAt": "2026-11-06T02:05:49.233802+00:00",
+  "generatedAt": "2026-11-07T01:43:37.272869+00:00",
   "startDate": "2025-03-16",
   "timezone": "Asia/Tokyo",
-  "articleCount": 491,
+  "articleCount": 492,
   "articles": [
+    {
+      "id": "nd87405a9d989",
+      "title": "「Images 2.6」が発表されたので、さっそくChatGPTでGIF画像を作ってみました",
+      "url": "https://note.com/pharma_i_cist/n/nd87405a9d989",
+      "date": "2026-11-07",
+      "category": "news",
+      "tags": [
+        "ChatGPT",
+        "AI活用",
+        "AIとやってみた",
+        "AI画像生成",
+        "OpenAI",
+        "画像",
+        "薬剤師",
+        "薬局"
+      ],
+      "summary": "公式発表：https://openai.com/index/introducing-images-2-6/ ChatGPTの画像生成モデル「Images 2.6」が発表され、さっそく使えるようになりましたね。 OpenAI曰く、以下のような点が改良されたとのことです。 画像生成が高速化 画像の生成速度は従来より50％速くなったそうです。 GIFによる動きの表…"
+    },
     {
       "id": "n314e74a70f26",
       "title": "AIエージェントたちが「新たな理論」を導き出した？",
