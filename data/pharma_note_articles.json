@@ -1,11 +1,29 @@
 {
   "source": "https://note.com/pharma_i_cist",
   "api": "https://note.com/api/v2/creators/pharma_i_cist/contents",
-  "generatedAt": "2026-11-07T01:43:37.272869+00:00",
+  "generatedAt": "2026-11-08T01:12:19.669092+00:00",
   "startDate": "2025-03-16",
   "timezone": "Asia/Tokyo",
-  "articleCount": 492,
+  "articleCount": 493,
   "articles": [
+    {
+      "id": "n8202c233ceef",
+      "title": "たまには私の近況を…その13",
+      "url": "https://note.com/pharma_i_cist/n/n8202c233ceef",
+      "date": "2026-11-08",
+      "category": "blog",
+      "tags": [
+        "日常",
+        "育児",
+        "生活",
+        "成長",
+        "赤ちゃん",
+        "赤ちゃんのいる生活",
+        "近況報告",
+        "醤油おじさん"
+      ],
+      "summary": "続・自転車の練習順調に上達しています 前回の近況報告で、長男が自転車の練習を始めたことをお伝えしました。 最近は私の仕事の都合があったり天気が悪かったりして、あまり頻繁に練習はできていなかったのですが、それでも練習のたびに1人で転ばずに進める距離がどんどん伸びていき、平坦な道路であればほぼ乗れるようになりました。 ただ、まだブレーキの握り方が甘いですね。ブレ…"
+    },
     {
       "id": "nd87405a9d989",
       "title": "「Images 2.6」が発表されたので、さっそくChatGPTでGIF画像を作ってみました",
