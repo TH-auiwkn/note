@@ -1,11 +1,29 @@
 {
   "source": "https://note.com/pharma_i_cist",
   "api": "https://note.com/api/v2/creators/pharma_i_cist/contents",
-  "generatedAt": "2026-11-08T01:12:19.669092+00:00",
+  "generatedAt": "2026-11-09T01:31:10.947785+00:00",
   "startDate": "2025-03-16",
   "timezone": "Asia/Tokyo",
-  "articleCount": 493,
+  "articleCount": 494,
   "articles": [
+    {
+      "id": "n0b45294d5d18",
+      "title": "「母子保健向け生成AIチャットボット」は、妊娠中および産後の方々の不安などを解消できるか",
+      "url": "https://note.com/pharma_i_cist/n/n0b45294d5d18",
+      "date": "2026-11-09",
+      "category": "news",
+      "tags": [
+        "不安",
+        "相談",
+        "研究",
+        "うつ",
+        "医療",
+        "妊娠",
+        "薬剤師",
+        "論文"
+      ],
+      "summary": "元論文：Norell, E. M et al., (2026). Generative artificial intelligence and maternal health outcomes in pregnant and postpartum individuals: A randomized clinical trial. JAMA Network O…"
+    },
     {
       "id": "n8202c233ceef",
       "title": "たまには私の近況を…その13",
