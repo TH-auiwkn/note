@@ -1,11 +1,29 @@
 {
   "source": "https://note.com/pharma_i_cist",
   "api": "https://note.com/api/v2/creators/pharma_i_cist/contents",
-  "generatedAt": "2026-11-10T04:00:02.343589+00:00",
+  "generatedAt": "2026-11-11T01:45:33.239578+00:00",
   "startDate": "2025-03-16",
   "timezone": "Asia/Tokyo",
-  "articleCount": 495,
+  "articleCount": 496,
   "articles": [
+    {
+      "id": "nefbb11afd889",
+      "title": "RAGは、常に正確・安全かつ資料に忠実な回答を生成するか",
+      "url": "https://note.com/pharma_i_cist/n/nefbb11afd889",
+      "date": "2026-11-11",
+      "category": "news",
+      "tags": [
+        "AI活用",
+        "Gemini",
+        "研究",
+        "薬剤師",
+        "論文",
+        "薬局",
+        "RAG",
+        "GeminiNotebook"
+      ],
+      "summary": "今回の研究は、炎症性腸疾患の周術期管理に関して、RAGによって回答の正確性や安全性が改善するのかを検証したものです。 RAGは簡単に言うと「質問に関連する情報を外部の資料などから検索し、その情報を踏まえて生成AIが回答を作る仕組み」ですが、今回の研究における外部の資料は「炎症性腸疾患の周術期管理に関する文献」となっています。 研究の方法1. 用意された問題と…"
+    },
     {
       "id": "n227466896971",
       "title": "Gemini Omni 1.2 Flashがリリースされたので、さっそく動画を作ってみましょう",
