@@ -1,11 +1,29 @@
 {
   "source": "https://note.com/pharma_i_cist",
   "api": "https://note.com/api/v2/creators/pharma_i_cist/contents",
-  "generatedAt": "2026-11-11T01:45:33.239578+00:00",
+  "generatedAt": "2026-11-12T02:45:49.527297+00:00",
   "startDate": "2025-03-16",
   "timezone": "Asia/Tokyo",
-  "articleCount": 496,
+  "articleCount": 497,
   "articles": [
+    {
+      "id": "n2eec16e41a91",
+      "title": "「Mac mini M4 Pro」を背負った人型フィジカルAIの性能を、覗いてみましょう",
+      "url": "https://note.com/pharma_i_cist/n/n2eec16e41a91",
+      "date": "2026-11-12",
+      "category": "news",
+      "tags": [
+        "未来",
+        "研究",
+        "薬剤師",
+        "apple",
+        "ロボット",
+        "論文",
+        "薬局",
+        "フィジカルAI"
+      ],
+      "summary": "今回の論文はAppleの研究者らによるもので、仮想空間で作成したデータを使って人型ロボットの動作を学習させることで、初めて訪れる実際の環境で動けるかを検証したものです。 研究の方法1. 仮想空間でロボットの学習データを作る 人型のロボットが実際の部屋で動くためには、周囲の状況を見ながら指示に合う場所や物を見つけ、体を動かす必要がありますが、このような動きを学…"
+    },
     {
       "id": "nefbb11afd889",
       "title": "RAGは、常に正確・安全かつ資料に忠実な回答を生成するか",
