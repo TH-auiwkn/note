@@ -1,11 +1,28 @@
 {
   "source": "https://note.com/pharma_i_cist",
   "api": "https://note.com/api/v2/creators/pharma_i_cist/contents",
-  "generatedAt": "2026-11-12T02:45:49.527297+00:00",
+  "generatedAt": "2026-11-13T02:29:13.813870+00:00",
   "startDate": "2025-03-16",
   "timezone": "Asia/Tokyo",
-  "articleCount": 497,
+  "articleCount": 498,
   "articles": [
+    {
+      "id": "nf2ea8ef045ca",
+      "title": "AIは自傷行動を見ていたのか、それとも動画の長さを見ていたのか",
+      "url": "https://note.com/pharma_i_cist/n/nf2ea8ef045ca",
+      "date": "2026-11-13",
+      "category": "news",
+      "tags": [
+        "研究",
+        "医療",
+        "薬剤師",
+        "LLM",
+        "論文",
+        "薬局",
+        "Gemini"
+      ],
+      "summary": "今回の研究は、動画から自傷行動を検出するAIの成績が何に支えられているのかを検証したものです。 研究の方法1. 用意された動画とモデル 今回の研究では、「成人7人が自傷行動を演じた動画（2,199本）」と「成人7人が通常の行動を演じた動画（2,984本）」が用意されました。 著者らはそれぞれの動画から1秒ごとに静止画を取り出し、その静止画の内容（場面）を「G…"
+    },
     {
       "id": "n2eec16e41a91",
       "title": "「Mac mini M4 Pro」を背負った人型フィジカルAIの性能を、覗いてみましょう",
