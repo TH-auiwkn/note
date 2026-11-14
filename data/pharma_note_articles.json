@@ -1,11 +1,28 @@
 {
   "source": "https://note.com/pharma_i_cist",
   "api": "https://note.com/api/v2/creators/pharma_i_cist/contents",
-  "generatedAt": "2026-11-13T02:29:13.813870+00:00",
+  "generatedAt": "2026-11-14T02:04:01.746106+00:00",
   "startDate": "2025-03-16",
   "timezone": "Asia/Tokyo",
-  "articleCount": 498,
+  "articleCount": 499,
   "articles": [
+    {
+      "id": "nf680486fff55",
+      "title": "先日発表された、Claudeの新機能を試してみましょう",
+      "url": "https://note.com/pharma_i_cist/n/nf680486fff55",
+      "date": "2026-11-14",
+      "category": "news",
+      "tags": [
+        "AI活用",
+        "AIとやってみた",
+        "Claude",
+        "薬剤師",
+        "Anthropic",
+        "機能",
+        "薬局"
+      ],
+      "summary": "こちらは、「Claude Whiteboards」「Claude Sheets」「Claude Data」の3種類の機能が公開されたという発表です。 これらは、ざっくり言うと以下のような機能となります。 Claude Sheets（β版） Claudeに指示して、タブ、数式、書式、プルダウンを含む表計算シート（Excelワークシートのようなもの）を作成・編集…"
+    },
     {
       "id": "nf2ea8ef045ca",
       "title": "AIは自傷行動を見ていたのか、それとも動画の長さを見ていたのか",
