@@ -1,11 +1,29 @@
 {
   "source": "https://note.com/pharma_i_cist",
   "api": "https://note.com/api/v2/creators/pharma_i_cist/contents",
-  "generatedAt": "2026-11-14T02:04:01.746106+00:00",
+  "generatedAt": "2026-11-15T01:36:04.596320+00:00",
   "startDate": "2025-03-16",
   "timezone": "Asia/Tokyo",
-  "articleCount": 499,
+  "articleCount": 500,
   "articles": [
+    {
+      "id": "nedcad9529b36",
+      "title": "たまにはゆる〜いAIの記事を…その4",
+      "url": "https://note.com/pharma_i_cist/n/nedcad9529b36",
+      "date": "2026-11-15",
+      "category": "usage",
+      "tags": [
+        "ChatGPT",
+        "AI活用",
+        "AIとやってみた",
+        "Gemini",
+        "画像",
+        "薬剤師",
+        "grok",
+        "魔法少女"
+      ],
+      "summary": "地の底に眠りし、地獄の業火によって鍛えられし魔剣────。 そして、かつて地獄を統治していたとされる王の鎧────。 これらが組み合わさった時、我々の住む世界に生まれるモノは──── ────そう、魔法少女だ。 え？こんなの魔法少女じゃない？おかしいですね。私の中では完璧な魔法少女なのですが。 しかしそこまでおっしゃるなら、AI達に模範解答を出してもらいまし…"
+    },
     {
       "id": "nf680486fff55",
       "title": "先日発表された、Claudeの新機能を試してみましょう",
