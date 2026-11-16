@@ -1,11 +1,27 @@
 {
   "source": "https://note.com/pharma_i_cist",
   "api": "https://note.com/api/v2/creators/pharma_i_cist/contents",
-  "generatedAt": "2026-11-15T01:36:04.596320+00:00",
+  "generatedAt": "2026-11-16T01:40:04.298726+00:00",
   "startDate": "2025-03-16",
   "timezone": "Asia/Tokyo",
-  "articleCount": 500,
+  "articleCount": 501,
   "articles": [
+    {
+      "id": "n4c8459b98392",
+      "title": "Claudeへの虐待が禁止になった？",
+      "url": "https://note.com/pharma_i_cist/n/n4c8459b98392",
+      "date": "2026-11-16",
+      "category": "news",
+      "tags": [
+        "Claude",
+        "薬剤師",
+        "Anthropic",
+        "倫理",
+        "薬局",
+        "AIリテラシー"
+      ],
+      "summary": "Anthropicは上記の通りClaudeの利用ポリシーを更新し、適用後のポリシーを2026年11月12日から適用することを発表しました。 この更新の目的は従来のルールを明確にすることだけでなく、Claudeの自律的な作業やロボットへの応用、および「AIへの虐待」に対応することも含まれています。 今回は、この「AIへの虐待」について詳しく見てみましょう。 A…"
+    },
     {
       "id": "nedcad9529b36",
       "title": "たまにはゆる〜いAIの記事を…その4",
