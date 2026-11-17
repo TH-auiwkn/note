@@ -1,11 +1,29 @@
 {
   "source": "https://note.com/pharma_i_cist",
   "api": "https://note.com/api/v2/creators/pharma_i_cist/contents",
-  "generatedAt": "2026-11-16T01:40:04.298726+00:00",
+  "generatedAt": "2026-11-17T04:22:33.891835+00:00",
   "startDate": "2025-03-16",
   "timezone": "Asia/Tokyo",
-  "articleCount": 501,
+  "articleCount": 502,
   "articles": [
+    {
+      "id": "n3595b3109c8a",
+      "title": "「AIとのショッピングで、偽サイトが表示される可能性がある」という調査報告を見てみましょう",
+      "url": "https://note.com/pharma_i_cist/n/n3595b3109c8a",
+      "date": "2026-11-17",
+      "category": "news",
+      "tags": [
+        "リスク",
+        "薬剤師",
+        "セキュリティ",
+        "薬局",
+        "調査",
+        "ショッピング",
+        "ChatGPT",
+        "Gemini"
+      ],
+      "summary": "ブランドの知的財産保護などを手がける企業「Podqi」が、AI検索に関わる企業「Gauge」のデータを使って調査したところ、ショッピングについてAIに尋ねた際に、その回答に偽サイトや使われていないサイトが表示される可能性があることが示唆されました。 今回はこの記事の内容を詳しく見ていきます。 記事によると…調査の内容 実際の調査は、以下の条件で実施されました…"
+    },
     {
       "id": "n4c8459b98392",
       "title": "Claudeへの虐待が禁止になった？",
