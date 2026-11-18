@@ -1,11 +1,28 @@
 {
   "source": "https://note.com/pharma_i_cist",
   "api": "https://note.com/api/v2/creators/pharma_i_cist/contents",
-  "generatedAt": "2026-11-17T04:22:33.891835+00:00",
+  "generatedAt": "2026-11-18T03:26:12.040012+00:00",
   "startDate": "2025-03-16",
   "timezone": "Asia/Tokyo",
-  "articleCount": 502,
+  "articleCount": 503,
   "articles": [
+    {
+      "id": "nd285c468eeb7",
+      "title": "AIの性能が徐々に低下したら、人間はそれに気づくことができるか？",
+      "url": "https://note.com/pharma_i_cist/n/nd285c468eeb7",
+      "date": "2026-11-18",
+      "category": "news",
+      "tags": [
+        "研究",
+        "医療",
+        "リスク",
+        "薬剤師",
+        "論文",
+        "薬局",
+        "AIリテラシー"
+      ],
+      "summary": "今回の研究は、心音の分類を支援するAIの性能が低下したとき、参加者がその異常に気づき、誤った判断を修正できるかを検証したものです。 実験には、医学部最終学年の学生を含む48人が参加しました。実際の診療ではなく、録音された心音を使った模擬的な課題です。 研究の方法今回の研究には、医学部最終学年の学生を含む48人が参加しました。 著者らは参加者を以下の2つのグル…"
+    },
     {
       "id": "n3595b3109c8a",
       "title": "「AIとのショッピングで、偽サイトが表示される可能性がある」という調査報告を見てみましょう",
