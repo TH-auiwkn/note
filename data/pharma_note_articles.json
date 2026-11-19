@@ -1,11 +1,28 @@
 {
   "source": "https://note.com/pharma_i_cist",
   "api": "https://note.com/api/v2/creators/pharma_i_cist/contents",
-  "generatedAt": "2026-11-18T03:26:12.040012+00:00",
+  "generatedAt": "2026-11-19T02:59:51.464475+00:00",
   "startDate": "2025-03-16",
   "timezone": "Asia/Tokyo",
-  "articleCount": 503,
+  "articleCount": 504,
   "articles": [
+    {
+      "id": "nf82c84beb870",
+      "title": "AIエージェントが代わりに決済する「ChatGPT Wallet」とは？",
+      "url": "https://note.com/pharma_i_cist/n/nf82c84beb870",
+      "date": "2026-11-19",
+      "category": "news",
+      "tags": [
+        "ChatGPT",
+        "AIエージェント",
+        "リスク",
+        "OpenAI",
+        "薬剤師",
+        "薬局",
+        "決済"
+      ],
+      "summary": "公式発表：https://openai.com/ja-JP/index/introducing-chatgpt-wallet/ 2026年11月13日、OpenAIはAIエージェントに買い物の決済を任せるための仕組み「ChatGPT Wallet」を発表しました。 発表時点では、アメリカ在住の18歳以上のChatGPT Proプランユーザーを対象に、dots…"
+    },
     {
       "id": "nd285c468eeb7",
       "title": "AIの性能が徐々に低下したら、人間はそれに気づくことができるか？",
