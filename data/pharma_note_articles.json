@@ -1,11 +1,29 @@
 {
   "source": "https://note.com/pharma_i_cist",
   "api": "https://note.com/api/v2/creators/pharma_i_cist/contents",
-  "generatedAt": "2026-11-19T02:59:51.464475+00:00",
+  "generatedAt": "2026-11-20T02:53:33.809945+00:00",
   "startDate": "2025-03-16",
   "timezone": "Asia/Tokyo",
-  "articleCount": 504,
+  "articleCount": 505,
   "articles": [
+    {
+      "id": "n27b074f1054b",
+      "title": "写真を撮影した場所が、AIに特定されてしまう？",
+      "url": "https://note.com/pharma_i_cist/n/n27b074f1054b",
+      "date": "2026-11-20",
+      "category": "security",
+      "tags": [
+        "写真",
+        "研究",
+        "リスク",
+        "薬剤師",
+        "論文",
+        "薬局",
+        "AIリテラシー",
+        "特定"
+      ],
+      "summary": "今回の研究は、AIが写真から撮影された場所を推定できてしまうリスクと、画像の一部を編集することでそのリスクを低減できるかを検証したものです。 研究の方法1. 写真のデータセット 著者らは、撮影地点の緯度・経度が分かる屋外写真525枚を用意しました。 内訳は、世界各地の「自然の風景（145枚）」「都市（135枚）」「住宅地（150枚）」「人物を中心とした場面（…"
+    },
     {
       "id": "nf82c84beb870",
       "title": "AIエージェントが代わりに決済する「ChatGPT Wallet」とは？",
