@@ -1,11 +1,29 @@
 {
   "source": "https://note.com/pharma_i_cist",
   "api": "https://note.com/api/v2/creators/pharma_i_cist/contents",
-  "generatedAt": "2026-11-20T02:53:33.809945+00:00",
+  "generatedAt": "2026-11-21T03:02:00.401231+00:00",
   "startDate": "2025-03-16",
   "timezone": "Asia/Tokyo",
-  "articleCount": 505,
+  "articleCount": 506,
   "articles": [
+    {
+      "id": "nd97f9c19fa7e",
+      "title": "ChatGPT上で処方を作成できる時代がやってくる？",
+      "url": "https://note.com/pharma_i_cist/n/nd97f9c19fa7e",
+      "date": "2026-11-21",
+      "category": "news",
+      "tags": [
+        "ChatGPT",
+        "未来",
+        "アメリカ",
+        "医療",
+        "OpenAI",
+        "薬剤師",
+        "薬",
+        "薬局"
+      ],
+      "summary": "こちらは、アメリカの電子処方サービス「Photon Health」が、医療従事者向けの「ChatGPT for Clinicians」と医療機関向けの「ChatGPT for Healthcare」上で処方を下書きし、確認・署名して送信できるプラグインを発表したという記事になっています。 今回はこの記事の内容から、このプラグインが一体何者なのかを見ていきます…"
+    },
     {
       "id": "n27b074f1054b",
       "title": "写真を撮影した場所が、AIに特定されてしまう？",
