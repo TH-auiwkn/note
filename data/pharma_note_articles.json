@@ -1,11 +1,29 @@
 {
   "source": "https://note.com/pharma_i_cist",
   "api": "https://note.com/api/v2/creators/pharma_i_cist/contents",
-  "generatedAt": "2026-11-21T03:02:00.401231+00:00",
+  "generatedAt": "2026-11-22T01:58:35.630270+00:00",
   "startDate": "2025-03-16",
   "timezone": "Asia/Tokyo",
-  "articleCount": 506,
+  "articleCount": 507,
   "articles": [
+    {
+      "id": "n55c8039e1185",
+      "title": "たまには私の近況を…その14",
+      "url": "https://note.com/pharma_i_cist/n/n55c8039e1185",
+      "date": "2026-11-22",
+      "category": "blog",
+      "tags": [
+        "日常",
+        "育児",
+        "生活",
+        "成長",
+        "赤ちゃん",
+        "赤ちゃんのいる生活",
+        "近況報告",
+        "醤油おじさん"
+      ],
+      "summary": "運動会先日、長男にとって幼稚園（保育園）生活最後の運動会が開催されました。 ちょっと天気が怪しかったですが、大雨になることもなく全てのプログラムが無事に終了したので、親としては一安心でした。 そして私は、長男がちゃんとダンスを踊っていたことに感動しました。 今までの運動会のダンスは「覚えているところだけは確実に踊るスタイル」でしたが、今回のダンスは曖昧なとこ…"
+    },
     {
       "id": "nd97f9c19fa7e",
       "title": "ChatGPT上で処方を作成できる時代がやってくる？",
