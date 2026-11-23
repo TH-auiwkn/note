@@ -1,11 +1,29 @@
 {
   "source": "https://note.com/pharma_i_cist",
   "api": "https://note.com/api/v2/creators/pharma_i_cist/contents",
-  "generatedAt": "2026-11-22T01:58:35.630270+00:00",
+  "generatedAt": "2026-11-23T02:23:58.725937+00:00",
   "startDate": "2025-03-16",
   "timezone": "Asia/Tokyo",
-  "articleCount": 507,
+  "articleCount": 508,
   "articles": [
+    {
+      "id": "n8dfad1911f60",
+      "title": "たまにはゆる〜いAIの記事を…その5",
+      "url": "https://note.com/pharma_i_cist/n/n8dfad1911f60",
+      "date": "2026-11-23",
+      "category": "blog",
+      "tags": [
+        "ChatGPT",
+        "AI活用",
+        "AIとやってみた",
+        "Gemini",
+        "Claude",
+        "画像",
+        "薬剤師",
+        "grok"
+      ],
+      "summary": "突然ですが、「マジカル☆しょうゆ戦士」の公式サイトらしきものを公開いたしました。 この公式サイトの作成にあたってClaude Fable 5.2の力を借りたのですが、公式サイトの骨組みやデザインは、マジカル☆しょうゆ戦士の画像と前回公開した「活躍の様子」の画像をFable 5.2に与えて、「公式サイトを作ってください」とお願いしただけで完成しました。すごいで…"
+    },
     {
       "id": "n55c8039e1185",
       "title": "たまには私の近況を…その14",
