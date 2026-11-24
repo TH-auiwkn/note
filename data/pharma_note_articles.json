@@ -1,11 +1,28 @@
 {
   "source": "https://note.com/pharma_i_cist",
   "api": "https://note.com/api/v2/creators/pharma_i_cist/contents",
-  "generatedAt": "2026-11-23T02:23:58.725937+00:00",
+  "generatedAt": "2026-11-24T05:47:22.471122+00:00",
   "startDate": "2025-03-16",
   "timezone": "Asia/Tokyo",
-  "articleCount": 508,
+  "articleCount": 509,
   "articles": [
+    {
+      "id": "ndd2d6a9f5282",
+      "title": "心の不調を抱える人は、どのくらい生成AIに悩みを相談しているのか",
+      "url": "https://note.com/pharma_i_cist/n/ndd2d6a9f5282",
+      "date": "2026-11-24",
+      "category": "news",
+      "tags": [
+        "相談",
+        "精神疾患",
+        "研究",
+        "医療",
+        "薬剤師",
+        "論文",
+        "薬局"
+      ],
+      "summary": "元論文：Koda, M et al., (2026). Mental health needs and emotional-support artificial intelligence use. JAMA Network Open, 9(11), e2644315. https://jamanetwork.com/journals/jamanetworko…"
+    },
     {
       "id": "n8dfad1911f60",
       "title": "たまにはゆる〜いAIの記事を…その5",
