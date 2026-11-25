@@ -1,11 +1,29 @@
 {
   "source": "https://note.com/pharma_i_cist",
   "api": "https://note.com/api/v2/creators/pharma_i_cist/contents",
-  "generatedAt": "2026-11-24T05:47:22.471122+00:00",
+  "generatedAt": "2026-11-25T04:49:33.600813+00:00",
   "startDate": "2025-03-16",
   "timezone": "Asia/Tokyo",
-  "articleCount": 509,
+  "articleCount": 510,
   "articles": [
+    {
+      "id": "nc5b13b0e4851",
+      "title": "子どもの話、保護者の話、医師からの情報…AIに渡す情報によって、診断の候補はどう変わる？",
+      "url": "https://note.com/pharma_i_cist/n/nc5b13b0e4851",
+      "date": "2026-11-25",
+      "category": "news",
+      "tags": [
+        "心",
+        "子ども",
+        "研究",
+        "医療",
+        "リスク",
+        "薬剤師",
+        "論文",
+        "精神"
+      ],
+      "summary": "今回の研究は、トルコの児童精神科外来を受診した220人に関する「子ども本人の話」「保護者の話」「医師の所見」を色々な組み合わせでAIに渡し、AIの診断の内容がどのように変化するかを比較したものです。 研究の方法1. 参加者 今回の研究の参加者は、2026年4月から7月にかけてトルコの大学病院（2施設）の児童・思春期精神科外来を初めて受診した、1〜17歳の子ど…"
+    },
     {
       "id": "ndd2d6a9f5282",
       "title": "心の不調を抱える人は、どのくらい生成AIに悩みを相談しているのか",
