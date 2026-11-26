@@ -1,11 +1,27 @@
 {
   "source": "https://note.com/pharma_i_cist",
   "api": "https://note.com/api/v2/creators/pharma_i_cist/contents",
-  "generatedAt": "2026-11-25T04:49:33.600813+00:00",
+  "generatedAt": "2026-11-26T04:01:40.769118+00:00",
   "startDate": "2025-03-16",
   "timezone": "Asia/Tokyo",
-  "articleCount": 510,
+  "articleCount": 511,
   "articles": [
+    {
+      "id": "n71b50981aed2",
+      "title": "提示された写真だけで「肥満症の薬」を処方するのは…",
+      "url": "https://note.com/pharma_i_cist/n/n71b50981aed2",
+      "date": "2026-11-26",
+      "category": "news",
+      "tags": [
+        "医療",
+        "リスク",
+        "イギリス",
+        "薬剤師",
+        "薬局",
+        "英国"
+      ],
+      "summary": "こちらの記事を執筆した標準体重の記者が、AIで加工した写真を提出することで、英国のオンライン薬局からWegovy（ウゴービ）錠を受け取れたと報告しています。 記事によると3社に申し込み、2社がウゴービ錠を発送した 記者は、体格が大きく見えるようにAIで加工した自分の写真を使い、オンライン薬局3社にウゴービ錠の処方を申し込みました。3社とも問診票で記者に対して…"
+    },
     {
       "id": "nc5b13b0e4851",
       "title": "子どもの話、保護者の話、医師からの情報…AIに渡す情報によって、診断の候補はどう変わる？",
