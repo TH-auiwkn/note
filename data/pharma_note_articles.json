@@ -1,11 +1,28 @@
 {
   "source": "https://note.com/pharma_i_cist",
   "api": "https://note.com/api/v2/creators/pharma_i_cist/contents",
-  "generatedAt": "2026-11-27T03:59:33.935839+00:00",
+  "generatedAt": "2026-11-28T03:47:15.564773+00:00",
   "startDate": "2025-03-16",
   "timezone": "Asia/Tokyo",
-  "articleCount": 512,
+  "articleCount": 513,
   "articles": [
+    {
+      "id": "n1c49011cabe0",
+      "title": "なぜ人は、身近な人に話しづらい悩みをAIに打ち明けるのか",
+      "url": "https://note.com/pharma_i_cist/n/n1c49011cabe0",
+      "date": "2026-11-28",
+      "category": "news",
+      "tags": [
+        "メンタルヘルス",
+        "心",
+        "相談",
+        "研究",
+        "薬剤師",
+        "論文",
+        "薬局"
+      ],
+      "summary": "今回の研究は、心の不調を持つ人が何故AIに気持ちを打ち明けるのか、そしてどのような回答を「ありがたい」あるいは「困る」と感じたのかを調査したものです。 研究の方法1. Redditの書き込みの整理 著者らは、オンライン掲示板Redditから心の不調やAIに関する投稿（約334万件）を抽出し、その中の230件の投稿を対象に調査を行いました。 著者らは実際に投稿…"
+    },
     {
       "id": "n899bdbdba569",
       "title": "文章を読んだAIは、その書き手をどこまで推測できるのか",
